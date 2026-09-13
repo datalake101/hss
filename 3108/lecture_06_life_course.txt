@@ -1,0 +1,224 @@
+SLIDE 1: [COVER] Life Course Approaches in Health Promotion
+TITLE: Life Course Approaches in Health Promotion
+- Course: Health Promotion and Disease Prevention
+- Lecture 6
+- "The seeds of adult disease are sown in the cradle."
+- Attribution: (course epigraph)
+
+SLIDE 2: [AGENDA] What We Cover Today
+TITLE: What We Cover Today
+- Part 1: What life course epidemiology is and why it challenges conventional health promotion timing
+- Part 2: Three conceptual models: critical periods, accumulation of risk, and chains of risk
+- Part 3: The Barker Hypothesis and the developmental origins of adult disease
+- Part 4: Glen Elder's sociological complement: linked lives, timing, and human agency
+- Part 5: What this means for where health promotion resources should go
+- The thread: a single lecture ago, we learned how to plan a health promotion program. Now we learn that the most powerful moment to intervene may have already passed by the time anyone arrives at a clinic.
+
+SLIDE 3: [QUOTE] When the Damage Was Done
+TITLE: When the Damage Was Done
+Quote: "The fetus and infant respond to an adverse environment by permanently altering their physiology and metabolism."
+Attribution: David J.P. Barker, Lancet, 1989
+
+SLIDE 4: What Is Life Course Epidemiology?
+- Definition: Ben-Shlomo and Kuh (2002) define life course epidemiology as the study of long-term effects on adult chronic disease risk of physical or social exposures during gestation, childhood, adolescence, young adulthood, and later adult life.
+- The Departure from Conventional Risk Factor Epidemiology: standard risk factor research asks "what are this adult's current risk factors?" Life course epidemiology asks "what happened to this person at every prior stage of development, and how did those experiences compound to produce the risk level we measure today?"
+- The Timeframe: life course approaches operate on a timescale of decades, sometimes across generations. The exposure that matters for cardiovascular disease at age 60 may have occurred at conception.
+- The Practical Challenge: if you are treating a 55-year-old for hypertension, the most important health promotion window for that person's cardiovascular system closed 50 years ago. What do you do with that fact?
+- Exam Focus: know Ben-Shlomo and Kuh (2002) as the canonical reference, know the definition, and be able to explain how life course epidemiology differs from conventional adult risk factor research.
+
+SLIDE 5: Conceptual Model 1: Critical and Sensitive Periods
+- Definition: a critical period is a specific, time-limited window during development when an exposure has an outsized and largely irreversible effect on biological structure, function, or behavioral trajectory. Missing the window means the effect cannot be fully reproduced by the same exposure at any other time.
+- The Classic Example: early visual experience in human infants. If a child is born with a cataract in one eye and it is not corrected within a specific developmental window, normal visual cortex organization for that eye does not develop fully, regardless of when the cataract is later removed. The window was biological, not social.
+- Sensitive Periods: a related concept. Not every window is binary. Some periods represent heightened vulnerability or opportunity that gradually attenuates rather than closes sharply. Early childhood language acquisition is a sensitive period, not a hard cutoff.
+- Health Promotion Implications: prenatal nutrition, exposure to stress hormones in utero, and birth weight are not simply background variables. They are determinants of adult cardiovascular, metabolic, and neurocognitive health. The "intervention" during a critical period may be maternal nutrition, stress reduction during pregnancy, or early childhood food security.
+- Exam Focus: distinguish critical periods (irreversible, time-limited) from sensitive periods (heightened opportunity, gradually attenuating), and give one health example of each.
+
+SLIDE 6: Conceptual Model 2: Accumulation of Risk
+- Definition: small insults, individually insufficient to cause disease, compound over time. No single exposure is the cause. The cumulative burden of repeated exposures across the life course is.
+- The River Parable, Updated: imagine a river with a small leak at the dam. One leak does not burst the dam. Ten leaks maintained over thirty years do. Risk accumulation is not episodic; it is the slow, continuous work of multiple modest hazards added together across decades.
+- Examples: childhood poverty does not cause heart disease directly. But poverty increases the probability of poor nutrition, high stress, exposure to environmental toxins, limited healthcare access, leaving school early, unstable employment, and poor adult housing. Each of those increases biological risk modestly. Together, compounded over four decades, they produce the social gradient in adult cardiovascular mortality.
+- The Score Model: some researchers conceptualize accumulation of risk as a "risk score" that accumulates throughout life. Each disadvantageous exposure adds points. The body keeps the score.
+- Health Promotion Implications: interventions that reduce risk at any life stage contribute to reducing the accumulated total, even if they do not eliminate risk. Prevention at every stage matters, even if it cannot undo what preceded it.
+- Exam Focus: explain the accumulation of risk model, distinguish it from the critical periods model, and describe a realistic pathway from early disadvantage to adult disease risk.
+
+SLIDE 7: Conceptual Model 3: Chains of Risk
+- Definition: one disadvantage increases the probability of the next disadvantage, which increases the probability of the one after that. Risk does not simply accumulate as independent events; it propagates through linked pathways, each exposure making the next more likely.
+- The Domino Logic: childhood exposure to household adversity increases the probability of school disengagement; school disengagement increases the probability of early labor market exit; precarious employment increases financial stress; chronic financial stress increases allostatic load; elevated allostatic load increases cardiovascular and metabolic disease risk. Pull the first domino and you set the sequence in motion.
+- The Chain vs. the Pile: accumulation says risk events pile up independently, like sandbags stacked. Chains of risk say each event makes the next one more probable, like dominoes that knock each other over. Both operate simultaneously in real lives.
+- A Chain With a Kink: not all chains are deterministic. Protective factors, a stable attachment figure, a good school, a supportive peer, a community resource, can interrupt the chain. This is where life course science meets health promotion intervention.
+- Exam Focus: explain how chains of risk differ from accumulation of risk and identify a point in a given chain where a health promotion intervention could plausibly interrupt the sequence.
+
+SLIDE 8: The Barker Hypothesis: Fetal Origins of Adult Disease
+- David Barker and colleagues at the Medical Research Council Environmental Epidemiology Unit, University of Southampton, analyzed birth and death records for 5,654 men born in Hertfordshire, England between 1911 and 1930. Birth weight had been recorded.
+- Key Finding (Barker et al., 1989): low birth weight was significantly associated with death from ischaemic heart disease in adult life. Men who had weighed the least at birth and at one year had the highest rates of cardiovascular mortality decades later.
+- The Mechanism Proposed: poor intrauterine nutrition causes the fetus to permanently reset metabolic and cardiovascular physiology to survive in a nutrient-scarce environment. When that person subsequently lives in a calorie-rich, sedentary adult world, the mismatch produces disease.
+- Fetal Programming: the fetus adapts its physiology to the conditions it perceives in the womb. Those adaptations are permanent alterations to structure and function, not temporary compensations.
+- The Developmental Origins of Health and Disease (DOHaD): Barker's work became the foundation for the broader DOHaD field, which now encompasses maternal stress, endocrine disruption, epigenetic modification, and transgenerational transmission of risk.
+- Critical Flaw: early Barker research was observational and the specific mechanisms proposed were contested. Later research has refined but also complicated the original hypothesis, particularly around the role of postnatal catch-up growth. The core finding of early-life programming of adult risk is well-supported; the precise mechanism remains an active research area.
+- Exam Focus: know the Barker hypothesis, its empirical basis (the Hertfordshire cohort), and the concept of fetal programming. Be able to describe one critical limitation.
+
+SLIDE 9: Glen Elder: The Sociological Complement
+- The Missing Dimension in Barker: biological programming explains how early exposures alter physiological development. But lives are also shaped by historical events, social structures, and the meanings people make of their circumstances. Glen Elder brought that dimension into life course analysis.
+- Glen Elder's Principles (developed across work from the 1970s-1990s):
+- Linked Lives: individual development is embedded in and shaped by the lives of others. Parents' life circumstances shape children's; children's trajectories are linked to their communities. No life course is individually determined.
+- Timing of Lives: the same event has different effects depending on when in the life course it occurs. Unemployment at 25 and unemployment at 55 are not the same experience biologically, socially, or psychologically.
+- Human Agency: individuals are not passive recipients of social forces. They make choices, interpret their circumstances, and actively shape their own trajectories, but always within structural constraints they did not choose.
+- Historical Time and Place: lives are embedded in specific historical moments. Children who grew up during the Great Depression (Elder's foundational study, Children of the Great Depression, 1974) developed different health behaviors and social patterns than those who grew up in postwar prosperity.
+- The Synthesis: Elder's principles remind us that life course health is not only biological programming. It is also the product of social timing, historical context, and the always-constrained but real agency of the people living those lives.
+
+SLIDE 10: [PUZZLE] Food for Thought
+TITLE: Food for Thought
+Sit with these before we continue:
+- If a person's cardiovascular risk at age 55 was partly set by their birth weight, which was partly determined by their mother's nutrition during pregnancy, which was partly determined by household income, what exactly survives of the "lifestyle choice" rhetoric that dominates adult health promotion messaging?
+- Life course science says the most powerful moment to intervene was often decades before the disease appears. So why does virtually all health spending in high-income countries concentrate on the treatment of established disease in adults? Is this a knowledge problem, a political economy problem, or something else?
+- The chains of risk model says one disadvantage makes the next more likely. But Elder says human agency can interrupt a chain. How do you build a health promotion program around both of those truths simultaneously, without either erasing agency or blaming people for their chains?
+
+SLIDE 11: Epigenetics: The Biological Bridge
+- The Mechanism Question: how does an experience in early life change biology that persists decades later? The answer that has emerged since the 1990s is epigenetic modification.
+- Epigenetics: changes in gene expression that do not alter the DNA sequence itself but affect whether genes are switched on or off. Certain early-life exposures (maternal stress hormones, nutritional deficiencies, environmental toxins) produce methylation patterns on DNA and histone modifications that persist into adult cells and can in some cases be transmitted to the next generation.
+- The Implication: early adversity does not just change behavior. It changes the biology through which subsequent experiences are processed. A child who experiences chronic early stress may have a permanently more reactive HPA axis, producing elevated cortisol responses to stressors throughout life, increasing cardiovascular and metabolic disease risk.
+- The Nuance: epigenetic marks are not destiny. Some are reversible. Early interventions (stable caregiving, improved nutrition, stress reduction) can modify epigenetic patterns even after adverse early exposures. This is the biological mechanism underlying the finding that high-quality early childhood programs produce lifelong health returns.
+- Exam Focus: understand epigenetics as the proposed biological mechanism linking early-life exposure to adult disease risk, without overstating its determinism.
+
+SLIDE 12: What Life Course Thinking Does to Primordial Prevention
+- Recall from Lecture 1: primordial prevention targets the social and environmental conditions that produce risk factors before those risk factors are established. It is the earliest possible intervention.
+- Life Course Science Validates and Deepens This: if cardiovascular risk is partly set in utero and in early childhood, then primordial prevention in the health promotion sense must extend to prenatal care, maternal nutrition, early childhood food security, and the reduction of chronic stress in pregnant women.
+- The Policy Implication: the most cost-effective cardiovascular health promotion intervention for the next generation may not be an adult clinic. It may be guaranteed adequate prenatal nutrition, paid parental leave, publicly funded early childhood education, and income support for families with young children.
+- The James Heckman Argument: Nobel laureate economist James Heckman has argued from economic data that investment in high-quality early childhood programs produces returns of 7-12% per year in lifetime health, productivity, and reduced criminality. Life course epidemiology provides the health mechanism for that economic argument.
+- Exam Focus: connect life course epidemiology to primordial prevention from Lecture 1, and articulate the policy implications for where health promotion resources should be concentrated.
+
+SLIDE 13: [CHART] The Life Course Timeline
+TITLE: The Life Course Timeline
+Chart type: horizontal life course timeline with annotated exposure-outcome pathways
+Timeline runs left to right across: Prenatal, Infancy (0-2), Early Childhood (3-5), Middle Childhood (6-12), Adolescence (13-18), Young Adulthood (19-30), Midlife (31-55), Older Adulthood (56+)
+
+Annotated pathways (illustrative):
+- Prenatal window: Maternal undernutrition leads to reduced birth weight leads to programmed metabolic and cardiovascular physiology (Barker, 1989). Marked as CRITICAL PERIOD.
+- Infancy (0-2): Early attachment security shapes HPA axis reactivity; chronic early stress elevates cortisol baseline. Marked as SENSITIVE PERIOD.
+- Early Childhood (3-5): Poverty and food insecurity begin accumulation of nutritional risk and cognitive disadvantage. Marked as ACCUMULATION OF RISK.
+- Adolescence: School disengagement begins chain of risk toward precarious employment and chronic adult stress. Marked as CHAIN OF RISK.
+- Young Adulthood: Risk behaviors (tobacco, excess alcohol) established, compounding earlier biological risk. ACCUMULATION.
+- Midlife: Established cardiovascular, metabolic, and mental health conditions become clinically measurable. OUTCOME.
+- Health promotion intervention markers: arrows pointing downward at prenatal (maternal nutrition support), early childhood (ECD programs), adolescence (school retention interventions), showing where intervention intersects each model.
+Source: Illustrative, based on Ben-Shlomo and Kuh (2002) conceptual models.
+
+SLIDE 14: [ABSTRACT] Ben-Shlomo and Kuh (2002): A Life Course Approach
+TITLE: Ben-Shlomo and Kuh (2002): A Life Course Approach
+Citation: Ben-Shlomo, Y., and Kuh, D. (2002). A life course approach to chronic disease epidemiology: conceptual models, empirical challenges and interdisciplinary perspectives. International Journal of Epidemiology, 31(2), 285-293.
+Finding: Ben-Shlomo and Kuh articulated the three foundational conceptual models of life course epidemiology: the critical periods model (discrete time-limited windows of irreversible biological programming), the accumulation of risk model (independent risk exposures summing across the lifespan), and the chains of risk model (sequentially linked disadvantages where each exposure increases the probability of the next). They reviewed the empirical evidence for each model across several chronic disease outcomes, identified the methodological challenges of testing life course hypotheses in observational data, and argued for interdisciplinary collaboration between epidemiology, developmental biology, and the social sciences.
+Relevance: This is the canonical conceptual statement of life course epidemiology and the primary reference for the three models taught in this lecture. It is essential reading for understanding how the field distinguishes between different causal pathways from early exposure to adult disease.
+[Insert screenshot of the abstract here]
+
+SLIDE 15: The Life Course Approach and Health Equity
+- Not a Random Distribution: the timing and severity of life course risk exposures are not randomly distributed across populations. They are socially patterned along lines of income, race, gender, and geography. This means that life course disadvantage is, to a significant degree, socially produced and therefore potentially remediable through policy.
+- Adverse Childhood Experiences (ACEs): the landmark Kaiser-CDC study (Felitti et al., 1998) documented strong dose-response relationships between the number of adverse childhood experiences (abuse, neglect, household dysfunction) and a wide range of adult physical and mental health outcomes. The relationship was graded, cumulative, and present even after controlling for adult health behaviors.
+- The Inequity Argument: if low-income children experience more adverse childhood exposures, more food insecurity, more household instability, more exposure to environmental toxins, and less access to early childhood education, then adult health inequities are not primarily the result of adult choices. They are the downstream consequences of inequitably distributed early-life risk.
+- The Political Tension: this argument is powerful and well-evidenced, and it is also politically contested because it locates the cause of health inequality in social structure rather than individual behavior. Health promotion practitioners need to be able to make and defend this argument with evidence.
+- Exam Focus: connect life course risk accumulation to health inequity, and articulate the policy argument that follows from that connection.
+
+SLIDE 16: Protective Factors and Resilience in the Life Course
+- The Chain Can Be Broken: the domino model of chains of risk does not mean outcomes are predetermined. Evidence consistently shows that protective factors at any life stage can interrupt a chain and redirect a developmental trajectory.
+- Key Protective Factors: secure early attachment; a stable, responsive adult caregiver; high-quality early childhood education; a supportive school environment; social connectedness in adolescence; economic security in young adulthood; meaningful work with adequate control.
+- The Policy Translation: protective factors are not randomly distributed either. They are more available in communities with stronger social infrastructure, more generous family policy, higher-quality schools, and better income support. Building protective factors at population scale requires structural investment, not individual programming alone.
+- Resilience Is Not a Character Trait: framing resilience as a quality that some children "have" and others lack depoliticizes what is, at its root, a question of which communities receive the resources needed to support protective factors for all children.
+- Exam Focus: identify at least three evidence-based protective factors that can interrupt a chain of risk, and explain why framing resilience as an individual trait rather than a structural resource is analytically problematic.
+
+SLIDE 17: [PUZZLE] Puzzling Questions
+TITLE: Puzzling Questions
+Harder questions:
+- Chains of risk say one early disadvantage makes the next more likely, often through social mechanisms (school disengagement, precarious work) as much as biological ones. If that is true, does primary responsibility for adult health promotion belong with health departments, or with housing ministries, school boards, and labor regulators?
+- If we accept the life course model fully, the language of "personal responsibility" for adult health behavior looks increasingly like victim-blaming for the downstream consequences of inequitably distributed early disadvantage. Does the life course model make personal responsibility language intellectually incoherent, or just incomplete?
+- Elder says human agency can interrupt a chain of risk. But he also says agency operates within structural constraints people did not choose. How do you build a health promotion program that takes both seriously without either ignoring structure or denying agency?
+- The ACEs research shows that childhood adversity predicts adult disease with a clear dose-response relationship. Does that finding argue for universal preventive investment in all children, or targeted intensive investment in high-ACE children? What are the equity implications of each choice?
+
+SLIDE 18: Applications to Health Promotion Practice
+- Prenatal and Perinatal Programs: home visiting programs for at-risk mothers (e.g., the Nurse-Family Partnership model), supplemental nutrition during pregnancy, and prenatal stress reduction programs all target the critical windows identified by Barker and the DOHaD literature. The evidence for their long-term effectiveness is stronger than for most adult-focused programs.
+- Early Childhood Development: publicly funded high-quality early childhood education and care, particularly for socioeconomically disadvantaged children, is one of the best-evidenced health promotion investments in the literature. Its returns are measured in decades.
+- Adolescent Health: the chain of risk model argues that school retention, mental health support, and substance use prevention in adolescence are not merely educational interventions. They are cardiovascular, metabolic, and mental health interventions that will not show their full effects for 30-40 years.
+- Adult Programs in Life Course Context: even if the most powerful intervention window has passed, adult programs still matter. They reduce the rate of further accumulation. They may modify epigenetic expression. And they serve the person who is here now, regardless of what happened before.
+- The Practical Tension: funders want short-term outcomes. Life course effects take decades to measure. The result is chronic underinvestment in early-life programs that would produce the largest long-term returns, and chronic overinvestment in adult disease management that addresses the downstream consequences of inadequate upstream investment.
+
+SLIDE 19: Halfon and Hochstein: The Life Course Health Development Framework
+- Halfon, N., and Hochstein, M. (2002). Life Course Health Development: An Integrated Framework for Developing Health, Policy, and Research. Milbank Quarterly, 80(3), 433-479.
+- Extension of the Life Course Model: where Ben-Shlomo and Kuh focused on life course epidemiology as an explanatory tool for understanding chronic disease, Halfon and Hochstein developed the Life Course Health Development (LCHD) framework as an integrated guide for health policy and service design.
+- Key Principles of LCHD:
+- Health develops across the life course through the interaction of biological and environmental factors; it is not fixed at birth or at adulthood.
+- Health trajectories are shaped by developmental timing: the same exposure has different effects at different life stages.
+- Health development is cumulative: positive or negative, early experiences condition the responsiveness of biological systems to subsequent experiences.
+- Health is a capacity: the goal of health promotion is to build health potential across the life course, not only to prevent specific diseases.
+- Policy Implication: health policy should be organized around developmental stages and transition points, not around disease categories or organ systems.
+- Exam Focus: know Halfon and Hochstein (2002) as the policy-oriented complement to Ben-Shlomo and Kuh's epidemiological framing, and be able to contrast the two frameworks.
+
+SLIDE 20: Synthesis: Rethinking When Health Promotion Happens
+- The Dominant Paradigm: health promotion as traditionally practiced focuses on adult individuals: smoking cessation clinics, cardiac rehabilitation programs, weight management counseling. These are valuable but arrive late.
+- The Life Course Challenge: if the biological substrate for adult chronic disease is partly established in utero, in infancy, and in early childhood, then the dominant paradigm is, by its timing alone, addressing the middle and late chapters of a story whose critical early chapters were already written.
+- The Two-Level Response: this does not mean abandoning adult health promotion. It means simultaneously investing at early life stages, where biological returns are greatest and often irreversible, while continuing to provide the best possible adult services for those whose early-life chapters were already written under adverse conditions.
+- Health Equity Reframed: health equity cannot be achieved only by improving adult health services. It requires narrowing the early-life exposure gap between advantaged and disadvantaged children. Life course epidemiology provides the scientific basis for that claim.
+- The Practitioner's Position: understanding life course science changes what you advocate for as a health promotion practitioner, not only what programs you design.
+
+SLIDE 21: Glossary
+- Life Course Epidemiology (Ben-Shlomo and Kuh, 2002): the study of long-term effects on adult chronic disease risk of physical or social exposures during gestation, childhood, adolescence, and young adulthood.
+- Critical Period: a time-limited developmental window during which a specific exposure has an outsized, largely irreversible effect on biological structure or function.
+- Sensitive Period: a developmental window of heightened opportunity or vulnerability that attenuates gradually rather than closing sharply.
+- Accumulation of Risk: the compounding of multiple independent, individually modest risk exposures over the life course to produce elevated disease risk.
+- Chains of Risk: sequential linked disadvantages where each exposure increases the probability of the next, propagating risk forward through the life course.
+- Fetal Programming (Barker): the mechanism by which poor intrauterine nutrition causes permanent alterations to fetal physiology and metabolism, increasing later adult disease risk.
+- DOHaD: Developmental Origins of Health and Disease: the research field extending Barker's hypothesis to include the full range of prenatal and early postnatal influences on adult health.
+- LCHD Framework (Halfon and Hochstein, 2002): an integrated framework for health policy and research organized around the principle that health is a capacity built across the life course through the interaction of biological and environmental factors.
+
+SLIDE 22: Implications for Advocacy
+- The Strongest Health Promotion Argument in the Literature: early childhood investment produces the highest per-dollar health return of any health promotion intervention. The biological evidence (critical periods, fetal programming) and the economic evidence (Heckman curve) converge on the same conclusion.
+- What Health Promotion Practitioners Are Positioned to Argue: investments in maternal nutrition, prenatal care, early childhood education, and income support for families with young children are health promotion interventions. They are not social services with incidental health benefits. They are primary prevention with lifetime reach.
+- The Political Challenge: this argument requires health practitioners to advocate for policies outside the traditional health sector portfolio: income support, housing, early education, parental leave. Life course science justifies that advocacy.
+- The Ethical Obligation: if we know that adult health inequity is substantially produced by inequitably distributed early-life exposures, and we know early-life interventions can reduce that inequity, silence is not a neutral position.
+
+SLIDE 23: Carrying This Forward
+- This lecture has shifted the temporal frame of health promotion from the present (where most programs operate) to the full life course (where most of the causal action occurs).
+- The models we have studied, critical periods, accumulation of risk, chains of risk, and fetal programming, do not make adult health promotion irrelevant. They reposition it within a longer story and argue for simultaneous investment across multiple life stages.
+- Next lecture zooms into a single specific setting, the workplace, asking: for the adults whose early-life chapters are already written, what are the structural conditions of paid work that most powerfully shape their ongoing health, and what can health promotion do about them?
+- Preview question: if autonomy and control at work are among the strongest predictors of not developing cardiovascular disease from your job, why do most workplace health programs focus on individual behavior change rather than on job redesign?
+
+SLIDE 24: What to Take Into the World
+- The next time a patient or community member is blamed for their adult health behavior, ask: what life course produced this behavior? What exposures came first?
+- The next time a program is designed for adults with established risk factors, ask: is this the most cost-effective point in the life course to intervene? If not, what argument can we make for also investing earlier?
+- The next time a funder asks for 12-month outcomes, ask: what would it take to fund programs whose outcomes will not be fully visible for 20 years, because that is when the investment will have paid off?
+- These are not rhetorical questions. They are the practical, political consequences of taking life course epidemiology seriously as a practitioner.
+
+SLIDE 25: [READING] Further Reading, Part 1
+TITLE: Further Reading, Part 1
+- Ben-Shlomo, Y., and Kuh, D. (2002): A life course approach to chronic disease epidemiology: conceptual models, empirical challenges and interdisciplinary perspectives. International Journal of Epidemiology, 31(2), 285-293. The primary source for this lecture's three conceptual models. Essential reading.
+- Barker, D.J., Winter, P.D., Osmond, C., Margetts, B., and Simmonds, S.J. (1989): Weight in infancy and death from ischaemic heart disease. Lancet, 2(8663), 577-580. The paper that launched the developmental origins field. Historically essential and remarkably concise.
+- Halfon, N., and Hochstein, M. (2002): Life Course Health Development: An Integrated Framework for Developing Health, Policy, and Research. Milbank Quarterly, 80(3), 433-479. The policy-oriented complement to Ben-Shlomo and Kuh: translates life course epidemiology into a framework for organizing health services and advocacy.
+- Elder, G.H. (1994): Time, human agency, and social change: perspectives on the life course. Social Psychology Quarterly, 57(1), 4-15. A compact statement of Elder's sociological principles, essential for understanding the complement to the biological-programming literature.
+
+SLIDE 26: [READING] Further Reading, Part 2
+TITLE: Further Reading, Part 2
+- Kuh, D., Ben-Shlomo, Y., Lynch, J., Hallqvist, J., and Power, C. (2003): Life course epidemiology. Journal of Epidemiology and Community Health, 57(10), 778-783. A useful short review that consolidates the field's core concepts and distinguishes life course epidemiology from conventional risk factor research.
+- Felitti, V.J., Anda, R.F., Nordenberg, D., et al. (1998): Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: the Adverse Childhood Experiences (ACE) Study. American Journal of Preventive Medicine, 14(4), 245-258. The landmark study demonstrating dose-response relationships between childhood adversity and adult chronic disease outcomes across a cohort of over 17,000 adults.
+- Galobardes, B., Lynch, J.W., and Davey Smith, G. (2008): Is the association between childhood socioeconomic circumstances and cause-specific mortality established? Update of a systematic review. Journal of Epidemiology and Community Health, 62(5), 387-390. Reviews the evidence that early socioeconomic disadvantage independently predicts adult mortality across multiple disease categories, establishing the social gradient in life course risk.
+- Kelly-Irving, M., and Delpierre, C. (2019): A critique of the adverse childhood experiences framework in epidemiology and public health: time for a new paradigm. SSM-Population Health, 7, 100348. A recent critical appraisal of the ACEs literature that challenges its framing and measurement, essential for a balanced understanding of the evidence base.
+
+SLIDE 27: [CLASSWORK] Tracing a Chain of Risk
+TITLE: Tracing a Chain of Risk
+Scenario: Type 2 diabetes is now one of the most prevalent chronic conditions in high-income countries. Its risk is shaped by adult lifestyle behaviors (diet, physical activity, body composition) but also by life course exposures beginning before birth.
+Your Task: trace Type 2 diabetes risk backward through a plausible chain of risk, working from the adult diagnosis back toward the earliest identifiable life course exposure.
+- Prenatal Stage: what exposure or condition in utero could plausibly contribute to elevated T2DM risk? (Hint: consider the Barker hypothesis and fetal programming of insulin sensitivity.)
+- Early Childhood (0-5): what early childhood exposure or condition could compound that prenatal risk? What health promotion intervention at this stage could reduce the trajectory?
+- Middle Childhood/Adolescence (6-18): what chain link at this stage increases metabolic risk further? What enabling or predisposing factor is most changeable at this point?
+- Adulthood: what adult lifestyle or environmental factor activates the accumulated risk into clinical disease? Is this the "cause" of the diabetes, or the final link in a much longer chain?
+For each stage: name the life course model being applied (critical period, accumulation, chain of risk), identify one plausible intervention point, and note which sector (health, education, social services, urban planning, income policy) would be responsible for that intervention.
+Come to class prepared to defend your chain and your intervention choices.
+
+SLIDE 28: [TEASER] Next Week: Health Promotion at Work
+TITLE: Next Week: Health Promotion at Work
+- We have now traced health across the entire lifespan, from fetal programming through aging. Next week, we zoom into the single setting where most adults spend more waking hours than anywhere else: the workplace.
+- Lecture 7 examines the structural conditions of work, not what people do in their leisure time but what they experience for eight or more hours a day, as primary determinants of cardiovascular, mental, and chronic disease risk.
+- We will study Karasek's Job Demand-Control Model (1979), Siegrist's Effort-Reward Imbalance Model (1996), and a large randomized controlled trial that asked whether workplace wellness perks actually improve employee health outcomes. The answer may surprise you.
+- Preview question: if autonomy and control at work are among the strongest known predictors of cardiovascular health, why do virtually no corporate wellness programs focus on increasing worker autonomy?
+
+SLIDE 29: [CLOSING] Time Is the Variable We Forget
+TITLE: Time Is the Variable We Forget
+- "Most health promotion programs ask what to change. Life course science asks when to change it, and discovers that the most powerful windows are the ones we most often ignore."
+- Attribution: (course epigraph)
+- Questions, office hours, and contact: [instructor details here]
+- Before next class: read Ben-Shlomo and Kuh (2002). Find one piece of policy in your province or country that you would classify as a life course health promotion intervention, and come ready to explain which life stage it targets and which causal model (critical period, accumulation, or chain) it is designed to interrupt.

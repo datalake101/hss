@@ -1,0 +1,282 @@
+ 
+ 
+SLIDE 1: TITLE SLIDE
+Course: Health Promotion and Disease Prevention
+Lecture 1: Introduction to the Paradigm Shift
+Instructor: Prof. [Your Name]
+Quote: Medicine makes people live longer. Health promotion makes people live better.
+
+SLIDE 2: THE CORE PHILOSOPHY OF THIS COURSE
+Why Are We Here?
+- The Limitation of Medicine: Hospitals cannot cure poverty. Surgeons cannot operate on a lack of education. Pills cannot fix a toxic neighborhood.
+- The Shift: Moving from reacting to biological sickness to investing in societal vitality.
+- The Big Question: How do we design a society where people never get sick in the first place?
+Exam Focus: Be prepared to contrast the Medical Model (downstream, individual, biological treatment) with the Public Health Model (upstream, environmental, systemic intervention).
+
+SLIDE 3: THE PARADIGM SHIFT IN HUMAN SURVIVAL
+The Tale of the Broad Street Pump (1854)
+- The Crisis: Cholera outbreak in London.
+- The Medical Response: Treating the sick, bleeding patients, blaming bad air (miasma).
+- The Public Health Response (John Snow): Mapped the deaths, identified the contaminated water pump, and removed the handle.
+- The Lesson: He did not invent a medicine; he changed the environment. 
+Takeaway: Health promotion is the science of removing the pump handle.
+
+SLIDE 4: DEFINING HEALTH (THE 1948 WHO DEFINITION)
+A Revolutionary Concept
+World Health Organization (1948):
+Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Why this mattered:
+- Broke the monopoly of the biological and medical model.
+- Introduced mental and social dimensions as equal to physical health.
+Critical Flaw: The word "complete". If health requires complete well-being, then anyone with a mild headache, grief, or stress is technically unhealthy. It turns health into an unattainable utopia.
+
+SLIDE 5: SALUTOGENESIS: A BETTER DEFINITION
+Aaron Antonovsky’s Paradigm (1970s)
+Instead of asking "What causes disease?" (Pathogenesis), Antonovsky asked: "What creates health?" (Salutogenesis).
+- Health is a Continuum, not a fixed state. We slide up and down the health continuum daily based on our resources.
+The Sense of Coherence (SOC):
+1. Comprehensibility: The world makes sense.
+2. Manageability: I have the resources to cope.
+3. Meaningfulness: Life's challenges are worth the effort.
+Exam Focus: Use Salutogenesis to explain how a person with a chronic disability can still possess high health if their SOC and coping resources are strong.
+
+SLIDE 6: HEALTH AS A RESOURCE FOR LIVING
+The Ottawa Charter Re-framing (1986)
+Quote: Health is a resource for everyday life, not the objective of living.
+- The Car Analogy: Gas is not the goal of driving; it is the resource that gets you to your destination.
+- The Human Analogy: Health is not the goal of life. The goals are to love, learn, work, and play. Health is the fuel that allows us to do those things.
+- Health Capital: Like a bank account, it can be invested in or depleted by social conditions.
+
+SLIDE 7: DECONSTRUCTING THE MEDICAL EXPERIENCE
+Disease vs. Illness vs. Sickness
+These are not synonyms. They represent three different realities:
+1. Disease (The Doctor’s View): The biological pathology (e.g., a tumor, a virus, high blood pressure). Objective.
+2. Illness (The Patient’s View): The subjective, lived experience of feeling unwell (e.g., pain, fatigue, fear). 
+3. Sickness (Society’s View): The social role granted by society (e.g., getting a doctor's note, disability benefits).
+Paradox: You can have a disease without an illness (asymptomatic hypertension), and an illness without a disease (chronic fatigue with normal labs).
+
+SLIDE 8: THE ICEBERG MODEL OF DISEASE
+Visual Concept: An iceberg in the ocean
+- Above the Water (The Tip): Recognized, diagnosed Disease. (What hospitals treat).
+- Just Below the Surface: Undiagnosed conditions, sub-clinical symptoms, and risk factors.
+- Deep Below: The heavy burden of Illness that never gets a medical label.
+- The Water Itself: The social environment that dictates who gets labeled with a Sickness and who is ignored.
+Takeaway: Public health mostly treats the tip. Health promotion addresses the whole iceberg.
+
+SLIDE 9: DEFINING DISABILITY
+Medical Model vs. Social Model
+The Medical Model:
+- Disability is a broken body that needs to be fixed to fit into normal society.
+- Focus: Curing the impairment.
+The Social Model (The HP Standard):
+- Impairment is the biological fact (e.g., inability to walk).
+- Disability is socially constructed (e.g., the building only has stairs).
+- Focus: Removing societal barriers and utilizing Universal Design.
+Exam Focus: If a case study features a wheelchair user unable to enter a clinic, the stairs are the disability, not the legs. 
+
+SLIDE 10: FOOD FOR THOUGHT
+The "Normal" Body
+- Myopia (nearsightedness) is a severe biological impairment. Yet, because society invented cheap eyeglasses, it is rarely considered a disability.
+- Question: How many disabilities exist today simply because society refuses to design environments for neurodivergent brains (e.g., ADHD, Autism)? 
+- Reflection: We do not need to fix the brain; we need to fix the fluorescent lights, the 8-hour desk requirements, and the rigid social norms.
+
+SLIDE 11: HEALTH PROMOTION VS. DISEASE PREVENTION
+Two Sides of the Same Coin?
+Disease Prevention:
+- Focus: Avoiding the bad (Pathogenic)
+- Target: Specific risks and at-risk groups
+- Examples: Vaccines, cancer screenings, statins
+- Goal: Stop a specific pathology
+Health Promotion:
+- Focus: Building the good (Salutogenic)
+- Target: Whole populations and broad determinants
+- Examples: Paid maternity leave, safe parks, living wages
+- Goal: Increase vitality and control
+Takeaway: The best public health programs seamlessly integrate both.
+
+SLIDE 12: THE PARABLE OF THE RIVER
+Upstream vs. Downstream Thinking
+Visual Concept: A river with people drowning
+- Downstream: Diving in to rescue the drowning. (Emergency rooms, trauma care). Heroic, but exhausting and endless.
+- Midstream: Pulling them out before the rapids. (Community clinics, behavior change).
+- Upstream: Walking to the source to find out who is pushing them in and building a fence. (Policy, environment, systemic change).
+Takeaway: Health Promotion is the science of walking upstream.
+
+SLIDE 13: LEVEL 0: PRIMORDIAL PREVENTION
+Preventing the Risk Factor from Emerging
+- Target: Entire populations, societal norms, macro-environments.
+- Goal: Stop the risk factor from ever existing in the culture.
+- Examples: Banning trans-fats in the national food supply; designing cities so walking is the default; universal basic income to prevent the chronic stress of poverty.
+Takeaway: This is the deepest, most powerful level of intervention.
+
+SLIDE 14: LEVEL 1: PRIMARY PREVENTION
+Preventing the Disease from Occurring
+- Target: Healthy individuals or those with existing risk factors.
+- Goal: Stop the biological pathology from starting.
+- Examples: Immunizations (Measles, HPV); condom distribution (HIV prevention); mandatory seatbelt laws and hard-hat regulations; fluoride in the water supply.
+Takeaway: The Shield of Public Health.
+
+SLIDE 15: LEVEL 2: SECONDARY PREVENTION
+Early Detection and Prompt Intervention
+- Target: Asymptomatic individuals with early, sub-clinical disease.
+- Goal: Halt progression before irreversible damage.
+- Examples: Mammograms, Pap smears, colonoscopies; routine blood pressure and cholesterol checks.
+Critical Concept: Lead-Time Bias. Finding a slow-growing, non-fatal tumor early does not always save a life; it may just prolong the time the person spends as an anxious patient.
+
+SLIDE 16: LEVEL 3: TERTIARY PREVENTION
+Reducing the Impact of Established Disease
+- Target: Individuals with symptomatic, diagnosed, chronic disease.
+- Goal: Prevent complications, restore function, improve Quality of Life (QoL).
+- Examples: Diabetic foot-care clinics (preventing amputation); cardiac rehabilitation post-heart attack; stroke recovery physiotherapy.
+Takeaway: We are no longer preventing the disease; we are preventing the disability and premature death associated with it.
+
+SLIDE 17: THE PREVENTION CONTINUUM (SUMMARY)
+Visual Concept: A timeline arrow
+1. Primordial: No risk factors exist. (Policy/Environment)
+2. Primary: Risk factors exist, but no disease. (Behavior/Shields)
+3. Secondary: Disease exists, but no symptoms. (Screening)
+4. Tertiary: Symptoms and disease exist. (Rehab/Management)
+Exam Focus: You will be given 10 public health interventions on the midterm. You must categorize them into these four levels and justify your choice.
+
+SLIDE 18: THE SOCIAL DETERMINANTS OF HEALTH (SDOH)
+Your Zip Code is More Powerful Than Your Genetic Code
+The conditions in which people are born, grow, live, work, and age.
+- Income and Social Protection
+- Education
+- Housing and Neighborhood Design
+- Food Security
+- Early Childhood Development
+Takeaway: Medicine accounts for only 10 to 20 percent of health outcomes. SDOH account for the rest.
+
+SLIDE 19: FUNDAMENTAL CAUSE THEORY
+Link and Phelan (1995)
+Why do health- The Sick Role: Talcott Parsons and the social contract of being ill.
+- gaps persist even when we cure diseases?
+- The Theory: Socioeconomic Status (SES) is a Fundamental Cause because it embodies flexible resources (Money, Knowledge, Power, Prestige, Social Networks).
+- The Mechanism: When a new health threat emerges (TB in 1920, HIV in 1990, Obesity today), the wealthy use their flexible resources to protect themselves. 
+- The Result: The mechanism of disease changes, but the inequity remains.
+Exam Focus: You cannot educate your way out of a fundamental lack of resources. Knowledge campaigns fail if the poor lack the money and time to act on them.
+
+SLIDE 20: THE HEALTH GRADIENT AND THE WHITEHALL STUDIES
+It is Not Just Poverty vs. Wealth
+- The Finding: Health operates on a continuous step-by-step gradient. The middle class is sicker than the upper class; the working class is sicker than the middle class.
+- The Whitehall Studies (British Civil Servants): Everyone had a job. Everyone had the exact same universal healthcare. Yet, clerical workers had 3 times the heart disease mortality of top administrators.
+- The Culprit: Allostatic Load (biological wear-and-tear) caused by low autonomy, high stress, and lack of control over one's work environment.
+
+SLIDE 21: THE SETTINGS APPROACH
+Where Health is Created
+Hospitals are actually poor places for health promotion (stressful, pathogenic, expensive). Health must be integrated into everyday settings:
+- Schools: Banning sugary drinks, designing active playgrounds.
+- Workplaces: Flexible hours, ergonomic setups, psychological safety.
+- Cities (WHO Healthy Cities): Active transport, green spaces, mixed-use zoning.
+- Prisons: Addressing trauma, addiction, and social reintegration.
+Takeaway: The setting itself becomes the intervention.
+
+SLIDE 22: THE OTTAWA CHARTER (1986)
+The Constitution of Health Promotion
+Core Definition: The process of enabling people to increase control over, and to improve, their health.
+Three Basic Strategies:
+1. Advocate (for political and economic conditions)
+2. Enable (reduce inequities, ensure equal opportunities)
+3. Mediate (coordinate across different sectors, not just health)
+
+SLIDE 23: OTTAWA ACTION AREAS 1 AND 2
+Upstream Structural Change
+1. Build Healthy Public Policy (Health in All Policies - HiAP)
+- Health must be on the agenda of all lawmakers (Agriculture, Transport, Finance).
+- Examples: Sugar taxes, minimum wage laws, urban zoning.
+2. Create Supportive Environments
+- Altering the Choice Architecture so the healthy choice is the default.
+- Examples: Removing soda from checkout aisles; making stairwells bright and musical.
+
+SLIDE 24: OTTAWA ACTION AREAS 3 AND 4
+Human and Social Capital
+3. Strengthen Community Action
+- Doing things WITH communities, not TO them.
+- Empowerment, ownership, and utilizing lived experience.
+4. Develop Personal Skills
+- Moving beyond basic facts to Health Literacy and life skills (coping, cooking, navigating systems).
+- Warning: Focusing only on skills Mental Illness: without changing the environment leads to Victim-Blaming.
+
+SLIDE 25: OTTAWA ACTION AREA 5
+Reorienting Health Services
+- Moving from Curative Care to Health-Promoting Care.
+- Social Prescribing: Doctors prescribing community gardening, debt counseling, or art classes to address SDOH.
+- Systemic Shift: Moving from Fee-For-Service (rewarding sickness) to Value-Based Care (rewarding wellness).
+Takeaway: Hospitals must practice what they preach (e.g., paying their cleaners a living wage).
+
+SLIDE 26: EQUITY VS. EQUALITY VS. JUSTICE
+The Moral Compass
+Visual Concept: Three people looking over a fence
+- Equality (Sameness): Giving everyone the exact same size box to stand on. (Fails those who need more help).
+- Equity (Fairness): Giving people the specific resources they need to reach the same outcome. (Levels the playing field).
+- Justice (Structural Change): Removing the wooden fence entirely and replacing it with a chain-link fence. (Dismantling the systemic barrier).
+Exam Focus: Always design interventions for the most marginalized. If it works for them, it works for everyone.
+
+SLIDE 27: THE COMMERCIAL DETERMINANTS OF HEALTH
+The Corporate Playbook
+Private sector activities that negatively impact public health.
+- The Big Four: Tobacco, Ultra-processed Food, Alcohol, Fossil Fuels.
+- Manufacturing Doubt: Funding junk science to delay government regulation.
+- Health Washing: Using Corporate Social Responsibility (e.g., funding a youth sports league) as a smokescreen to avoid marketing regulations.
+Takeaway: True health promotion requires regulating corporate power, not just educating consumers.
+
+SLIDE 28: PUZZLING QUESTIONS
+Critical Reflections for the Semester
+1. If health is determined by zip code, is lifestyle education just a distraction from wealth redistribution?
+2. Can a health promotion campaign ever be truly neutral, or is it always an imposition of dominant cultural values?
+3. Is it ethical to use AI and digital surveillance to nudge citizens toward healthy behaviors?
+4. How do we measure the success of a prevention program when the greatest victory is the complete absence of noticeable events?
+Takeaway: Hold these tensions. They are the essence of our field.
+
+SLIDE 29: COURSE ASSESSMENT
+The Health Promotion Report
+Your Mission: Design a comprehensive, evidence-informed, equitable intervention for a specific population.
+- Part 1 (Week 5): Needs Assessment, Target Population, and Theoretical Framework.
+- Part 2 (Week 12): Intervention Design, Logic Model, and Evaluation Plan.
+- The Golden Rule: ALIGNMENT. 
+- Does the theory match the problem?
+- Does the intervention match the theory?
+- Does the evaluation measure the intervention?
+
+SLIDE 30: HOW TO SUCCEED IN THIS COURSE
+Expectations for Top-Tier Work
+- Move beyond the individual: If your solution to a systemic problem is to hand out more pamphlets, you will lose points.
+- Use the Lexicon: Speak the language of the field (Salutogenesis, SDOH, Upstream, Equity).
+- Embrace Complexity: Acknowledge the unintended consequences and ethical dilemmas of your proposed interventions.
+- Read the Literature: Do not just summarize papers; synthesize them to justify your design choices.
+
+SLIDE 31: KEY TERMS GLOSSARY (EXAM PREP)
+Master the Vocabulary
+- Pathogenesis: Origins of disease.
+- Salutogenesis: Origins of health.
+- Allostatic Load: Physiological wear-and-tear from chronic stress.
+- Lead-Time Bias: The illusion of increased survival time due to early screening.
+- Fundamental Cause: SES as the root driver of health disparities.
+- Choice Architecture: Designing environments to make healthy choices the default.
+
+SLIDE 32: FURTHER READING
+Required Journal Article
+Nutbeam, D. (2000). Health literacy as a public health goal: A challenge for contemporary health education and communication strategies into the 21st century. Health Promotion International, 15(3), 259–267.
+Why read this?
+- It shifts the paradigm from patient compliance to community empowerment.
+- It defines the 3 levels of health literacy (Functional, Interactive, Critical).
+- It proves that information alone is useless without the power to act on it.
+
+SLIDE 33: NEXT WEEK'S TEASER
+Lecture 2: Health, Disease, and Disability: A Critical Perspective
+- The Medicalization of Society: How normal human experiences (sadness, aging) are rebranded as diseases.
+- The Sick Role: Talcott Parsons and the social contract of being ill.
+- The Social Construction of Mental Illness: Who gets to define madness?
+- Iatrogenesis: How the medical system itself causes illness.
+Takeaway: Come ready to challenge everything you think you know about doctors.
+
+SLIDE 34: THANK YOU
+Stay Curious. Stay Critical. Look Upstream.
+Contact:
+- Email: [Professor's Email]
+- Office Hours: [Time/Location]
+Action Item for this week:
+- Walk through your neighborhood with new eyes. Look at the built environment, the food access, and the green spaces. Start brainstorming the target population for your Final Report.
+
+See you next week.

@@ -1,0 +1,230 @@
+SLIDE 1: [COVER] Workplace Health Promotion
+TITLE: Workplace Health Promotion
+- Course: Health Promotion and Disease Prevention
+- Lecture 7
+- "The most dangerous thing about your job may not be the machinery. It may be who decides what you do with your time."
+- Attribution: (course epigraph)
+
+SLIDE 2: [AGENDA] What We Cover Today
+TITLE: What We Cover Today
+- Part 1: Why the workplace matters as a health promotion setting
+- Part 2: Karasek's Job Demand-Control Model: the quadrant that kills
+- Part 3: Siegrist's Effort-Reward Imbalance Model: when effort is not reciprocated
+- Part 4: Callback: the Whitehall Studies as empirical validation of both models
+- Part 5: The WHO Healthy Workplace Framework
+- Part 6: The hard evidence on what workplace wellness programs actually do
+- The thread: from the life course context of last week, we zoom into the eight-hour-a-day environment where most adults spend more waking time than anywhere else
+
+SLIDE 3: [QUOTE] The Work-Health Connection
+TITLE: The Work-Health Connection
+Quote: "Specific combinations of high workload and low decision latitude lead to increased cardiovascular disease risk."
+Attribution: Robert Karasek, Administrative Science Quarterly, 1979
+
+SLIDE 4: Why the Workplace Is a Health Promotion Priority Setting
+- The Settings Approach (Recall from Lecture 1): effective health promotion acts on environments, not only on individuals. Changing the conditions in which people live, work, and age produces health effects that individual-focused programs cannot achieve alone. The workplace is one of the most powerful settings available.
+- Scale and Reach: most working-age adults spend 35-50 hours per week in a paid work environment. No other health promotion setting has comparable dwell time in a defined population of adults.
+- The Causal Chain: employment conditions (how much control you have, how fairly you are rewarded, how predictable your schedule is) independently predict cardiovascular disease, mental health outcomes, musculoskeletal disorders, and all-cause mortality. This is not a correlation with confounders. The mechanisms are biological, operating through the stress-response pathway, allostatic load, and autonomic nervous system function.
+- The Opportunity: employers can change the structural conditions of work. They can redesign jobs, restructure reward systems, and create organizational policies that reduce psychosocial hazards. That is different from handing out yoga subscriptions.
+- Exam Focus: be able to explain why the workplace is a health promotion priority setting using the settings approach, the dwell-time argument, and the causal evidence connecting employment conditions to specific health outcomes.
+
+SLIDE 5: Karasek's Job Demand-Control Model
+- Robert Karasek, Administrative Science Quarterly (1979): studying Swedish male workers, Karasek found that cardiovascular disease risk was not simply a function of how demanding a job was. It was a function of the combination of demands and control.
+- Two Dimensions:
+- Job Demands: the psychological workload. Volume, pace, conflicting requirements, concentration required, time pressure. High demand means a lot is required of you in a short time with little slack.
+- Decision Latitude (Control): the degree to which workers have authority over their own work process. Two components: skill discretion (the ability to use and develop skills) and decision authority (the ability to decide how to do the work). High control means autonomy over your own task execution.
+- The Core Finding: it is the combination of high demands and low control that most strongly predicts cardiovascular disease and psychological strain, not high demands alone. A demanding job in which you have high autonomy is, by itself, less damaging than a moderately demanding job in which you have no autonomy.
+- Exam Focus: know the two dimensions (demands and control), know that it is their combination that drives risk (not demands alone), and be able to reproduce the four-quadrant structure.
+
+SLIDE 6: The Four Quadrants of the Job Demand-Control Model
+- Passive (Low Demand, Low Control): low psychological stimulation in both directions. Associated with learned helplessness, skill atrophy, low motivation, and some evidence of elevated depression risk. The job demands little but also offers little.
+- Low-Strain (Low Demand, High Control): the protective quadrant. Comfortable workload with high autonomy. Associated with lower cardiovascular risk and higher job satisfaction. Examples: some creative professions, senior academics with light administrative loads, certain craft trades.
+- Active (High Demand, High Control): high challenge with high autonomy. Associated with learning, motivation, and skill development. Psychologically demanding but not toxic. Examples: surgeons, senior managers with genuine decision authority, skilled engineers. High demand is tolerable when accompanied by control.
+- High-Strain (High Demand, Low Control): the highest-risk quadrant. Maximum cardiovascular and psychological strain. Workers are required to produce at high pace and volume while having minimal authority over how they do so. Examples: assembly line workers, call center operators under scripted protocols, customer-facing staff under rigid management. Karasek found this quadrant most strongly associated with myocardial infarction.
+- Exam Focus: know all four quadrant names, their demand-control combinations, and their associated health outcomes. The high-strain quadrant is the most testable.
+
+SLIDE 7: The Whitehall Studies: Empirical Validation
+- Callback to Lecture 1: the Whitehall Studies, particularly the Whitehall II cohort (Marmot and colleagues, from the 1980s onward), followed British civil servants across employment grades and found a steep social gradient in cardiovascular disease mortality that could not be explained by conventional biological risk factors (smoking, blood pressure, cholesterol).
+- The Key Variable: grade-specific differences in control and autonomy over work, not income differences alone, were among the most powerful explanatory variables for the gradient. Lower-grade civil servants, who had less control over their work processes, had substantially higher cardiovascular mortality than higher-grade civil servants, even after controlling for the more commonly measured risk factors.
+- Validating Karasek: the Whitehall findings provided naturalistic prospective cohort evidence for what Karasek had observed in cross-sectional survey data. Low decision latitude was measurably, independently, and substantially associated with cardiovascular disease risk in a real-world working population over time.
+- The Implication: the social gradient in health is not just a gradient in access to healthcare or in individual health behaviors. It is substantially a gradient in the structural conditions of work, specifically in how much control people have over what they do for eight or more hours a day.
+- Exam Focus: connect the Whitehall Studies to the Karasek model, explaining how the cohort findings validate the model's core claim about decision latitude and cardiovascular risk.
+
+SLIDE 8: Siegrist's Effort-Reward Imbalance Model
+- Johannes Siegrist, Journal of Occupational Health Psychology (1996): Siegrist observed that Karasek's model captured structural job features well but missed a critical relational dimension: the degree to which effort is reciprocated by the employer.
+- The Core Idea: people bring effort to work in the expectation of receiving appropriate rewards in return. When that exchange is chronically imbalanced, high effort with inadequate reward, the resulting experience is a form of threat to identity and status that activates the stress-response pathway and elevates cardiovascular and mental health risk.
+- Three Dimensions of Reward: money (salary adequate to effort), esteem (respect, recognition from supervisors and colleagues), and status control (job security, career advancement, absence of forced demotion or role instability).
+- Overcommitment: Siegrist added a personal vulnerability factor. Some workers have a characteristic pattern of excessive work involvement, difficulty disengaging from work, and a strong need for approval, that leads them to tolerate ERI conditions longer than others. Overcommitment amplifies the health impact of the same objective imbalance.
+- Where ERI and Karasek Overlap: both models predict harm from high demands with inadequate resources (autonomy for Karasek, rewards for Siegrist). They are complementary, not redundant.
+- Exam Focus: know the three reward dimensions (money, esteem, status control), the overcommitment concept, and be able to contrast ERI with Karasek's model in a head-to-head comparison.
+
+SLIDE 9: Karasek and Siegrist: A Head-to-Head
+- Focus: Karasek focuses on the structure of the task: how much is required, and how much autonomy does the worker have over execution? Siegrist focuses on the relational exchange: is the effort invested in work being adequately returned?
+- Primary Risk Factor: Karasek, low decision latitude under high demands. Siegrist, insufficient reward (financial, social, or status-based) in exchange for sustained effort.
+- Personal Moderator: Karasek includes social support as a buffer variable (the full model adds a third axis). Siegrist includes overcommitment as a personal amplifier.
+- The Worker Who Is Most at Risk in Both Models: someone in a high-demand, low-autonomy job (high-strain) who is also chronically undercompensated relative to their effort (high ERI) and who cannot psychologically disengage from work (overcommitment). This combination describes a significant proportion of precarious service-sector, healthcare, and care work jobs.
+- Combined Model: research using both frameworks simultaneously consistently outperforms either alone in predicting cardiovascular and mental health outcomes. The two models capture different pathways to the same biological endpoint.
+- Exam Focus: be able to run a dual-model analysis of a given work scenario, applying both Karasek and Siegrist and explaining what each adds.
+
+SLIDE 10: [PUZZLE] Food for Thought
+TITLE: Food for Thought
+Sit with these before we continue:
+- A company cannot easily change your job demands, your salary structure, or your decision latitude because those are determined by business strategy and industry norms. But it CAN give you a free mindfulness app and a gym subsidy. Whose interests does that choice actually serve?
+- If decision latitude, the degree of autonomy and skill use in your job, is one of the strongest known predictors of cardiovascular health among workers, why is "more control for workers" almost never what corporate health promotion programs actually offer? What prevents it?
+- Karasek's model was developed studying Swedish male manufacturing workers in the 1970s. Most of the fastest-growing employment sectors today (gig work, platform labor, on-demand service work) involve workers who are nominally "independent contractors" with formally high autonomy but practically no control over pay rates, job security, or when work is available. Where does that fit in the quadrant?
+
+SLIDE 11: The WHO Healthy Workplace Framework
+- Source: World Health Organization (2010). Healthy Workplaces: A Model for Action for Employers, Workers, Policymakers, and Practitioners. WHO, Geneva.
+- Core Argument: a healthy workplace is not primarily a place with a fitness center. It is an environment in which the physical, psychosocial, personal health, and community conditions of work all support employee well-being.
+- Four Domains of the Framework:
+- Physical Work Environment: the physical conditions of the workplace itself: air quality, noise, ergonomics, chemical exposure, safety hazards. Traditional occupational health and safety territory.
+- Psychosocial Work Environment: organizational culture, workload, autonomy, recognition, social support, absence of bullying and harassment. This is where Karasek and Siegrist operate.
+- Personal Health Resources: the degree to which the workplace supports individual health behaviors and provides access to health-related resources: nutrition choices in the cafeteria, flexible scheduling for medical appointments, employee assistance programs.
+- Enterprise Community Involvement: how the organization engages with and contributes to the health of the broader community in which it operates.
+- Critical Observation: the Framework's most frequently implemented domain in practice is Personal Health Resources, the least structurally challenging of the four. The psychosocial work environment domain, where the strongest evidence for health impact sits, is the least often systematically addressed.
+- Exam Focus: know the four domains of the WHO Framework, and be prepared to note the gap between what the evidence says produces health and what organizations most commonly implement.
+
+SLIDE 12: The Evidence on Workplace Wellness Programs
+- The Promise: workplace wellness programs have been marketed to employers since the 1990s on the basis of a straightforward claim: invest in employee health behavior change (smoking cessation, weight management, fitness), and you will see reductions in health costs and absenteeism that more than offset the program cost.
+- The Return-on-Investment Literature: early economic analyses suggested ROI ratios of 3:1 to 6:1 in healthcare cost savings. These figures were widely cited, influenced large-scale corporate investment in wellness programs, and appear regularly in program proposals.
+- The Problem: the methodological quality of the studies producing those figures was consistently poor. Selection bias (healthier, more motivated employees participate in wellness programs), publication bias, and short follow-up periods meant the apparent gains were not reliably reproduced in better-designed studies.
+- Critical Flaw: the category of "workplace wellness program" contains everything from genuine job redesign to a free bowl of fruit in the break room. Lumping them together in an ROI analysis obscures what is actually working.
+
+SLIDE 13: Song and Baicker (2019): The RCT Evidence
+- Song, Z., and Baicker, K. (2019). Effect of a Workplace Wellness Program on Employee Health and Economic Outcomes: A Randomized Clinical Trial. JAMA, 321(15), 1491-1501.
+- Design: a large randomized controlled trial across 160 worksites of a major US retail employer, one of the most rigorous evaluations of a comprehensive workplace wellness program ever conducted.
+- The Program: a multi-component wellness program including health risk assessments, individual coaching, weight management, smoking cessation, and fitness activities.
+- Findings at 18 months: the wellness program improved some self-reported health behaviors (exercise, weight management intentions) and employee perceptions of organizational commitment to health. However: no significant change in measured clinical outcomes (blood pressure, cholesterol, body mass index) compared to control worksites. No significant change in healthcare utilization. No significant change in absenteeism or job performance.
+- What It Means: the program produced self-reported behavior intentions but not measurable health outcomes. This is precisely the distinction PRECEDE-PROCEED's three-level evaluation framework captures: the program achieved some impact-level outcomes (attitudes, intentions) without producing outcome-level change (clinical health status).
+- The Interpretation Debate: Song and Baicker's findings do not mean workplace health promotion is futile. They mean that programs focused on individual lifestyle behavior change in the absence of structural job redesign produce limited clinical effect. Changing the individual while leaving the job unchanged is insufficient.
+- Exam Focus: know the Song and Baicker (2019) study design, the key null findings on clinical outcomes, and be able to use it to argue for structural vs. individual-focused workplace health promotion.
+
+SLIDE 14: [CHART] Karasek's Job Demand-Control Model
+TITLE: Karasek's Job Demand-Control Model
+Chart type: 2x2 quadrant matrix
+X-axis: Decision Latitude (Control), ranging from Low (left) to High (right)
+Y-axis: Job Demands, ranging from Low (bottom) to High (top)
+
+Four quadrants:
+- Top-left quadrant (High Demand, Low Control): labeled "HIGH-STRAIN"
+  - Note: highest cardiovascular disease risk; highest psychological strain
+  - Example occupations: assembly line workers, call center staff under scripted protocols, nursing aides, cashiers
+  - Flag this quadrant prominently
+- Top-right quadrant (High Demand, High Control): labeled "ACTIVE"
+  - Note: high challenge, high learning, tolerable stress
+  - Example occupations: surgeons, senior managers with real decision authority, architects
+- Bottom-left quadrant (Low Demand, Low Control): labeled "PASSIVE"
+  - Note: skill atrophy, learned helplessness, low motivation
+  - Example occupations: some data entry roles, repetitive low-skill service work
+- Bottom-right quadrant (Low Demand, High Control): labeled "LOW-STRAIN"
+  - Note: lowest stress; protective quadrant
+  - Example occupations: some academic roles, craft workers with schedule autonomy
+
+Diagonal arrows: one arrow running from top-left to bottom-right labeled "Decreasing Cardiovascular Risk"; one arrow running from bottom-left to top-right labeled "Increasing Active Learning"
+Source: Karasek (1979). Illustrative.
+
+SLIDE 15: [ABSTRACT] Karasek (1979): Job Demands, Decision Latitude, and Mental Strain
+TITLE: Karasek (1979): Job Demands, Decision Latitude, and Mental Strain
+Citation: Karasek, R.A. (1979). Job demands, job decision latitude, and mental strain: implications for job redesign. Administrative Science Quarterly, 24, 285-308.
+Finding: Karasek drew on national survey data from the United States and Sweden to argue that mental strain, exhaustion, and depression among workers were not simply a function of job demands. Instead, the combination of high psychological demands with low decision latitude (autonomy over task execution and skill use) produced the most elevated health risks. He identified the high-strain quadrant as the primary risk category, documented cardiovascular strain as a key outcome, and argued that the most effective health intervention was not individual stress management but job redesign that increased worker control. His paper provided the theoretical and empirical foundation for the entire psychosocial work environment literature that followed.
+Relevance: This is the foundational paper in occupational health psychology and one of the most influential pieces in the social determinants of health literature. Its central claim, that worker autonomy is a primary cardiovascular health determinant, directly challenges individual-focused workplace wellness models.
+[Insert screenshot of the abstract here]
+
+SLIDE 16: [ABSTRACT] Song and Baicker (2019): The RCT Evidence
+TITLE: Song and Baicker (2019): The Workplace Wellness RCT
+Citation: Song, Z., and Baicker, K. (2019). Effect of a Workplace Wellness Program on Employee Health and Economic Outcomes: A Randomized Clinical Trial. JAMA, 321(15), 1491-1501.
+Finding: Song and Baicker randomized 160 worksites of a large US retail employer to offer or not offer a multi-component workplace wellness program. After 18 months, they found that program participants reported improved health behaviors and more positive views of their employer's health culture. However, the program produced no statistically significant improvement in any measured clinical outcome (blood pressure, cholesterol, body mass index, blood glucose) and no measurable reduction in absenteeism, healthcare claims, or job performance compared to control sites. This null finding on clinical outcomes in a well-powered RCT directly challenged the ROI projections that had been used to justify large-scale corporate wellness investment.
+Relevance: This trial is the most rigorous controlled evaluation of the standard corporate wellness model to date. Its results sharpen the distinction between programs that change individual intentions and those that change health outcomes, and provide the strongest empirical argument for structural job redesign over individual behavior-change programming.
+[Insert screenshot of the abstract here]
+
+SLIDE 17: Structural Redesign vs. Wellness Perks: A Head-to-Head
+- Wellness Perks Model: gym memberships, health risk assessments, mindfulness apps, nutrition challenges, standing desk subsidies, ergonomic chairs. Focus: change the individual's behavior and bodily state while the job structure remains unchanged.
+- Evidence Base: weak to moderate for short-term behavior change; minimal to null for clinical health outcomes at 18+ months (Song and Baicker, 2019); no reliable ROI in well-designed studies.
+- Structural Redesign Model: change job demands through workload management and realistic task assignment; increase decision latitude through participatory task design and genuine autonomy; improve effort-reward balance through fair compensation and recognition systems; address job insecurity and career trajectory.
+- Evidence Base: Karasek (1979), Whitehall Studies, Siegrist (1996), and a body of psychosocial occupational health research spanning four decades consistently link these structural factors to cardiovascular, mental health, and mortality outcomes.
+- The Uncomfortable Question: if the evidence consistently points to structural job redesign as the effective lever, why do corporations consistently invest in wellness perks instead? The answer is economic (perks are cheaper than redesign), political (job redesign shifts power toward workers), and cultural (individual behavior change is more consistent with dominant ideologies about health responsibility than acknowledging that the job itself is the hazard).
+- Exam Focus: be able to articulate this distinction with evidence, and explain why the evidence-based option is also the less commonly implemented one.
+
+SLIDE 18: [PUZZLE] Puzzling Questions
+TITLE: Puzzling Questions
+Harder questions:
+- Effort-Reward Imbalance theory notes that workers with few alternative employment options tend to tolerate higher ERI longer before showing overt symptoms, because exit is not available to them. Does that mean workplace health is ultimately a labor-market and structural-power problem wearing a health-promotion costume?
+- Song and Baicker found that wellness programs improved workers' sense that their employer "cares about their health," even while producing no measurable improvement in their actual health. What does it mean for a health promotion intervention to improve organizational trust while leaving health outcomes unchanged? Is that a success, a failure, or something more troubling?
+- Should psychosocial safety at work, freedom from excessive demands, harassment, role ambiguity, and job insecurity, be a regulated occupational health standard enforced by inspectors and subject to penalties, the same way we regulate noise exposure and chemical hazards? What would it take to make that politically viable?
+- Gig workers and platform workers are nominally independent contractors with formally high autonomy. In practice, algorithmic management sets their pace, their route, their customer ratings, and their income floor. Which quadrant of Karasek's model are they in, and does his framework require revision to account for algorithmic control?
+
+SLIDE 19: Psychosocial Safety Climate: An Emerging Concept
+- Beyond Individual Stress: psychosocial safety climate (PSC) refers to shared perceptions within an organization that management prioritizes and protects the psychological health of workers. It is an organizational-level variable, not an individual one.
+- Why It Matters: research shows that PSC predicts workplace psychological health outcomes independently of individual stress exposure. Workers in organizations with high PSC show lower rates of burnout, psychological distress, and presenteeism, even when objective job demands are similar.
+- The Leadership Connection: PSC is primarily determined by senior management behavior and organizational policy, not by individual manager personality. When senior leaders visibly prioritize psychological safety, and when organizational policies back that commitment with enforcement, the climate shifts for everyone.
+- The Implication for Workplace Health Promotion: if PSC is an organizational-level determinant of health independent of individual risk factors, improving it requires senior leadership action, not employee-facing programs. This is a key argument for positioning occupational health as a governance issue rather than a benefits issue.
+- Exam Focus: know the concept of psychosocial safety climate, its organizational (rather than individual) character, and its implications for where workplace health promotion responsibility lies.
+
+SLIDE 20: The WHO Healthy Workplace Framework in Practice
+- What Organizations Most Often Do (the Personal Health Resources Domain): health risk assessments, fitness incentives, nutrition programs, smoking cessation support, EAP access. These are not without value, but they are the lowest-bar expression of the WHO Framework.
+- What Organizations Rarely Do (the Psychosocial Work Environment Domain): systematic assessment of decision latitude across job roles; participatory job redesign; workload management benchmarks; transparent and equitable compensation systems; anti-harassment policy with genuine enforcement; job security protections.
+- The Gap: the gap between the most commonly implemented and the most evidence-based domains of the WHO Framework is the structural problem. It is not a knowledge gap (the evidence is well-established) or a capacity gap (most organizations implementing wellness programs have more resources than needed). It is a willingness gap, because addressing the psychosocial domain requires transferring power and resources toward workers.
+- The Practitioner's Role: a health promotion practitioner advising an employer on a workplace program has a professional obligation to present the full WHO Framework, including the psychosocial domain, not only the components the employer is comfortable implementing.
+- Exam Focus: know the four domains of the WHO Healthy Workplace Framework, and be prepared to use the gap between most-implemented and most-evidenced as an exam example of how organizational interests can distort program design.
+
+SLIDE 21: Synthesis: The Work-Health Relationship
+- The Mechanism: the psychosocial conditions of work, specifically demand-control imbalance and effort-reward imbalance, activate the chronic stress-response pathway. Sustained activation produces elevated cortisol and catecholamines, autonomic nervous system dysregulation, elevated blood pressure, accelerated atherosclerosis, suppressed immune function, and over decades, measurable cardiovascular and metabolic disease.
+- The Population-Level Picture: because high-strain and high-ERI jobs are disproportionately occupied by workers in lower occupational grades, the social gradient in cardiovascular health is partly a workplace gradient. Addressing that gradient requires structural intervention in the employment relationship, not only in individual employee behavior.
+- The Health Promotion Argument: workplace health promotion that restricts itself to individual lifestyle programs while leaving job structure unchanged is addressing a tertiary cause (the lifestyle behavior) while ignoring the primary cause (the job condition that produces the behavior). A nurse who smokes to cope with a high-strain job is not primarily a smoking cessation candidate. She is a job redesign candidate.
+- The Connection to Lecture 6: remember the life course. The chronic stress of a high-strain job, sustained over years, is itself an accumulation of risk. For workers in high-strain roles, the workplace is not only a current health exposure. It is adding load to a risk profile that began before they arrived.
+
+SLIDE 22: Glossary
+- Job Demand-Control Model (Karasek, 1979): a theory of occupational stress predicting that the combination of high psychological demands and low decision latitude (control) produces the greatest cardiovascular and mental health risk.
+- Decision Latitude: the degree of control a worker has over their own task execution, comprising skill discretion (ability to use and develop skills) and decision authority (ability to decide how to do the work).
+- High-Strain Job: a job characterized by high demands and low decision latitude; the highest-risk category in Karasek's model.
+- Effort-Reward Imbalance (Siegrist, 1996): a theory predicting that chronic imbalance between work effort and received rewards (money, esteem, status control) produces elevated cardiovascular and mental health risk.
+- Overcommitment (Siegrist): a personal risk amplifier: a pattern of excessive work involvement, difficulty disengaging, and strong need for approval that increases vulnerability to the health effects of ERI.
+- Psychosocial Safety Climate: organizational-level shared perceptions that management prioritizes and protects the psychological health of workers.
+- WHO Healthy Workplace Framework (2010): a four-domain model identifying physical work environment, psychosocial work environment, personal health resources, and enterprise community involvement as the components of a comprehensive healthy workplace.
+
+SLIDE 23: Implications for Practice
+- When Advising an Employer: do not restrict your assessment to the personal health resources domain of the WHO Framework. Assess the psychosocial work environment specifically: measure decision latitude, effort-reward balance, and psychosocial safety climate. Present the evidence for why those variables matter more than gym subsidies.
+- When Designing a Program: use Karasek's quadrant as a diagnostic tool. Identify which occupational groups in the organization are in the high-strain quadrant and why. Design the intervention to shift that quadrant, not to help workers cope with remaining in it.
+- When Challenged on ROI: the Song and Baicker (2019) finding should be your primary reference. It directly challenges the weak evidence base for individual wellness programs. The stronger ROI argument is for structural redesign, with Whitehall cohort data as long-term outcome evidence.
+- When Facing Resistance: the single most common form of resistance to structural workplace health promotion is that it is "too expensive" or "not our role." The response is that the cost of high-strain working conditions in absenteeism, turnover, disability claims, and productivity loss exceeds the cost of redesign in every well-conducted economic analysis.
+
+SLIDE 24: Carrying This Forward
+- Next week, Lecture 8 moves from the stresses of paid work to what happens when the coping mechanisms people reach for under chronic stress become their own health crisis.
+- The link is direct: if Karasek's high-strain quadrant produces chronic psychological distress, and Khantzian's self-medication hypothesis is correct that substance choice is not random but matches the specific nature of the distress, then workplace structure is upstream of substance use in a meaningful proportion of cases.
+- Preview question: if addiction is partly a coping mechanism for untreated psychological pain, and the pain is partly produced by working conditions, what exactly is the target of a substance use intervention? The substance, the person, or the job?
+
+SLIDE 25: [READING] Further Reading, Part 1
+TITLE: Further Reading, Part 1
+- Karasek, R.A. (1979): Job demands, job decision latitude, and mental strain: implications for job redesign. Administrative Science Quarterly, 24, 285-308. The foundational paper in psychosocial occupational health; non-negotiable reading for this lecture.
+- Siegrist, J. (1996): Adverse health effects of high-effort/low-reward conditions. Journal of Occupational Health Psychology, 1(1), 27-41. The canonical Effort-Reward Imbalance statement and a direct complement to Karasek.
+- Song, Z., and Baicker, K. (2019): Effect of a Workplace Wellness Program on Employee Health and Economic Outcomes: A Randomized Clinical Trial. JAMA, 321(15), 1491-1501. The most rigorously designed test of the standard corporate wellness model; essential for any evidence-based critique of the field.
+- Marmot, M.G., Rose, G., Shipley, M., and Hamilton, P.J.S. (1978): Employment grade and coronary heart disease in British civil servants. Journal of Epidemiology and Community Health, 32(4), 244-249. The first Whitehall study paper establishing the employment-grade gradient in cardiovascular mortality: essential historical context for both Karasek and Siegrist.
+
+SLIDE 26: [READING] Further Reading, Part 2
+TITLE: Further Reading, Part 2
+- Siegrist, J., and Marmot, M. (2004): Health inequalities and the psychosocial environment: two scientific challenges. Social Science and Medicine, 58(8), 1463-1473. Synthesizes Siegrist's and Marmot's frameworks, arguing that psychosocial work conditions are a central mechanism in the social gradient in health.
+- Baicker, K., Cutler, D., and Song, Z. (2010): Workplace wellness programs can generate savings. Health Affairs, 29(2), 304-311. An earlier analysis claiming positive ROI for wellness programs, included so students can compare this with the same team's 2019 RCT findings and consider what changed when the methodology improved.
+- Dollard, M.F., and Bakker, A.B. (2010): Psychosocial safety climate as a precursor to conducive work environments, psychological health problems, and employee engagement. Journal of Occupational and Organizational Psychology, 83(3), 579-599. The primary empirical paper on psychosocial safety climate as an organizational-level determinant of worker health.
+- World Health Organization (2010): Healthy Workplaces: A Model for Action for Employers, Workers, Policymakers, and Practitioners. WHO, Geneva. The WHO document defining the four-domain Healthy Workplace Framework. Note: this is a policy document, not a peer-reviewed journal article, but it is the standard reference for the framework and its domains.
+
+SLIDE 27: [CLASSWORK] The Call Center Diagnosis
+TITLE: The Call Center Diagnosis
+Scenario: A call center employs 450 customer service representatives. Workers handle 80-120 calls per day under scripted protocols that prohibit deviation. Call duration, tone, and script compliance are monitored in real time by supervisory software. Workers cannot choose their call queue, take bathroom breaks off a fixed schedule, or modify any element of their interaction with customers. Turnover is 38% annually. Absenteeism is nearly twice the industry average. A recent survey found that 34% of staff report high levels of psychological distress. The company has proposed adding a free meditation app subscription and a "wellness challenge" leaderboard to the employee benefits package.
+Your Task:
+- Part A, Karasek Diagnosis: locate these workers in the Job Demand-Control quadrant. What specifically places them there? What is the predicted health trajectory, and how long before it becomes a clinical and economic problem for the organization?
+- Part B, Siegrist Diagnosis: apply the Effort-Reward Imbalance model. Which reward dimension (money, esteem, or status control) is most likely the primary imbalance? Is there evidence of a structural overcommitment trap in this workforce? (Hint: consider labor market alternatives for these workers.)
+- Part C, The Intervention: propose one structural change (not a wellness perk) that would actually shift the Karasek quadrant or rebalance the Siegrist equation. What resistance would you expect from management, and what evidence would you cite in response?
+- Bonus: the company asks what Song and Baicker (2019) says about their proposed meditation app and wellness challenge. How do you answer that question without losing the room?
+
+SLIDE 28: [TEASER] Next Week: When Coping Becomes the Crisis
+TITLE: Next Week: When Coping Becomes the Crisis
+- From the demands of paid work, we turn to what happens when the psychological pain those demands produce goes untreated, and people reach for their own solutions.
+- Lecture 8 examines substance use and mental health through the lens of the Self-Medication Hypothesis (Khantzian, 1985): the argument that substance choice is not random but matches the specific nature of the distress a person is trying to relieve.
+- We will examine comorbidity evidence, harm reduction philosophy, and the criminalization vs. medicalization argument, which ties directly back to Lecture 2's analysis of who gets the sick role and who gets punished instead.
+- Preview question: if addiction is partly a coping mechanism for untreated psychological pain, what is the correct target of a substance use intervention: the substance, the person, or the conditions that produced the pain?
+
+SLIDE 29: [CLOSING] Change the Job, Not Just the Person
+TITLE: Change the Job, Not Just the Person
+- "A mindfulness app does not change the quadrant you are in. Job redesign does. Know the difference, and be honest about it with every employer you advise."
+- Attribution: (course epigraph)
+- Questions, office hours, and contact: [instructor details here]
+- Before next class: read Karasek (1979) and Song and Baicker (2019). Come with one workplace you have personal experience of and locate it in Karasek's quadrant. Be ready to explain your placement and what evidence-based change you would recommend.

@@ -1,0 +1,248 @@
+SLIDE 1: TITLE SLIDE
+Course: Health Promotion and Disease Prevention
+Lecture 7: Life Course Approaches in Health Promotion
+Instructor: Prof. [Your Name]
+Quote: Health is not a snapshot; it is a feature-length film. To understand the ending, you must understand the beginning.
+
+SLIDE 2: WELCOME AND LECTURE OBJECTIVES
+Moving Beyond the Silos of Age
+- In previous lectures, we looked at health through the lenses of sociology, psychology, and program planning.
+- Today, we look at health through the lens of TIME.
+- Objectives for today:
+  1. Define the Life Course Approach and its core principles.
+  2. Understand how social and biological factors accumulate over a lifetime.
+  3. Explore concepts like epigenetics, weathering, and critical periods.
+  4. Apply the life course perspective to health promotion program design.
+Exam Focus: You will be asked to explain why an intervention targeting only older adults might fail to reduce chronic disease rates if it ignores early-life and mid-life determinants.
+
+SLIDE 3: DEFINING THE LIFE COURSE APPROACH
+More Than Just "Aging"
+- The Life Course Approach is a multidisciplinary framework that studies health trajectories from pre-conception to death.
+- It rejects the idea that health events happen in isolation.
+- Core Premise: Health at any given age is the result of a cumulative sequence of experiences, exposures, and behaviors that began long before that age.
+- It bridges biology, sociology, psychology, and epidemiology.
+Takeaway: You cannot understand a 60-year-old's heart attack without looking at their 5-year-old diet, their 20-year-old stress levels, and their 40-year-old work environment.
+
+SLIDE 4: THE PARADIGM SHIFT IN PUBLIC HEALTH
+From Silos to Streams
+- Historically, public health was divided into rigid age silos: Maternal and Child Health (MCH), Adolescent Health, Adult Occupational Health, and Gerontology.
+- The problem: When a child ages out of the MCH system, their health data and interventions are often lost. 
+- The Life Course Approach shifts the paradigm from isolated "silos" to a continuous "stream" of health development.
+- It demands that health systems track and support individuals across transitions, rather than resetting their care at every new life stage.
+
+SLIDE 5: PRINCIPLE 1 - CUMULATIVE RISK AND ADVANTAGE
+The Matthew Effect in Health
+- In sociology, the Matthew Effect refers to the idea that "the rich get richer and the poor get poorer."
+- In the life course, this applies to health capital.
+- Cumulative Advantage: Early positive experiences (good nutrition, secure attachment, safe housing) build resilience that protects against future stressors.
+- Cumulative Disadvantage: Early negative exposures (toxins, poverty, trauma) compound over time, depleting the body's coping resources and accelerating disease.
+Takeaway: Health inequities do not just appear in old age; they widen progressively over the entire lifespan.
+
+SLIDE 6: THE WEATHERING HYPOTHESIS
+Arline Geronimus (1992)
+- Public health scholar Arline Geronimus noticed that the health of Black women in the US deteriorated much faster than white women as they aged.
+- She coined the term "Weathering" to describe the accelerated biological aging caused by chronic exposure to social marginalization, racism, and economic stress.
+- Weathering explains why a 30-year-old marginalized woman might have the biological health profile (and pregnancy risks) of a 45-year-old privileged woman.
+Exam Focus: Weathering is the ultimate proof that social determinants of health get "under the skin" and alter human biology in real-time.
+
+SLIDE 7: PRINCIPLE 2 - CRITICAL AND SENSITIVE PERIODS
+Windows of Vulnerability and Opportunity
+- The life course is not a flat, steady line. There are specific windows where the body and brain are highly malleable.
+- Critical Periods: A specific time window where an exposure permanently alters biological structure. If the exposure is missed, the damage cannot be reversed (e.g., fetal organ development).
+- Sensitive Periods: A time window where an exposure has a stronger impact than at other times, but the effect can be partially modified later (e.g., language acquisition, emotional regulation in early childhood).
+HP Application: Health promotion must prioritize resources during these windows, as interventions here yield the highest lifelong return on investment.
+
+SLIDE 8: THE FIRST 1,000 DAYS
+From Conception to Age Two
+- The most critical period in the human life course.
+- During this window, the brain architecture is built, the immune system is calibrated, and the metabolic baseline is set.
+- Exposures to maternal stress, malnutrition, or environmental toxins during this window can permanently alter the child's lifelong trajectory.
+- Interventions here (like prenatal care, paid maternity leave, and early home visiting) are the most powerful forms of primordial prevention.
+
+SLIDE 9: EPIGENETICS AND BIOLOGICAL EMBEDDING
+How Society Gets Under the Skin
+- Epigenetics is the study of how behaviors and environment change the way genes work, without changing the DNA sequence itself.
+- Think of DNA as the hardware (the piano keys). Epigenetics is the software (the sheet music) that tells the piano which keys to play and how loudly.
+- Social stress, trauma, and nutrition can add chemical "tags" to DNA that turn genes on or off.
+- Takeaway: The social determinants of health literally alter gene expression, embedding social inequality into human biology.
+
+SLIDE 10: PRINCIPLE 3 - LINKED LIVES
+We Do Not Age in Isolation
+- The life course is lived socially. Our trajectories are deeply intertwined with the people around us.
+- A child's health trajectory is linked to their parents' mental health and economic stability.
+- An older adult's health trajectory is linked to the availability and health of their adult children (caregivers).
+- Health promotion cannot target an individual in a vacuum; it must intervene in the family and social networks that surround them.
+
+SLIDE 11: INTERGENERATIONAL TRANSMISSION OF HEALTH
+The Echoes of the Past
+- Health capital is passed down through generations, both biologically and socially.
+- Biological: A grandmother's nutritional status during her pregnancy affects the egg cells of her daughter, which in turn affects the health of her grandchild.
+- Social: Generational wealth, educational attainment, and historical trauma are passed down, shaping the environments in which the next generation develops.
+Takeaway: To improve the health of a child today, we must sometimes look at the social conditions their grandparents lived in.
+
+SLIDE 12: PRINCIPLE 4 - HISTORICAL TIME AND PLACE
+The Cohort Effect
+- Human development is profoundly shaped by the historical era and geographic location in which a person is born.
+- A "cohort" is a group of people born around the same time who experience the same historical events (wars, pandemics, economic depressions, technological booms).
+- Example: The "Baby Boomers" experienced a post-war economic boom and the rise of processed foods, shaping their specific chronic disease profile compared to "Gen Z," who are growing up in an era of digital isolation and climate anxiety.
+
+SLIDE 13: TRAJECTORIES VS. TRANSITIONS
+Mapping the Journey
+- Trajectory: A long-term pathway or direction in life (e.g., a career path, a trajectory of declining mobility, a trajectory of stable mental health).
+- Transition: A short-term, specific state change or event that occurs within a trajectory (e.g., getting a first job, getting married, retiring, receiving a cancer diagnosis).
+- The interaction: A difficult transition (like a sudden job loss) can permanently alter a long-term health trajectory if the person lacks enabling resources to cope.
+
+SLIDE 14: FOOD FOR THOUGHT
+The Myth of "Pulling Yourself Up"
+- Western culture heavily emphasizes individual agency: the idea that you can change your life trajectory at any moment through sheer willpower.
+- The Life Course Approach challenges this. If a person has experienced 30 years of cumulative disadvantage, biological embedding of stress, and weathering, telling them to "make better lifestyle choices" at age 50 is scientifically naive.
+- Reflection: How do we balance respecting human agency with acknowledging the massive, invisible weight of cumulative biological and social history?
+
+SLIDE 15: THE BARKER HYPOTHESIS
+Developmental Origins of Health and Disease (DOHaD)
+- In the 1980s, epidemiologist David Barker noticed a geographic correlation: areas in England with the highest infant mortality rates in the 1920s had the highest rates of coronary heart disease in the 1970s.
+- He hypothesized that poor fetal nutrition forces the fetus to adapt its metabolism to survive a "starvation" environment.
+- When that baby is later born into a world of abundant, high-calorie food, their adapted metabolism leads to obesity, diabetes, and heart disease.
+Takeaway: Adult chronic diseases often have their origins in the womb.
+
+SLIDE 16: CASE STUDY - THE DUTCH HUNGER WINTER
+Proof of Fetal Programming
+- During WWII (1944-1945), a German blockade caused a severe famine in the Netherlands.
+- Pregnant women were forced to survive on 400 to 800 calories a day.
+- Decades later, researchers tracked the children born during this famine. 
+- Results: Those exposed to famine in early gestation had significantly higher rates of obesity, schizophrenia, and cardiovascular disease in adulthood compared to their siblings born before or after the famine.
+- Furthermore, epigenetic testing showed altered DNA methylation in these individuals 60 years later.
+
+SLIDE 17: TURNING POINTS
+Altering the Trajectory
+- A turning point is a specific event or intervention that fundamentally redirects a life trajectory.
+- It can be negative: A sudden spinal cord injury, a severe depressive episode, or an encounter with the criminal justice system.
+- It can be positive: Meeting a deeply supportive mentor, accessing a life-saving social welfare program, or entering a stable, loving marriage.
+HP Application: Health promotion programs are essentially designed to be artificial "positive turning points" for vulnerable populations.
+
+SLIDE 18: SOCIAL DETERMINANTS ACROSS THE LIFESPAN
+Shifting Weights of Influence
+- The impact of specific SDOH changes depending on the life stage.
+- Early Childhood: Parental income, maternal education, and housing stability are the dominant drivers of health.
+- Adolescence: Peer networks, school environment, and social media become the dominant drivers.
+- Adulthood: Occupational conditions, workplace control, and neighborhood safety take the lead.
+- Older Adulthood: Social isolation, access to age-friendly infrastructure, and healthcare access become critical.
+Takeaway: A one-size-fits-all intervention fails because the primary SDOH shift as people age.
+
+SLIDE 19: EARLY CHILDHOOD DEVELOPMENT (ECD)
+The Economics of Health
+- Nobel Laureate James Heckman demonstrated that investments in early childhood development yield the highest economic return of any social program.
+- The "Heckman Curve" shows that the return on investment (ROI) drops significantly the later in the life course an intervention is applied.
+- Remedial education and job training for adults yield a modest ROI. High-quality preschool and maternal support yield a massive ROI by preventing the need for remedial services later.
+Exam Focus: Use the Heckman Curve to justify upstream, early-life funding in policy advocacy and grant proposals.
+
+SLIDE 20: ADOLESCENCE
+The Second Window of Opportunity
+- Adolescence is not just a transition between childhood and adulthood; it is a massive period of neurological remodeling.
+- The brain's reward system (limbic system) matures faster than its impulse control system (prefrontal cortex).
+- This creates a "sensitive period" for risk-taking, substance use, and mental health onset (75 percent of mental health conditions begin before age 24).
+- However, it is also a second window of high neuroplasticity, meaning positive interventions (sports, arts, mentoring) can profoundly reshape trajectories.
+
+SLIDE 21: EMERGING ADULTHOOD
+The Delayed Transition
+- A relatively new life stage (ages 18 to 29) characterized by identity exploration, instability, and delayed entry into traditional adult roles (marriage, homeownership, stable career).
+- Driven by the modern knowledge economy requiring prolonged education and rising economic barriers.
+- Health Impacts: High rates of anxiety, depression, and lack of health insurance (in systems without universal coverage).
+- HP Application: Programs must be designed for this "in-between" stage, recognizing that these individuals do not identify with adolescent programs nor traditional adult workplace programs.
+
+SLIDE 22: MID-LIFE
+The Sandwich Generation and Allostatic Load
+- Mid-life (ages 40 to 60) is often the peak of occupational and social responsibility.
+- The "Sandwich Generation": Adults simultaneously caring for their aging parents and their own children.
+- This dual burden creates immense chronic stress, leading to peak Allostatic Load (biological wear-and-tear).
+- This is also the life stage where the cumulative effects of earlier risk factors manifest as the first clinical signs of chronic disease (hypertension, pre-diabetes).
+
+SLIDE 23: OLDER ADULTHOOD
+Compression vs. Expansion of Morbidity
+- As life expectancy increases, public health faces a critical question: Are we adding years to life, or life to years?
+- Expansion of Morbidity: People live longer, but spend those extra years sick, disabled, and dependent on care. (A public health failure).
+- Compression of Morbidity (James Fries): The goal of health promotion. Delaying the onset of chronic disease so that the period of sickness at the end of life is "compressed" into a very short time before death.
+Takeaway: The ultimate goal of life course health promotion is to square the survival curve and compress morbidity.
+
+SLIDE 24: INTERSECTIONALITY IN THE LIFE COURSE
+Compounding Disadvantage
+- A person does not experience their life course as just a "woman" or just a "minority" or just "working-class."
+- These identities intersect and compound over decades.
+- A low-income woman of color experiences cumulative disadvantage not just as an additive sum (race + class + gender), but as a unique, multiplicative burden that accelerates weathering and limits access to turning points.
+- Life course research must use intersectional frameworks to avoid erasing the unique trajectories of marginalized groups.
+
+SLIDE 25: POLICY IMPLICATIONS
+Breaking Government Silos
+- Governments are organized into ministries: Ministry of Education, Ministry of Health, Ministry of Labor, Ministry of Housing.
+- The Life Course Approach proves that this structure is fundamentally flawed for human development.
+- A child's health (Ministry of Health) is dictated by their mother's maternity leave (Ministry of Labor) and their early education (Ministry of Education).
+- True life course policy requires "Health in All Policies" and cross-ministerial budgets that follow the human, not the bureaucratic silo.
+
+SLIDE 26: DESIGNING INTERVENTIONS
+Linking Life Course to PRECEDE-PROCEED
+- When doing your Phase 3 (Educational/Ecological) Assessment for your Final Report, apply a life course lens.
+- Ask: What historical or early-life factors created the current enabling and predisposing barriers?
+- Example: If your target population has low health literacy (predisposing), a life course analysis reveals this is due to underfunded schools in their neighborhood 30 years ago (structural/historical).
+- Intervention shift: Instead of just giving them a pamphlet today, advocate for educational equity for their children to break the intergenerational cycle.
+
+SLIDE 27: PUZZLE
+The Ethics of Predictive Intervention
+- Scenario: Epigenetic and life course data allows us to predict with 85 percent accuracy that a specific toddler living in poverty will develop metabolic syndrome and depression by age 30.
+- Question: Is it ethical to label this child as "high risk" and intervene heavily in their family's life? 
+- Does predictive labeling create a self-fulfilling prophecy or stigmatize the child? 
+- How do we intervene supportively without treating a living child like a statistical inevitability?
+
+SLIDE 28: CRITIQUES AND LIMITATIONS
+No Model is Perfect
+1. Biological Determinism: Over-emphasizing early life can lead to a fatalistic view that "the damage is done" by age 5, ignoring human resilience and neuroplasticity in later life.
+2. Blaming the Mother: The intense focus on the First 1,000 Days often results in the hyper-surveillance and blaming of pregnant women for any negative outcome, ignoring broader societal failures.
+3. Data Complexity: Tracking cohorts over 50 years requires massive, expensive longitudinal datasets that many countries simply do not have.
+
+SLIDE 29: SUMMARY - THE 4 PILLARS
+Memorize the Core Principles
+1. Cumulative Trajectory: Health is a continuous accumulation of risk or advantage over time.
+2. Critical/Sensitive Periods: There are specific windows of high biological and social malleability.
+3. Linked Lives: Health trajectories are deeply embedded in social networks and intergenerational histories.
+4. Historical Context: Cohorts are shaped by the specific time and place of their development.
+
+SLIDE 30: KEY TERMS GLOSSARY (EXAM PREP)
+Master the Vocabulary
+- Life Course Approach: The study of health trajectories from pre-conception to death.
+- Weathering: Accelerated biological aging due to chronic social marginalization.
+- Epigenetics: Changes in gene expression caused by environmental and social factors, without altering the DNA sequence.
+- DOHaD: Developmental Origins of Health and Disease (The Barker Hypothesis).
+- Turning Point: An event that fundamentally redirects a long-term life trajectory.
+- Compression of Morbidity: Delaying chronic illness so that the period of sickness at the end of life is shortened.
+- Linked Lives: The principle that individual trajectories are intertwined with social networks.
+
+SLIDE 31: APPLYING THIS TO YOUR FINAL REPORT
+Part 1 and Part 2 Integration
+- In Part 1 (Needs Assessment): When describing your target population, include a brief life course context. What historical or early-life events shaped their current reality?
+- In Part 2 (Intervention): Ensure your intervention acknowledges the life stage of your population. Do not apply an adolescent behavioral model to a mid-life adult population.
+- Use the Life Course Approach to justify why your intervention is a necessary "turning point" for your target group.
+
+SLIDE 32: FURTHER READING
+Required Journal Article
+Kuh, D., Ben-Shlomo, Y., Lynch, J., Hallqvist, J., & Power, C. (2003). Life course epidemiology. Journal of Epidemiology and Community Health, 57(10), 778-783.
+Why read this?
+- It is the foundational text that formally defined "Life Course Epidemiology" for modern public health.
+- It brilliantly explains the difference between critical periods, accumulation of risk, and social mobility.
+- It provides the exact theoretical language you need to elevate the academic rigor of your Final Report.
+- Essential for understanding how early exposures map onto late-life chronic diseases.
+
+SLIDE 33: NEXT WEEK'S TEASER
+Lecture 8: Workplace Health Promotion
+- Moving from the lifespan to a specific, critical setting: The Workplace.
+- Why we spend a third of our lives at work, and how work makes us sick.
+- Psychosocial hazards, burnout, and the myth of "resilience training."
+- Designing comprehensive Workplace Health Promotion programs using the Ottawa Charter.
+Action Item: Review your Final Report target population. Map out their current life stage and identify one critical "turning point" your proposed intervention could provide. 
+See you next week.
+
+SLIDE 34: THANK YOU
+Think Longitudinally. Act Upstream.
+Contact:
+- Email: [Professor's Email]
+- Office Hours: [Time/Location]
+Quote to leave you with: "The best time to plant a tree was 20 years ago. The second best time is now. In public health, we must plant for the next generation while tending to the roots of the current one."
+Have a great week of research and reflection.

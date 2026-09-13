@@ -1,0 +1,220 @@
+SLIDE 1: [COVER] Substance Use and Mental Health
+TITLE: Substance Use and Mental Health
+- Course: Health Promotion and Disease Prevention
+- Lecture 8
+- "People do not choose their addiction. They choose their relief."
+- Attribution: (course epigraph)
+
+SLIDE 2: [AGENDA] What We Cover Today
+TITLE: What We Cover Today
+- Part 1: The Self-Medication Hypothesis, why substance choice is not random
+- Part 2: The comorbidity evidence, how often mental illness and substance use disorders co-occur, and what that means for treatment
+- Part 3: Harm reduction vs. abstinence-only, two philosophies, one health system
+- Part 4: Criminalization vs. medicalization, who gets the sick role and who gets punished
+- Part 5: Structural determinants of substance use and what health promotion can actually do
+- The thread: addiction is not a moral failure wearing a medical costume, but it is also not only a brain disease. It is both, and the tension between those two framings shapes every policy debate in this field
+
+SLIDE 3: [QUOTE] The Self-Medication Insight
+TITLE: The Self-Medication Insight
+Quote: "Addicts are not self-destructive; they are self-medicating."
+Attribution: Edward Khantzian, American Journal of Psychiatry, 1985
+
+SLIDE 4: The Self-Medication Hypothesis
+- Edward Khantzian, American Journal of Psychiatry (1985): argued, on the basis of extensive clinical psychoanalytic work with heroin and cocaine users, that substance choice is not random. People do not use whatever happens to be available; they are drawn to the specific drug that best addresses the particular psychological pain they are carrying.
+- The Core Claim: substance use is purposeful. It is not primarily pleasure-seeking or risk-taking. It is self-treatment of an unmet psychological need, typically pain, anxiety, emptiness, or traumatic distress.
+- Heroin and Opioids: Khantzian observed that heroin users frequently presented with underlying rage, interpersonal aggression, and an inability to manage violent feelings. Opioids, with their calming, numbing, and socially smoothing effects, served as a chemical solution to a problem of affect regulation that the person had no other means to address.
+- Cocaine and Stimulants: users more commonly presented with underlying depression, low energy, and anhedonia. Stimulants produced the activation and confidence that the person experienced as unavailable without the drug.
+- Alcohol: more heterogeneous, but frequently associated with anxiety disorders, social phobia, and the need to suppress inhibition and reduce interpersonal fear.
+- Exam Focus: know Khantzian's Self-Medication Hypothesis, the year and journal, and be able to give a specific example of the drug-distress match for at least two substance classes.
+
+SLIDE 5: Why the SMH Matters for Health Promotion
+- It Reframes the Question: if substance use is purposeful relief-seeking, the question changes from "how do we stop this behavior?" to "what pain is this behavior managing, and how else can it be managed?"
+- Treatment Implications: if you remove the substance without addressing the underlying psychological pain, the person either returns to the substance, substitutes another substance, or decompensates in another way. This is the primary mechanism behind relapse.
+- The Missing Link in Standard Programs: most abstinence-focused programs address the substance. The SMH argues that without concurrent treatment of the underlying mental health condition, abstinence is a partial solution at best.
+- The Prevention Argument: if substance use develops in response to unmet mental health needs, then adequate, accessible mental health treatment is a substance use prevention strategy. Closing the gap in mental health service access is not only a mental health issue. It is a drug policy issue.
+- Critical Flaw of the SMH: the hypothesis was developed from clinical psychoanalytic observation rather than controlled research. Not all substance use fits the self-medication pattern. Recreational and social use, peer-initiated use, and physiologically driven dependence after prescribed medication all follow different pathways that the SMH does not fully explain.
+- Exam Focus: be able to use the SMH to argue for integrated treatment of co-occurring disorders, and be able to state its key methodological limitation.
+
+SLIDE 6: The Comorbidity Evidence
+- The Epidemiological Catchment Area Study: Regier, Farmer, Rae, et al. (1990), JAMA: one of the first large-scale epidemiological studies to document the systematic co-occurrence of mental disorders and substance use disorders in the US population. Key finding: individuals with a lifetime alcohol use disorder had more than twice the odds of at least one other mental disorder compared to those without.
+- The National Comorbidity Survey: Kessler et al. (1994), Archives of General Psychiatry: a nationally representative US study confirming that most people who meet lifetime criteria for a DSM disorder meet criteria for more than one. Co-occurrence is the norm, not the exception.
+- The Direction Problem: comorbidity data show that the two disorder categories frequently co-occur, but the causal direction is not always clear. Does untreated mental illness lead to substance use (self-medication), or does chronic substance use produce psychiatric symptoms (pharmacological), or does a common underlying vulnerability (trauma, genetic predisposition, adversity) produce both independently? All three pathways have empirical support.
+- The Bidirectional Model: the current consensus is that causation runs in both directions simultaneously. Untreated anxiety drives alcohol use; chronic heavy alcohol use worsens anxiety. The loop reinforces itself, making it increasingly difficult to treat either condition in isolation.
+- Exam Focus: know the Regier et al. (1990) and Kessler et al. (1994) studies as the foundational comorbidity evidence, and be able to explain the bidirectional causal model.
+
+SLIDE 7: The Scale of Co-Occurring Disorders
+- Current Estimates: systematic reviews of the comorbidity literature (e.g., Lai et al., 2015) consistently find that 40-60% of people seeking treatment for a substance use disorder also meet diagnostic criteria for at least one other mental disorder, and roughly the same proportion of people seeking mental health treatment have a co-occurring substance use disorder.
+- The Most Common Pairings: alcohol use disorder with depression and anxiety disorders; stimulant use disorder with mood disorders; opioid use disorder with trauma-related conditions and chronic pain.
+- What This Means in Practice: if you treat the substance use disorder and discharge the patient without addressing the mental health condition, you have treated roughly half the problem. If you treat the mental health condition and discharge the patient without addressing the substance use disorder, you have done the same. Both are incomplete, and the incomplete version reliably produces relapse.
+- "No Wrong Door": the term used in integrated care systems for an approach in which any point of entry, emergency department, primary care, mental health clinic, or addiction service, can assess and begin treatment for both conditions simultaneously, rather than routing the person to a separate, often inaccessible service.
+- Exam Focus: know the approximate scale of comorbidity (40-60% co-occurrence in treatment-seeking populations) and be able to explain what integrated "no wrong door" treatment requires structurally.
+
+SLIDE 8: Harm Reduction: Philosophy and Practice
+- The Core Principle: harm reduction accepts that some people will use substances regardless of whether they are legal, illegal, or socially condemned. The goal is not to eliminate use but to reduce the health, social, and economic harms associated with use, for the individual and for the community.
+- G. Alan Marlatt's Contribution: Marlatt and colleagues at the University of Washington developed the harm reduction framework for alcohol and other drug problems in the 1980s and 1990s, drawing on public health principles and challenging the abstinence-or-nothing model that dominated US and Canadian drug policy.
+- Core Harm Reduction Practices: needle and syringe programs (reducing bloodborne disease transmission); naloxone distribution and training (reversing opioid overdose); supervised consumption sites (providing a safe environment for drug use with immediate overdose response capability); drug checking services (identifying toxic adulterants); low-barrier opioid agonist therapy (methadone, buprenorphine without requiring abstinence as a precondition).
+- The Evidence Base: needle and syringe programs are among the most cost-effective public health interventions in the HIV/AIDS literature. Supervised consumption sites have been associated with reductions in overdose mortality and increases in treatment entry in cities where they operate. Opioid agonist therapy is among the most strongly evidenced treatments for opioid use disorder.
+- Exam Focus: know the definition of harm reduction, the name of Marlatt as a key theorist, and at least three specific harm reduction practices with their evidence basis.
+
+SLIDE 9: [PUZZLE] Food for Thought
+TITLE: Food for Thought
+Sit with these before we continue:
+- If addiction is a purposeful response to untreated psychological pain, as Khantzian argues, why does our legal system so consistently respond to it with punishment rather than treatment? What theory of human behavior underpins the punitive approach, and what does the comorbidity evidence do to that theory?
+- If a large proportion of people with a substance use disorder also meet criteria for another mental illness, and health systems routinely treat only one condition at a time, what exactly are we treating? And whose interests does a fragmented treatment system serve?
+- Harm reduction says "meet people where they are." Zero-tolerance says "abstinence or nothing." Many health systems officially endorse both simultaneously. Is that a thoughtful both-and approach, or incoherence masquerading as pluralism?
+
+SLIDE 10: Abstinence-Only vs. Harm Reduction: The Policy Debate
+- Abstinence-Only Model: substance use is inherently harmful; the only acceptable outcome is complete cessation. Treatment success is defined as abstinence. Provision of services that facilitate "safer" use is characterized as enabling.
+- Harm Reduction Model: complete abstinence is an unrealistic outcome for many people in active addiction. Reducing harm, death, disease, family disruption, economic loss, is a legitimate and measurable treatment goal even in the absence of abstinence. Any step that reduces harm is a success.
+- The Evidence Does Not Support Abstinence-Only as the Exclusive Approach: the Cochrane and systematic review literature consistently shows that opioid agonist therapy (which does not require abstinence), needle programs, and supervised consumption sites reduce mortality and disease transmission without increasing overall drug use in the surrounding community.
+- Why the Debate Persists: the persistence of abstinence-only approaches in the face of contrary evidence reflects moral and political commitments rather than scientific ones. If drug use is fundamentally a moral failure, then facilitating "safer" failure is itself morally wrong. If drug use is fundamentally a health condition, harm reduction is simply good public health practice.
+- Critical Flaw of Pure Harm Reduction: harm reduction can become a reason to delay engaging with the underlying trauma, mental illness, or social conditions driving use. Used thoughtlessly, "meeting people where they are" can mean leaving people there indefinitely.
+- Exam Focus: be able to present both positions fairly, explain what the evidence supports, and articulate why the debate persists despite the evidence.
+
+SLIDE 11: Criminalization vs. Medicalization: Who Gets the Sick Role?
+- Callback to Lecture 2: Parsons's sick role grants two rights (exemption from blame, exemption from normal duties) in exchange for two obligations (want to recover, seek competent help). The question this lecture forces is: who gets the sick role for addiction, and who gets arrested instead?
+- The Historical Pattern: drug policy in most high-income countries has systematically applied criminal sanction to some substance users and medical sympathy to others, along lines that correlate far too well with race and class to be scientifically determined.
+- The US Example: the crack cocaine vs. powder cocaine sentencing disparity, in which the same pharmacological substance in its more affordable form (crack, associated with Black urban users) received 100:1 harsher federal sentencing than the more expensive form (powder, associated with white and middle-class users) until partial reform in 2010. The biology was identical. The social response was not.
+- The Medicalization of Opioids: the opioid epidemic of the 2010s, affecting predominantly white, rural, and suburban communities in the US, generated substantial political will to frame addiction as a public health crisis deserving treatment resources, harm reduction services, and federal funding. Critics noted that the crack epidemic of the 1980s, affecting predominantly Black urban communities, generated prison sentences.
+- The Sick Role Test: who receives the sick role right of "not held responsible for the condition" depends less on the pharmacology of the substance than on the social identity of the person using it.
+- Exam Focus: connect criminalization vs. medicalization of addiction explicitly to Parsons's sick role framework from Lecture 2, and use at least one concrete policy example to illustrate the selective application of the sick role by race and class.
+
+SLIDE 12: [CHART] The Comorbidity Venn Diagram
+TITLE: The Comorbidity Venn Diagram
+Chart type: two overlapping circles (Venn diagram)
+Left circle: Substance Use Disorders
+- Labels within left circle only: initiated through recreational use, peer influence, or pharmacological exposure; genetic vulnerability to addiction; drug availability and price
+Right circle: Mental Health Conditions
+- Labels within right circle only: biological predisposition, trauma, adverse childhood experiences; environmental triggers; neurodevelopmental factors
+Overlapping central area: labeled "Co-occurring / Dual Diagnosis (40-60% of treatment-seeking populations)"
+- Inside overlap: note "The bidirectional zone: self-medication drives use; chronic use worsens mental health"
+
+Bidirectional arrows:
+- Arrow from left circle to right circle: labeled "Chronic substance use worsens psychiatric symptoms"
+- Arrow from right circle to left circle: labeled "Untreated mental illness drives self-medication"
+
+Third element outside both circles (shared upstream): box above both circles labeled "Common Upstream Factors" with sub-items: adverse childhood experiences, trauma, poverty, social isolation, epigenetic vulnerability
+Arrows running downward from this box into both circles.
+Source: Illustrative, based on Regier et al. (1990), Kessler et al. (1994), Lai et al. (2015).
+
+SLIDE 13: Structural Determinants of Substance Use
+- Poverty and Economic Insecurity: substance use disorders are consistently more prevalent in communities experiencing high unemployment, income inequality, and housing instability. This is not a cultural or moral characteristic. It is a predictable response to chronic stress, limited legitimate opportunity, and the availability of substances as coping tools.
+- Adverse Childhood Experiences: the ACE dose-response relationship established in Lecture 6 applies with particular force to substance use. Adults with four or more ACEs have dramatically elevated rates of substance use disorders compared to those with none. Childhood adversity is one of the strongest population-level predictors of adult addiction.
+- Social Isolation: connection to other people is a fundamental human need. Its absence, whether through poverty, discrimination, incarceration, or community disintegration, is strongly associated with elevated substance use. The rat park experiments (Alexander et al., 1978-1980) demonstrated in animal models that social enrichment dramatically reduces voluntary drug consumption even in physiologically dependent animals.
+- Housing Instability: homelessness and severe housing instability dramatically increase substance use risk and dramatically reduce treatment effectiveness. Abstinence is a nearly impossible treatment goal for someone sleeping in a shelter or on the street. Housing is a prerequisite for treatment, not a reward for achieving abstinence.
+- Exam Focus: be able to name at least four structural determinants of substance use risk and explain the mechanism linking each to elevated addiction vulnerability.
+
+SLIDE 14: [ABSTRACT] Khantzian (1985): The Self-Medication Hypothesis
+TITLE: Khantzian (1985): The Self-Medication Hypothesis
+Citation: Khantzian, E.J. (1985). The self-medication hypothesis of addictive disorders: focus on heroin and cocaine dependence. American Journal of Psychiatry, 142(11), 1259-1264.
+Finding: Drawing on extensive clinical experience with patients in psychoanalytic treatment for heroin and cocaine dependence, Khantzian argued that substance choice reflects the specific psychological vulnerabilities and ego deficits of the user rather than random drug availability or hedonistic pleasure-seeking. Heroin users, he observed, disproportionately struggled with rage and affect dysregulation, while cocaine users more commonly presented with underlying depression and anhedonia. He argued that addictions are not fundamentally expressions of self-destructiveness but of self-care, attempts to manage psychological pain in the absence of more adaptive resources.
+Relevance: This paper is the foundational statement of the Self-Medication Hypothesis and one of the most cited papers in addiction psychiatry. It provides the primary clinical and theoretical argument for integrated treatment of substance use and co-occurring mental health conditions, and for shifting the framing of addiction from moral failure to psychological suffering.
+[Insert screenshot of the abstract here]
+
+SLIDE 15: [ABSTRACT] Regier et al. (1990): The Comorbidity Evidence
+TITLE: Regier et al. (1990): Comorbidity of Mental Disorders with Substance Use
+Citation: Regier, D.A., Farmer, M.E., Rae, D.S., et al. (1990). Comorbidity of mental disorders with alcohol and other drug abuse: results from the Epidemiologic Catchment Area (ECA) Study. JAMA, 264(19), 2511-2518.
+Finding: Analyzing data from over 20,000 respondents in the landmark Epidemiologic Catchment Area study, Regier and colleagues documented pervasive co-occurrence of addictive disorders and other mental disorders in the general US population. They found that nearly half of people with a lifetime substance use disorder also met criteria for another mental disorder, and that the relationship held across diagnostic categories including schizophrenia, mood disorders, and anxiety disorders. The study established that comorbidity is the epidemiological rule rather than the exception, fundamentally challenging the siloed treatment system in which mental health and addiction services operated separately.
+Relevance: This is the epidemiological foundation for the entire integrated care movement in mental health and addiction treatment. Its findings made it impossible to argue, on empirical grounds, that substance use disorders and mental disorders are distinct clinical populations requiring separate treatment systems.
+[Insert screenshot of the abstract here]
+
+SLIDE 16: [PUZZLE] Puzzling Questions
+TITLE: Puzzling Questions
+Harder questions, no comfortable answers:
+- Harm reduction says "meet people where they are." Abstinence-only says "abstinence is the only acceptable outcome." Can a single health system coherently operate both philosophies simultaneously, or does the presence of one undermine the other? What would it look like if both were genuinely available and not in competition?
+- Stigma is one of the most powerful barriers to help-seeking for both mental health conditions and substance use disorders. If criminalization deepens stigma, and stigma prevents help-seeking, then the drug itself may be a smaller public health problem than the policy response to the drug. What evidence would you need to test that claim, and how would you present it to a policymaker?
+- The rat park experiments showed that socially isolated, environmentally impoverished animals consume far more drugs than those in socially enriched conditions, even when physiologically dependent. If the primary driver of addiction is not the drug but the impoverishment of the life in which the drug is used, what is the correct unit of intervention: the individual, the drug, or the social conditions?
+- "Housing first" programs provide permanent housing to people with co-occurring substance use and mental health conditions without requiring abstinence or treatment compliance as preconditions. The evidence shows they consistently outperform abstinence-contingent programs on housing stability outcomes. Does that finding settle the debate about contingency in treatment, or just reframe it?
+
+SLIDE 17: Treatment Models and Their Evidence Base
+- The Minnesota Model (12-Step Based): abstinence-focused residential or outpatient treatment built around Alcoholics Anonymous and Narcotics Anonymous philosophy. Widely implemented, particularly in North America. The evidence for its effectiveness relative to other approaches is mixed; it works well for a substantial minority of participants and is ineffective for many others. Does not address co-occurring mental health conditions as a clinical priority.
+- Cognitive-Behavioral Therapy for Addiction: well-evidenced for alcohol use disorder and stimulant use disorder. Addresses thought patterns, behavioral triggers, and coping skills. Works best in combination with pharmacotherapy for opioid and alcohol use disorders. Can address co-occurring conditions when adapted.
+- Opioid Agonist Therapy: methadone and buprenorphine are among the most strongly evidenced treatments in all of addiction medicine. They reduce overdose mortality, reduce illicit opioid use, improve social functioning, and increase treatment retention. They do not require abstinence as a precondition. They are chronically under-prescribed relative to their evidence base, largely because of policy and stigma barriers.
+- Integrated Dual Diagnosis Treatment: simultaneous, coordinated treatment of substance use disorder and co-occurring mental health condition by the same treatment team. The evidence consistently shows better outcomes than sequential or parallel treatment by separate providers.
+- Exam Focus: know the evidence base for opioid agonist therapy (strong), integrated dual diagnosis treatment (strong), and 12-step approaches (mixed and population-dependent), and be able to explain why the most-evidenced approaches are not always the most commonly available.
+
+SLIDE 18: Stigma as a Structural Barrier
+- The Double Stigma: people with co-occurring substance use and mental health conditions face stigma from two directions simultaneously. Substance use disorders are stigmatized in the general population and often within mental health services. Mental health conditions are stigmatized in addiction treatment communities that prize resilience and recovery through willpower.
+- How Stigma Operates as a Health Determinant: stigma delays help-seeking; reduces disclosure to providers (affecting diagnosis and treatment quality); is associated with self-stigma, which reduces self-efficacy and recovery motivation; is associated with provider bias that produces worse clinical care; and generates policy environments (criminalization, punitive welfare conditions) that increase harm.
+- The Goffman Framework (Lecture 2 Callback): Erving Goffman's concept of stigma as a "spoiled identity" applies with particular force to addiction. The stigmatized attribute (drug use) overrides all other attributes of the person in social perception. The person becomes, in the eyes of observers, only their addiction.
+- Structural Destigmatization: reducing stigma is not primarily a public awareness campaign problem. It is a structural problem. Criminalization generates stigma by defining drug use as criminal. Segregated treatment systems generate stigma by marking addiction services as apart from mainstream healthcare. Framing addiction in public discourse as a moral failure generates stigma regardless of awareness campaigns.
+- Exam Focus: explain the mechanism by which stigma operates as a barrier to treatment, and name at least two structural changes that would reduce stigma more effectively than an awareness campaign alone.
+
+SLIDE 19: The Portugal Model: A Policy Case Study
+- In 2001, Portugal decriminalized the personal possession of all drugs, including heroin and cocaine. Possession remained a civil matter subject to referral to "Dissuasion Commissions" (typically comprising a social worker, a lawyer, and a clinician), which could refer individuals to treatment, impose small administrative fines, or take no action.
+- What Decriminalization Did Not Do: it did not legalize drug trafficking or production. It did not create a legal commercial market. It reduced the criminal sanctions attached to personal use without endorsing use.
+- The Concurrent Investment: alongside decriminalization, Portugal substantially increased investment in harm reduction services, opioid agonist therapy, social reintegration programs, and housing support. The two changes happened together.
+- The Outcomes: in the decade following decriminalization, drug-related HIV infections fell dramatically; drug-related deaths fell; drug use rates did not increase substantially compared to EU averages; and treatment uptake increased as the criminal sanction barrier to seeking help was removed.
+- The Interpretive Debate: supporters cite Portugal as evidence that decriminalization plus public health investment reduces harm. Critics argue that Portugal's outcomes cannot be generalized because of specific social, cultural, and health system conditions. Both positions have merit.
+- Exam Focus: know Portugal (2001) as a policy case study, know the key outcome findings, and be able to present both the supporting and cautionary interpretations.
+
+SLIDE 20: Synthesis: The Three Frames and What Health Promotion Needs
+- Moral Frame: addiction is a choice, a failure of will, a character defect. Treatment implication: consequences and willpower. Policy implication: criminalization and punishment. Evidence basis: weak; does not explain why treatment and reducing structural stress reduce addiction rates.
+- Brain Disease Frame: addiction is a chronic relapsing brain disease characterized by compulsive drug-seeking despite negative consequences (NIDA). Treatment implication: pharmacological and behavioral medical treatment. Policy implication: medicalization, insurance coverage, public health investment. Evidence basis: strong for biological mechanisms; criticized for potentially overriding agency and obscuring social determinants.
+- Social-Structural Frame: addiction is a predictable response to specific social conditions: poverty, trauma, isolation, inequality. Treatment implication: address underlying conditions alongside the addiction. Policy implication: housing, income support, early childhood investment, harm reduction. Evidence basis: strong for structural determinants; sometimes criticized for obscuring individual agency and accountability.
+- The Practitioner's Position: all three frames capture something real. Moral framing is the least useful clinically and most harmful policy-wise. Brain disease framing and social-structural framing are complementary rather than competing. Effective health promotion holds both: address the biological condition and change the social conditions that produced it.
+
+SLIDE 21: Implications for Health Promotion Practice
+- At the Clinical Level: screen for co-occurring disorders routinely. Never treat substance use without assessing for underlying mental health conditions, and never treat mental health conditions without assessing for substance use. Referral to a separate service is not adequate if waiting lists are six months long.
+- At the Program Level: design services that do not require abstinence as a precondition for engagement. People will not enter systems that demand a treatment outcome before they receive treatment. Low-barrier entry is not lowering standards; it is removing the barrier between the person and the help they need.
+- At the Policy Level: advocate for decriminalization of personal possession as a public health measure. The evidence supports it. Advocate for housing first, for naloxone distribution without prescription, for supervised consumption sites, and for opioid agonist therapy access without bureaucratic gatekeeping.
+- The Connection Back: if Khantzian is right and substance choice is self-medication for specific psychological pain, and if the most common sources of that pain are childhood adversity, workplace stress, and social isolation, then substance use prevention is partly a Lecture 6 (early childhood investment) and Lecture 7 (job redesign) problem. The circles connect.
+
+SLIDE 22: Glossary
+- Self-Medication Hypothesis (Khantzian, 1985): the theory that substance choice is purposeful rather than random, driven by the specific psychological vulnerabilities and pain the person is attempting to relieve.
+- Comorbidity (Co-occurring Disorders): the simultaneous presence of a substance use disorder and at least one other mental health diagnosis in the same person.
+- Dual Diagnosis: clinical term for co-occurring substance use disorder and mental health condition; associated with a specific integrated treatment model.
+- Harm Reduction: a public health philosophy and set of practices oriented toward reducing the health, social, and economic harms of substance use without requiring abstinence as a precondition for service access.
+- Opioid Agonist Therapy (OAT): pharmacological treatment for opioid use disorder using methadone or buprenorphine to reduce cravings, block withdrawal, and enable functioning without illicit opioid use.
+- Abstinence-Only Model: a treatment philosophy that defines abstinence from all substance use as the only acceptable treatment goal and withholds or conditions services on progress toward that goal.
+- Decriminalization: the removal of criminal penalties from personal drug possession while retaining prohibitions on supply and trafficking; distinguished from legalization.
+- No Wrong Door: an integrated service design principle in which any point of entry to the healthcare system can assess and begin treatment for co-occurring conditions simultaneously, rather than routing the person to a separate service.
+
+SLIDE 23: Carrying This Forward
+- This lecture has argued that substance use disorders cannot be adequately understood or effectively treated as isolated behavioral conditions. They are embedded in psychiatric comorbidity, structural determinants, stigma systems, and policy environments that either facilitate or impede recovery.
+- Next week, Lecture 9, we move to the other end of the life course: health promotion for older adults. A different population, a different set of frameworks, but the same structural question underneath: what conditions, biological and social, determine whether someone ages in good health, and what can health promotion do about the ones that can be changed?
+- Preview question: Rowe and Kahn's Successful Aging model says successful aging means low disease, high function, and active engagement with life. If that definition excludes anyone with a chronic condition from ever aging "successfully," regardless of how joyful or engaged they are, is the model measuring health or measuring a very specific social ideal of health?
+
+SLIDE 24: What to Take Into the World
+- The next time someone frames an addiction as a moral failure, ask: what pain was this person medicating, and what other options did they have for managing it?
+- The next time a treatment program requires abstinence as a precondition for entry, ask: whose barrier is this serving, the program's comfort or the patient's recovery?
+- The next time a drug policy debate defaults to enforcement as the primary response, ask: what does the evidence from Portugal, from harm reduction research, and from the comorbidity literature say about whether that response produces the outcomes it claims to produce?
+- These are not rhetorical questions. They are the evidence-based positions that a health promotion practitioner is professionally equipped and obligated to advance.
+
+SLIDE 25: [READING] Further Reading, Part 1
+TITLE: Further Reading, Part 1
+- Khantzian, E.J. (1985): The self-medication hypothesis of addictive disorders: focus on heroin and cocaine dependence. American Journal of Psychiatry, 142(11), 1259-1264. The primary source for the SMH and one of the most cited papers in addiction psychiatry.
+- Regier, D.A., Farmer, M.E., Rae, D.S., et al. (1990): Comorbidity of mental disorders with alcohol and other drug abuse: results from the Epidemiologic Catchment Area Study. JAMA, 264(19), 2511-2518. The foundational epidemiological evidence for the pervasiveness of co-occurring disorders.
+- Kessler, R.C., McGonagle, K.A., Zhao, S., et al. (1994): Lifetime and 12-month prevalence of DSM-III-R psychiatric disorders in the United States: results from the National Comorbidity Survey. Archives of General Psychiatry, 51(1), 8-19. Establishes comorbidity as the population-level norm, not the exception, and quantifies the scale of co-occurrence in a nationally representative sample.
+- Lai, H.M., Cleary, M., Sitharthan, T., and Hunt, G.E. (2015): Prevalence of comorbid substance use, anxiety and mood disorders in epidemiological surveys, 1990-2014: a systematic review and meta-analysis. Drug and Alcohol Dependence, 154, 1-13. The most comprehensive systematic synthesis of comorbidity prevalence data across 25 years of epidemiological research.
+
+SLIDE 26: [READING] Further Reading, Part 2
+TITLE: Further Reading, Part 2
+- Marlatt, G.A., and Donovan, D.M. (Eds.) (2005): Relapse Prevention: Maintenance Strategies in the Treatment of Addictive Behaviors (2nd ed.). Guilford Press. The canonical statement of Marlatt's harm reduction and relapse prevention framework. Note: this is a book; search for Marlatt's journal articles on harm reduction for a peer-reviewed entry point.
+- Hughes, E. (2006): Closing the gap: from evidence to action in dual diagnosis treatment. Mental Health and Substance Use: Dual Diagnosis, 1(1), 5-9. An accessible policy-oriented review of the evidence for integrated dual diagnosis treatment versus siloed sequential models.
+- Greenfield, S.F., Brooks, A.J., Gordon, S.M., et al. (2007): Substance abuse treatment entry, retention, and outcome in women: a review of the literature. Drug and Alcohol Dependence, 86(1), 1-21. Documents gender-specific patterns in substance use treatment access and outcome, an important equity dimension the main lecture content does not fully address.
+- Hughes, E., and Stevens, A. (2010): What can we learn from the Portuguese decriminalization of illicit drugs? British Journal of Criminology, 50(6), 999-1022. The most rigorous independent evaluation of the Portuguese decriminalization model and its health outcomes, with appropriate attention to contextual factors that limit generalizability.
+
+SLIDE 27: [CLASSWORK] No Wrong Door: Designing an Integrated Pathway
+TITLE: No Wrong Door: Designing an Integrated Pathway
+Scenario: A 38-year-old warehouse worker presents to a hospital emergency department following an opioid overdose. Naloxone has been administered and the immediate medical crisis is stabilized. Chart review reveals two prior ED presentations: one for a fractured wrist from a workplace accident and one for a mental health crisis approximately 18 months ago. There is no record of follow-up mental health care after the second presentation.
+Additional context: the patient mentions in the initial assessment that they began using opioids following a prescription for pain after a workplace injury three years ago. They describe significant ongoing work-related pain, poor sleep, and "feeling like nothing matters." They have not disclosed opioid use to their GP because they fear judgment.
+Your Task:
+- Part 1, SMH Lens: apply Khantzian's framework. What specific pain might this person have been medicating, and does the drug class (opioids) fit Khantzian's predicted pattern for that pain?
+- Part 2, Design the "No Wrong Door" Pathway: design a treatment pathway that addresses both the opioid use disorder and the co-occurring conditions simultaneously, beginning from this ED presentation. What does the first week look like? The first month? What does "no wrong door" mean concretely in this case?
+- Part 3, Structural Question: which social determinants most likely contributed to this person's trajectory from prescribed opioid patient to overdose presentation? Name at least three, and for each one name a structural (not individual) intervention that could have interrupted the pathway.
+- Bonus: the patient says "I don't want to go to rehab." Using harm reduction principles, what is your next step?
+
+SLIDE 28: [TEASER] Next Week: Health Promotion for the Elderly
+TITLE: Next Week: Health Promotion for the Elderly
+- From the mental health and substance use crises of adulthood, we move to the health promotion questions that accompany aging.
+- Lecture 9 examines Rowe and Kahn's Successful Aging model (1997) and its critics, Fries's compression of morbidity hypothesis, the mortality risk of loneliness and social isolation, and ageism as a structural determinant of health.
+- We will interrogate whether "successful aging" is a health concept or a social ideal, and whose version of "success" gets built into aging research and policy.
+- Preview question: if an 85-year-old with two chronic conditions reports being happier than she has ever been, fully engaged in her community and relationships, did she age "successfully" by Rowe and Kahn's definition? Should she have?
+
+SLIDE 29: [CLOSING] Meet People Where They Are
+TITLE: Meet People Where They Are
+- "You cannot treat a symptom as the crime and the pain as the irrelevant backstory. Health promotion in addiction demands that you hold both."
+- Attribution: (course epigraph)
+- Questions, office hours, and contact: [instructor details here]
+- Before next class: read Khantzian (1985) and Regier et al. (1990). Come with one example of a substance use policy, local, national, or international, and assess it through both the brain disease frame and the social-structural frame. What does each frame see that the other misses?

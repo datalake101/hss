@@ -1,0 +1,271 @@
+SLIDE 1: TITLE SLIDE
+Course: Health Promotion and Disease Prevention
+Lecture 3: Theories in Health Promotion - The Health Belief Model and The Social Ecological Model
+Instructor: Prof. [Your Name]
+Quote: Theory without practice is sterile. Practice without theory is blind.
+
+SLIDE 2: WELCOME AND LECTURE OBJECTIVES
+Why Do We Need Theory?
+- In Lectures 1 and 2, we explored the philosophy and critical sociology of health.
+- Today, we transition from critique to action. 
+- Objectives for today:
+  1. Understand what a theory is and why it is the foundation of all health promotion.
+  2. Master the Health Belief Model (HBM) for individual behavior change.
+  3. Master the Social Ecological Model (SEM) for multi-level systemic change.
+  4. Learn how to apply, combine, and critique these theories in real-world program design.
+Exam Focus: You will be given a case study of a failed health intervention and asked to use HBM and SEM to diagnose why it failed and how to redesign it.
+
+SLIDE 3: WHAT IS A THEORY?
+Defining the Blueprint
+- A theory is a systematic way of explaining behavior, events, or relationships.
+- It consists of Concepts (abstract ideas, like "health") and Constructs (specific, measurable components, like "perceived susceptibility").
+- Why use theory? 
+  1. It provides a roadmap for understanding why a health problem exists.
+  2. It identifies the specific targets for an intervention.
+  3. It helps evaluate whether the program actually worked by measuring changes in the theoretical constructs.
+Takeaway: Never design a health program based on a "gut feeling." Always ground it in theory.
+
+SLIDE 4: THE TWO CATEGORIES OF HEALTH THEORIES
+Explanatory vs. Change Theories
+1. Explanatory Theories (The "Why"):
+- Help us understand the reasons behind a health behavior or problem.
+- They identify the factors that influence behavior (e.g., beliefs, social norms, environment).
+- Example: The Health Belief Model (HBM).
+2. Change Theories (The "How"):
+- Guide the actual development and implementation of the intervention.
+- They outline the steps needed to create change.
+- Example: PRECEDE-PROCEED (which we will cover in Lecture 4).
+Note: Today we focus heavily on Explanatory Theories to understand our target audience.
+
+SLIDE 5: INTRODUCTION TO THE HEALTH BELIEF MODEL (HBM)
+The Psychology of Individual Choice
+- The HBM is one of the oldest and most widely used theories in public health.
+- It is a psychological model that attempts to explain and predict health behaviors.
+- Core Assumption: People are rational decision-makers. They will take action to prevent or control an illness if they believe they are susceptible to a serious threat, and that the benefits of taking action outweigh the barriers.
+- Focus: Strictly on the individual level (Intrapersonal).
+
+SLIDE 6: ORIGINS OF THE HBM
+The Tuberculosis Crisis of the 1950s
+- Developed by social psychologists Godfrey Hochbaum, Stephen Kegels, and Irwin Rosen at the U.S. Public Health Service.
+- The Problem: The government offered free, mobile tuberculosis (TB) screening X-rays, but the public was not showing up.
+- The Question: Why do people not participate in health screenings when they are free and accessible?
+- The Result: They developed the HBM to explain that physical access is not enough; psychological beliefs dictate action.
+
+SLIDE 7: HBM CONSTRUCT 1 - PERCEIVED SUSCEPTIBILITY
+Do I Believe I Am at Risk?
+- Definition: A person's subjective assessment of their risk of developing a health problem.
+- Key Question: "Can this happen to me?"
+- Application: If a young person believes lung cancer only happens to old people, their perceived susceptibility is low, and they will ignore anti-smoking campaigns.
+- Intervention Strategy: Help individuals accurately assess their personal risk based on their specific behaviors, genetics, and environment. Avoid generic scare tactics.
+
+SLIDE 8: HBM CONSTRUCT 2 - PERCEIVED SEVERITY
+Do I Believe the Consequences are Serious?
+- Definition: A person's feelings about the seriousness of contracting an illness, or leaving it untreated.
+- Includes: Medical consequences (pain, death, disability) and Social consequences (impact on family, job loss, financial ruin).
+- Key Question: "If I get this, how bad will it be?"
+- Application: A teenager might not fear the medical severity of a sexually transmitted infection, but might highly fear the social severity of peer stigma or infertility. 
+
+SLIDE 9: COMBINING CONSTRUCTS - PERCEIVED THREAT
+The Catalyst for Action
+- Perceived Threat is the combination of Perceived Susceptibility and Perceived Severity.
+- If either susceptibility or severity is low, the overall threat is low, and the person will not take action.
+- Example: The flu. Many people perceive the flu as highly susceptible (everyone gets it) but low severity (it just makes you tired for a few days). Therefore, perceived threat is low, and vaccine uptake drops.
+Exam Focus: To increase the perceived threat, you must increase both the perceived likelihood of the event AND the perceived seriousness of its consequences.
+
+SLIDE 10: HBM CONSTRUCT 3 - PERCEIVED BENEFITS
+Will the Action Actually Help?
+- Definition: The person's belief in the efficacy of the advised action to reduce the perceived threat.
+- Key Question: "If I do what you are asking, will it actually protect me?"
+- Application: If a community believes that wearing a mask does not stop a virus (low perceived benefit), they will not wear it, regardless of how terrifying the virus is.
+- Intervention Strategy: Provide clear, evidence-based, and culturally credible data proving the effectiveness of the recommended behavior.
+
+SLIDE 11: HBM CONSTRUCT 4 - PERCEIVED BARRIERS
+The Cost of Taking Action
+- Definition: A person's feelings about the obstacles (physical, psychological, financial, time) to performing the recommended health behavior.
+- Key Question: "What is stopping me, and is it too hard?"
+- Examples: The pill has bad side effects; the gym is too expensive; the healthy food tastes bad; taking time off work means losing pay.
+- Crucial Fact: Research consistently shows that Perceived Barriers is the single strongest predictor of whether a person will change their behavior.
+
+SLIDE 12: THE HBM CALCULUS
+The Rational Weighing Process
+- The HBM assumes humans act like accountants.
+- We weigh the Perceived Threat against the Perceived Benefits, and then subtract the Perceived Barriers.
+- Action occurs when: (Susceptibility + Severity + Benefits) > Barriers.
+- Intervention Strategy: You cannot just increase the fear (Threat). You must actively reduce the Barriers. Make the healthy choice cheaper, easier, faster, and more socially acceptable.
+
+SLIDE 13: HBM CONSTRUCT 5 - CUES TO ACTION
+The Trigger
+- Definition: The stimulus needed to trigger the decision-making process and initiate the behavior.
+- Internal Cues: A physical symptom (e.g., a persistent cough, a sudden pain).
+- External Cues: A reminder postcard from the dentist, a media campaign, advice from a doctor, or a friend getting sick.
+- Application: Even if a person has high perceived threat and low barriers, they might simply forget. Cues to action prompt the immediate behavior.
+
+SLIDE 14: HBM CONSTRUCT 6 - SELF-EFFICACY
+Added in 1988 (Bandura's Influence)
+- Definition: A person's confidence in their ability to successfully perform the specific action required.
+- Key Question: "I know I should do it, but do I believe I actually can?"
+- Context: Originally, HBM only applied to one-time actions (like getting an X-ray). When applied to complex, long-term lifestyle changes (like quitting smoking or dieting), self-efficacy was added.
+- Application: A person might know smoking kills (high threat) and want to quit (high benefit), but if they have zero confidence they can resist cravings (low self-efficacy), they will not try.
+
+SLIDE 15: MODIFYING VARIABLES IN HBM
+The Background Context
+- The core HBM constructs do not exist in a vacuum. They are influenced by Modifying Variables.
+- Demographic Variables: Age, gender, race, ethnicity.
+- Sociopsychological Variables: Personality, social class, peer pressure.
+- Structural Variables: Knowledge about the disease, prior contact with the illness.
+- How they work: Modifying variables do not cause behavior directly. Instead, they influence a person's Perceptions (e.g., being older might increase Perceived Susceptibility to heart disease).
+
+SLIDE 16: CASE STUDY - APPLYING HBM
+Designing a Flu Vaccine Campaign for College Students
+- Susceptibility: "I am around thousands of students in dorms; I will catch it."
+- Severity: "If I get the flu, I will miss my final exams and fail the semester."
+- Benefits: "The vaccine will keep me healthy during exam week."
+- Barriers: "The clinic is across campus, the line is long, and the needle hurts."
+- Cues to Action: Text message reminders, posters in the dorms.
+- Self-Efficacy: "I know how to book the appointment online and handle a quick pinch."
+Intervention Fix: To boost uptake, bring the mobile vaccine clinic directly to the dorm lobby (reducing Barriers).
+
+SLIDE 17: CRITIQUES AND LIMITATIONS OF HBM
+The Blind Spots of Individual Psychology
+1. The Rationality Assumption: It assumes humans are purely logical. It ignores emotions, trauma, addiction, and subconscious habits.
+2. Victim Blaming: By focusing entirely on individual beliefs, it ignores the social, economic, and environmental barriers (Social Determinants of Health) that make healthy choices impossible.
+3. Not for Habitual Behaviors: HBM is great for one-time actions (getting a mammogram) but weak for complex, ingrained habits (eating a cultural diet, substance use).
+4. Ignores Social Norms: It does not account for peer pressure or what behavior is considered "normal" in a specific culture.
+
+SLIDE 18: FOOD FOR THOUGHT
+The Limits of "Education"
+- If the HBM is correct, then simply providing information should change behavior. If people know smoking causes cancer (High Threat) and quitting saves lives (High Benefit), they should quit.
+- Why do millions of highly educated, health-literate doctors and nurses still smoke cigarettes?
+- Reflection: Knowledge and beliefs are necessary, but they are rarely sufficient. This failure of the HBM forces us to look outside the individual mind and into the environment.
+
+SLIDE 19: INTRODUCTION TO THE SOCIAL ECOLOGICAL MODEL (SEM)
+Beyond the Individual
+- The SEM recognizes that health behavior is not just a personal choice; it is deeply embedded in a complex web of social, environmental, and political influences.
+- Core Premise: Individual behavior both shapes, and is shaped by, multiple levels of influence.
+- It shifts the focus from "changing the person" to "changing the environment that surrounds the person."
+
+SLIDE 20: ORIGINS OF THE SEM
+Urie Bronfenbrenner (1979)
+- Originally developed as a theory of child development by psychologist Urie Bronfenbrenner.
+- He argued that you cannot understand a child's development just by looking at the child; you must look at the family, the school, the neighborhood, and the national culture.
+- In the late 1980s and 1990s, public health scholars (like McLeroy et al.) adapted this into the Social Ecological Model for health promotion.
+Takeaway: Health is nested. Like Russian dolls, the individual is nested inside relationships, which are nested inside organizations, communities, and policies.
+
+SLIDE 21: SEM CORE PRINCIPLE 1
+Multiple Levels of Influence
+The SEM identifies five distinct, interacting levels that dictate health behavior:
+1. Intrapersonal (Individual) Level
+2. Interpersonal Level
+3. Institutional (Organizational) Level
+4. Community Level
+5. Public Policy (Macro) Level
+Exam Focus: You must be able to identify an intervention and correctly classify it into one of these five levels.
+
+SLIDE 22: LEVEL 1 - INTRAPERSONAL (INDIVIDUAL)
+The Inner World
+- Characteristics of the individual.
+- Includes: Knowledge, attitudes, beliefs, personality traits, genetics, biology, and self-efficacy.
+- This is where the Health Belief Model (HBM) operates.
+- Example Interventions: Health education classes, counseling, providing informational brochures, teaching coping skills.
+- Limitation: Only changes the individual, not the context.
+
+SLIDE 23: LEVEL 2 - INTERPERSONAL
+The Social Network
+- Formal and informal social networks and social support systems.
+- Includes: Family, friends, peers, neighbors, and coworkers.
+- Key Concepts: Social norms, peer pressure, modeling (observational learning), and emotional support.
+- Example Interventions: Family therapy, peer-education programs, buddy systems for exercise, training community health workers to do home visits.
+
+SLIDE 24: LEVEL 3 - INSTITUTIONAL (ORGANIZATIONAL)
+The Rules of the Setting
+- Social institutions with rules and regulations for operations.
+- Includes: Schools, workplaces, healthcare clinics, churches, and prisons.
+- Key Concepts: How the physical and social environment of an organization facilitates or constrains healthy behavior.
+- Example Interventions: A school banning the sale of sugary sodas; a workplace providing ergonomic desks and paid mental health days; a hospital implementing a smoke-free campus policy.
+
+SLIDE 25: LEVEL 4 - COMMUNITY
+The Neighborhood and Culture
+- Relationships among organizations, institutions, and informal networks within defined boundaries.
+- Includes: The built environment (parks, sidewalks, grocery stores), neighborhood safety, local cultural norms, and community cohesion.
+- Key Concepts: Sense of community, access to resources, environmental justice.
+- Example Interventions: Building a community garden, creating safe walking routes to school, organizing a neighborhood watch, opening a farmer's market in a food desert.
+
+SLIDE 26: LEVEL 5 - PUBLIC POLICY (MACRO-LEVEL)
+The Laws of the Land
+- Local, state, national, and global laws, policies, and resource allocations.
+- Includes: Taxation, legislation, zoning laws, human rights mandates, and healthcare funding.
+- Key Concepts: Structural determinants of health, equity, systemic regulation.
+- Example Interventions: Implementing a national sugar tax, raising the minimum wage, passing clean air acts, mandating universal healthcare coverage.
+
+SLIDE 27: SEM CORE PRINCIPLE 2
+Reciprocal Determinism
+- Behavior is not a one-way street where the environment simply dictates to the individual.
+- Reciprocal Determinism means that individuals influence their environments, and environments influence individuals, in a continuous feedback loop.
+- Example: A person starts cycling to work (Individual behavior). This reduces traffic and improves air quality (Community environment). The cleaner air and safer bike lanes encourage more neighbors to start cycling (Feedback loop).
+Takeaway: Change at one level can trigger changes at all other levels.
+
+SLIDE 28: CASE STUDY - APPLYING SEM
+Tackling Childhood Obesity
+- Level 1 (Individual): Teach children about nutrition and portion control.
+- Level 2 (Interpersonal): Host family cooking classes so parents model healthy eating at home.
+- Level 3 (Institutional): Mandate 60 minutes of daily physical education in schools and remove junk food vending machines.
+- Level 4 (Community): Partner with local city planners to build safe, well-lit parks and sidewalks in low-income neighborhoods.
+- Level 5 (Policy): Pass national legislation banning the marketing of ultra-processed foods to children under 12.
+Exam Focus: The most effective, sustainable health promotion programs intervene at multiple SEM levels simultaneously.
+
+SLIDE 29: THE "SWISS CHEESE" MODEL OF INTERVENTION
+Why Multi-Level is Better
+- Imagine each level of the SEM as a slice of Swiss cheese. 
+- A single-level intervention (like an educational pamphlet) has many holes (barriers, lack of access, peer pressure). The "disease" easily slips through the holes.
+- By layering interventions across multiple SEM levels (Individual + Policy + Community), the holes are covered. The defense becomes solid.
+- This is why downstream, individual-only interventions often fail, while upstream, multi-level interventions succeed.
+
+SLIDE 30: HBM VS. SEM - COMPARING THE PARADIGMS
+When to Use Which?
+- Use HBM when:
+  1. The behavior is a one-time action (e.g., getting a vaccine, attending a screening).
+  2. You are designing the communication and messaging strategy for a campaign.
+  3. The primary barriers are psychological (fear, lack of knowledge).
+- Use SEM when:
+  1. The behavior is a complex, long-term lifestyle change (e.g., diet, exercise).
+  2. The primary barriers are environmental or structural (poverty, lack of access, toxic culture).
+  3. You are designing a comprehensive, community-wide public health program.
+
+SLIDE 31: PUZZLING QUESTIONS FOR REFLECTION
+Critical Tensions in Theoretical Application
+1. If the Social Ecological Model is so effective, why do 90 percent of public health budgets still fund individual-level education programs (HBM) instead of policy changes (SEM)?
+2. When we use the HBM to increase "Perceived Threat," are we ethically justified in using fear and anxiety to manipulate people into healthy behaviors?
+3. How do we measure the success of an SEM intervention when the outcome is the result of complex, reciprocal determinism across five different levels?
+4. Can a health promoter truly change Public Policy (Level 5), or is that the exclusive domain of politicians and lobbyists?
+
+SLIDE 32: KEY TERMS GLOSSARY (EXAM PREP)
+Master the Vocabulary
+- Construct: A specific, measurable component of a theory.
+- Perceived Susceptibility: Belief about the chances of getting an illness.
+- Perceived Severity: Belief about how serious an illness and its consequences are.
+- Perceived Barriers: The tangible and psychological costs of the advised action (strongest predictor in HBM).
+- Self-Efficacy: Confidence in one's ability to take action.
+- Social Ecological Model (SEM): A framework examining multiple levels of influence on health.
+- Reciprocal Determinism: The continuous, dynamic interaction between the person and the environment.
+
+SLIDE 33: FURTHER READING
+Required Journal Article
+McLeroy, K. R., Bibeau, D., Steckler, A., & Glanz, K. (1988). An ecological perspective on health promotion programs. Health Education Quarterly, 15(4), 351-377.
+Why read this?
+- This is the foundational paper that adapted Bronfenbrenner's ecological model into public health.
+- It brilliantly outlines the five levels of the SEM and provides classic examples of interventions at each level.
+- It challenges the reader to stop blaming individuals for systemic failures.
+- Essential reading for Part 1 of your Final Report when you are justifying the theoretical framework of your proposed intervention.
+
+SLIDE 34: THANK YOU AND NEXT WEEK'S TEASER
+Think Systemically. Act Strategically.
+Contact:
+- Email: [Professor's Email]
+- Office Hours: [Time/Location]
+Next Week: Lecture 4 - Theories in Health Promotion Programs: PRECEDE-PROCEED
+- Moving from "Why" to "How."
+- The ultimate planning and evaluation model for health promotion.
+- How to conduct a comprehensive social, epidemiological, and educational diagnosis.
+- Building the Logic Model for your Final Report.
+Action Item: Review the McLeroy (1988) paper. Identify one health issue in your own community and map out one intervention for each of the five SEM levels. Be ready to share your map in the seminar.
+See you next week.

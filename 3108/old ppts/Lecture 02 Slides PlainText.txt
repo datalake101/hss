@@ -1,0 +1,273 @@
+
+SLIDE 1: TITLE SLIDE
+Course: Health Promotion and Disease Prevention
+Lecture 2: Health, Disease, and Disability - A Critical Perspective
+Instructor: Prof. [Your Name]
+Quote: The first step in healing a society is questioning what it has defined as a disease.
+
+SLIDE 2: WELCOME AND LECTURE OBJECTIVES
+Why a "Critical" Perspective?
+- In Lecture 1, we learned how the medical model focuses on biology.
+- Today, we question the medical model itself.
+- Objectives for today:
+  1. Understand the "Medicalization of Society."
+  2. Analyze how medicine can sometimes cause harm (Iatrogenesis).
+  3. Deconstruct the social rules of being sick (The Sick Role).
+  4. Examine how mental illness and disability are socially constructed.
+  5. Learn how power, politics, and corporate interests shape what we call a "disease."
+Exam Focus: You must be able to explain how social and political forces influence medical diagnoses, and how this impacts health promotion program design.
+
+SLIDE 3: THE MEDICALIZATION OF SOCIETY
+What is Medicalization?
+- Definition: The process by which non-medical problems become defined and treated as medical problems, usually in terms of illnesses or disorders.
+- Historically, medicine dealt with broken bones and infections.
+- Today, medicine deals with sadness, aging, baldness, sexual performance, childhood energy, and childbirth.
+- The Expansion of Medical Jurisdiction: Doctors have become the ultimate moral and social authorities in modern society.
+Takeaway: Medicalization is not inherently good or bad, but it shifts the focus from social solutions to biological treatments.
+
+SLIDE 4: FOOD FOR THOUGHT
+The Medicalization of Normal Life
+- Consider the human experience of grief after losing a loved one.
+- For centuries, this was understood as a natural, albeit painful, human experience.
+- Today, if severe grief persists beyond a certain timeframe, it can be diagnosed as "Prolonged Grief Disorder" and treated with pharmaceuticals.
+- Question: At what point do we pathologize normal human suffering? 
+- Reflection: When we turn a social or emotional problem into a medical one, do we cure the pain, or do we just silence the sufferer?
+
+SLIDE 5: IVAN ILLICH AND THE LIMITS OF MEDICINE
+Medical Nemesis (1975)
+- Ivan Illich was a philosopher who fiercely critiqued the modern medical establishment.
+- He argued that the medicalization of life ultimately destroys health.
+- He introduced the concept of "Iatrogenesis" (doctor-caused or medicine-caused illness).
+- Illich divided Iatrogenesis into three distinct levels: Clinical, Social, and Cultural.
+Takeaway: To be a critical health promoter, you must recognize that the healthcare system itself can be a determinant of poor health.
+
+SLIDE 6: LEVEL 1 - CLINICAL IATOGENESIS
+Harm Caused by Medical Care
+- Definition: Pain, sickness, or death caused directly by medical interventions.
+- Examples:
+  - Adverse drug reactions and interactions.
+  - Hospital-acquired infections (e.g., MRSA).
+  - Surgical errors and complications.
+  - Overdiagnosis leading to unnecessary, harmful treatments.
+- The Reality: In many developed nations, medical errors and adverse events are among the top ten leading causes of death.
+HP Application: Health promotion must sometimes focus on "de-prescribing" and protecting patients from unnecessary medical interventions.
+
+SLIDE 7: LEVEL 2 - SOCIAL IATOGENESIS
+The Medicalization of Life
+- Definition: The process where the medical system expands its control over everyday life, making people dependent on doctors for normal life events.
+- Examples:
+  - The medical management of natural childbirth.
+  - The pharmaceutical treatment of normal childhood behavioral variations (e.g., ADHD).
+  - The anti-aging industry treating natural decline as a disease to be fought.
+- The Result: People lose their autonomy and their ability to self-manage normal life transitions. They become perpetual "patients."
+
+SLIDE 8: LEVEL 3 - CULTURAL IATOGENESIS
+The Destruction of Coping
+- Definition: The process by which professional medical care destroys the cultural and community resources people use to cope with pain, aging, and death.
+- Historically, communities, families, and spiritual practices helped people navigate suffering.
+- Today, we outsource suffering to professionals. We expect a pill for every emotional dip and a hospital for every death.
+- The Result: A society that is deeply terrified of pain, aging, and mortality, lacking the cultural resilience to face them naturally.
+
+SLIDE 9: DISEASE MONGERING AND CORPORATE INFLUENCE
+Who Defines Disease?
+- Disease Mongering: The practice of widening the diagnostic boundaries of a disease to expand the market for a treatment.
+- The Role of "Big Pharma": Pharmaceutical companies do not just sell drugs; they actively help construct the diseases those drugs treat.
+- Tactics used:
+  - Sponsoring medical conferences to lower diagnostic thresholds (e.g., lowering the blood pressure number that defines "hypertension").
+  - Funding patient advocacy groups to demand new treatments.
+  - Direct-to-consumer advertising that turns normal variations into medical crises.
+
+SLIDE 10: CASE STUDY
+The Invention of "Female Sexual Dysfunction"
+- In the late 1990s, following the massive financial success of Viagra for men, pharmaceutical companies sought a "pink pill" for women.
+- Problem: There was no widely accepted medical consensus on a high prevalence of female sexual dysfunction.
+- Solution: Industry-funded surveys and conferences redefined normal variations in female sexual desire as a "medical disorder" affecting up to 43 percent of women.
+- The Result: A massive new market was created, not by discovering a new biological pathology, but by shifting cultural expectations and medical definitions.
+Exam Focus: Use this case study to explain how commercial determinants of health influence the very definition of disease.
+
+SLIDE 11: THE "SICK ROLE" (TALCOTT PARSONS)
+The Sociology of Being Ill
+- In 1951, sociologist Talcott Parsons argued that being "sick" is not just a biological state; it is a socially sanctioned role.
+- Society requires people to be productive. Illness disrupts society.
+- Therefore, society creates a "Sick Role" with strict rules to manage the disruption and ensure the person returns to productivity quickly.
+- The Sick Role is a temporary, socially acceptable form of deviance.
+
+SLIDE 12: RIGHTS AND OBLIGATIONS OF THE SICK ROLE
+The Social Contract of Illness
+The Rights of the Sick:
+1. Exemption from normal social roles (you do not have to go to work or school).
+2. Exemption from moral responsibility (you are not blamed for catching the flu).
+The Obligations of the Sick:
+1. You must define illness as an undesirable state that you want to get over.
+2. You must seek technically competent help (go to a doctor) and cooperate with the treatment plan.
+Takeaway: If a person does not fulfill the obligations (e.g., they refuse treatment, or their illness is stigmatized), society revokes their "rights" and labels them as "malingerers" or "difficult patients."
+
+SLIDE 13: CRITIQUES OF THE SICK ROLE
+Why Parsons' Model Fails Today
+- Chronic Illness: Parsons designed the sick role for acute illnesses (like pneumonia). It fails for chronic conditions (like diabetes or arthritis) where the patient never fully recovers and cannot simply "return to normal."
+- Stigmatized Illnesses: The sick role assumes society grants you sympathy. But what if your disease is stigmatized (e.g., HIV/AIDS, substance use disorder, obesity)? Society often blames the victim, denying them the "rights" of the sick role.
+- Socioeconomic Bias: The obligation to "seek competent help" assumes you have the money, time, and access to do so. Poverty prevents people from fulfilling the sick role.
+
+SLIDE 14: PUZZLE
+Who Gets to be "Legitimately" Sick?
+- Scenario A: A wealthy executive suffers from severe burnout and exhaustion. They are praised for "working too hard" and given a medical leave of absence to recover at a wellness retreat.
+- Scenario B: A low-income single mother suffers from severe burnout and exhaustion. She is labeled "unreliable," denied sick leave, and threatened with termination.
+- Question: How do class, gender, and race dictate whose suffering is validated as a "legitimate medical condition" and whose suffering is dismissed as a "personal failure"?
+
+SLIDE 15: THE SOCIAL CONSTRUCTION OF MENTAL ILLNESS
+Beyond Biology
+- Physical diseases (like tuberculosis) have clear, observable biological pathogens.
+- Mental illnesses are largely defined by behavioral and emotional deviations from social norms.
+- What is considered "madness" or "mental illness" changes drastically across different cultures and historical eras.
+- The Critical Perspective asks: Are we treating a biological brain disease, or are we medicalizing social deviance and distress?
+
+SLIDE 16: THOMAS SZASZ AND "THE MYTH OF MENTAL ILLNESS"
+A Radical Critique (1960)
+- Psychiatrist Thomas Szasz argued that "mental illness" is a metaphor.
+- He stated that while the brain can have physical diseases (like tumors or syphilis), "problems in living" (like sadness, anxiety, or unconventional beliefs) are not medical diseases.
+- Szasz warned that labeling social and moral problems as "mental illnesses" strips individuals of their agency and responsibility.
+- He argued that involuntary psychiatric treatment is a form of social control, not medicine.
+
+SLIDE 17: MICHEL FOUCAULT AND MADNESS
+Power and Knowledge
+- Philosopher Michel Foucault analyzed how society historically dealt with "unreason."
+- In the Middle Ages, the "mad" were integrated into society (the Ship of Fools).
+- In the Enlightenment, society shifted to "The Great Confinement," locking away the mad alongside criminals and the poor.
+- Foucault argued that psychiatry did not "discover" mental illness and cure it; rather, it invented a new language of power to silence and control those who did not fit into the rational, capitalist, industrial workforce.
+
+SLIDE 18: THE DSM AS A POLITICAL DOCUMENT
+The Diagnostic and Statistical Manual of Mental Disorders
+- The DSM is the "bible" of psychiatry, used to diagnose mental illness globally.
+- Critical sociologists view the DSM not as a purely scientific text, but as a political and historical document.
+- Diagnoses are added, removed, or redefined based on committee votes, cultural shifts, and pharmaceutical lobbying, not just biological discoveries.
+- Every new edition of the DSM expands the boundaries of mental illness, increasing the number of people who qualify for psychiatric treatment.
+
+SLIDE 19: CASE STUDY
+Homosexuality in the DSM (1973)
+- From the first edition of the DSM until 1973, homosexuality was officially classified as a "sociopathic personality disturbance" (a mental illness).
+- It was treated with institutionalization, electroshock therapy, and chemical castration.
+- In 1973, following massive protests by gay rights activists, the American Psychiatric Association voted to remove homosexuality from the DSM.
+- The Science Did Not Change: No new biological evidence was discovered in 1973. The social and political climate changed.
+Takeaway: This proves that psychiatric diagnoses are deeply intertwined with social movements, morality, and human rights.
+
+SLIDE 20: THE NEURODIVERSITY PARADIGM
+A Modern Shift in Perspective
+- The Pathology Paradigm: Views conditions like Autism and ADHD as brain disorders, deficits, and diseases that need to be cured or normalized.
+- The Neurodiversity Paradigm: Views these conditions as natural, healthy variations of the human genome, much like differences in eye color or height.
+- Under neurodiversity, the "disability" arises from a society designed exclusively for neurotypical brains, not from the brain itself.
+HP Application: Health promotion for neurodivergent populations should focus on environmental accommodation and acceptance, not behavioral compliance or "cures."
+
+SLIDE 21: FOOD FOR THOUGHT
+The Loss of Sadness
+- Authors Allan Horwitz and Jerome Wakefield argue that modern psychiatry has confused "normal sadness" with "clinical depression."
+- True depressive disorder is a biological malfunction where sadness occurs without a triggering context.
+- Normal sadness is a proportional, healthy human response to loss, failure, or trauma.
+- By diagnosing normal sadness as a medical disorder, we risk medicating the human condition and ignoring the social environments that are making people so deeply unhappy.
+
+SLIDE 22: DISABILITY STUDIES
+Moving Beyond the Social Model
+- In Lecture 1, we discussed the Social Model of Disability (impairment vs. societal barriers).
+- Today, we look at the Cultural Model of Disability.
+- The Cultural Model asks: How do language, media, literature, and art create the very idea of the "normal" body?
+- It examines how metaphors of disability (e.g., "blind to the truth," "crippled by debt," "lame excuse") reinforce the idea that disabled bodies are inherently tragic, broken, or lesser.
+
+SLIDE 23: INTERSECTIONALITY AND DISABILITY
+Crip Theory
+- "Crip Theory" borrows from Queer Theory to challenge the concept of "normalcy."
+- It argues that "able-bodiedness" is a fragile, temporary state. Everyone will experience disability if they live long enough.
+- Intersectionality: A disabled person's experience is fundamentally altered by their race, gender, and class. 
+- Example: A wealthy, white disabled person may be viewed as "brave" and receive top-tier care. A poor, Black disabled person may be viewed as "suspicious" or "burdensome" and face systemic neglect or police violence.
+
+SLIDE 24: THE "SUPERCRIP" STEREOTYPE
+The Danger of Overcompensation
+- Media often portrays disabled individuals in two extremes:
+  1. The Tragic Victim (pitiful, needing a cure).
+  2. The Supercrip (overcoming their disability to achieve something "normal," like climbing a mountain).
+- Why is the Supercrip stereotype harmful?
+  - It implies that a disabled life is only valuable if the person "overcomes" their disability.
+  - It puts the burden of success entirely on the individual's willpower, ignoring systemic barriers.
+  - It makes everyday disabled people feel inadequate if they cannot perform "superhuman" feats.
+
+SLIDE 25: INSPIRATION PORN
+Objectification of the Disabled Body
+- Coined by disability rights activist Stella Young.
+- Definition: The use of people with disabilities as props to inspire, motivate, or make able-bodied people feel good about their own lives.
+- Examples: Posters of a child with prosthetic legs running, with the caption: "What's your excuse?"
+- The Harm: It reduces disabled people to objects of inspiration for the non-disabled. It frames simply existing in a disabled body as an act of extraordinary bravery, rather than a normal way of living.
+
+SLIDE 26: STELLA YOUNG
+"I am not your inspiration, thank you very much."
+- Quote: "I am not here to inspire you. I am here to tell you that we have been lied to about disability. We have been sold this lie that disability is a Bad Thing, and to live with a disability makes you exceptional. It is not a Bad Thing, and it does not make you exceptional."
+- The True Goal of Health Promotion: Not to make disabled people "inspirational," but to make society accessible, equitable, and mundane for them.
+- We do not need inspiration; we need ramps, equitable pay, and systemic justice.
+
+SLIDE 27: EPISTEMIC INJUSTICE IN HEALTHCARE
+Whose Knowledge Counts?
+- Philosopher Miranda Fricker introduced the concept of Epistemic Injustice: wrongs done to people specifically in their capacity as knowers.
+- In healthcare, patients are often not believed about their own bodies and experiences.
+- This disproportionately affects women, people of color, disabled individuals, and those with mental health conditions.
+- When a system systematically ignores the lived experience of marginalized groups, it commits epistemic injustice.
+
+SLIDE 28: TESTIMONIAL VS. HERMENEUTICAL INJUSTICE
+Two Forms of Epistemic Harm
+1. Testimonial Injustice:
+   - When a hearer gives less credibility to a speaker's word due to prejudice.
+   - Example: A doctor dismissing a woman's reports of severe pain as "anxiety" or "hysteria," leading to delayed diagnosis of endometriosis or heart disease.
+2. Hermeneutical Injustice:
+   - When a group lacks the social vocabulary to even make sense of their own experience because the dominant culture has not named it.
+   - Example: Before the term "sexual harassment" was coined in the 1970s, women experienced it but were told it was just "flirting" or "part of the job." They lacked the conceptual tools to name the harm.
+
+SLIDE 29: DECOLONIZING HEALTH AND DISEASE
+Challenging Western Biomedical Dominance
+- Western biomedicine is often treated as the only "real" or "objective" way to understand health.
+- Indigenous and non-Western knowledge systems (which often view health holistically, integrating spiritual, community, and environmental well-being) are dismissed as "alternative" or "unscientific."
+- Decolonizing health means recognizing that Western medicine is just one cultural system among many.
+- It requires integrating Indigenous healing practices, respecting community elders, and acknowledging the historical trauma inflicted by colonial medical systems (e.g., forced sterilizations, unethical experimentation).
+
+SLIDE 30: SUMMARY THE CRITICAL PERSPECTIVE FRAMEWORK
+How to Analyze Any Health Issue
+When designing a health promotion program, ask these critical questions:
+1. Medicalization: Is this a biological disease, or a social problem wearing a medical mask?
+2. Iatrogenesis: Could the proposed medical treatment cause more social or physical harm than the condition itself?
+3. The Sick Role: Who is being granted legitimacy to be sick, and who is being stigmatized or blamed?
+4. Epistemic Injustice: Are we listening to the lived experience of the community, or just imposing clinical definitions upon them?
+5. Structural Justice: Are we trying to "fix" the marginalized individual, or are we trying to fix the oppressive environment?
+
+SLIDE 31: PUZZLING QUESTIONS FOR REFLECTION
+Critical Tensions to Hold
+1. If we completely de-medicalize mental distress, do we risk abandoning people who genuinely find relief and stability through psychiatric medication?
+2. How do we balance the need for early disease screening (Secondary Prevention) with the harms of overdiagnosis and medicalizing normal life?
+3. If a patient refuses a life-saving medical treatment due to their cultural beliefs, at what point does respecting their autonomy become medical neglect?
+4. Can the healthcare system ever truly be decolonized, or is it inherently built on Western, capitalist paradigms of productivity and bodily control?
+
+SLIDE 32: KEY TERMS GLOSSARY (EXAM PREP)
+Master the Vocabulary
+- Medicalization: Turning non-medical problems into medical ones.
+- Iatrogenesis: Illness caused by medical examination or treatment (Clinical, Social, Cultural).
+- The Sick Role: Parsons' theory of the rights and obligations of being ill.
+- Disease Mongering: Expanding disease definitions to sell treatments.
+- Epistemic Injustice: Undermining someone's capacity as a knower (Testimonial and Hermeneutical).
+- Neurodiversity: The concept that neurological differences are normal human variations.
+- Inspiration Porn: Objectifying disabled people to motivate able-bodied people.
+
+SLIDE 33: FURTHER READING
+Required Journal Article
+Jutel, A. (2009). Sociology of diagnosis: A preliminary review. Sociology of Health and Illness, 31(2), 278-299.
+Why read this?
+- It brilliantly explains that "diagnosis" is not just a medical fact; it is a social process.
+- It shows how diagnosis organizes social reality, grants access to resources, and exerts social control.
+- It provides the perfect theoretical bridge between the biological reality of disease and the sociological reality of illness.
+- Essential reading for Part 1 of your Final Report when you are defining your target population's health needs.
+
+SLIDE 34: THANK YOU AND NEXT WEEK'S TEASER
+Stay Critical. Question the Norm.
+Contact:
+- Email: [Professor's Email]
+- Office Hours: [Time/Location]
+Next Week: Lecture 3 - Theories in Health Promotion (SEM, HBM)
+- Moving from critique to action.
+- The Social Ecological Model (SEM): Mapping the layers of influence.
+- The Health Belief Model (HBM): Why do people accept or reject health advice?
+- How to use theory to design interventions that actually work.
+Action Item: Read the Jutel (2009) article and identify one condition in modern society that you believe is currently undergoing "medicalization." Be ready to discuss it in the seminar.
+See you next week.

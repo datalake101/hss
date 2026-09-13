@@ -1,0 +1,288 @@
+SLIDE 1: TITLE SLIDE
+Course: Health Promotion and Disease Prevention
+Lecture 4: Theories in Health Promotion Programs - The PRECEDE-PROCEED Model
+Instructor: Prof. [Your Name]
+Quote: If you do not know where you are going, any road will get you there. But in public health, the wrong road can cause harm.
+
+SLIDE 2: WELCOME AND LECTURE OBJECTIVES
+From "Why" to "How"
+- In Lecture 3, we learned explanatory theories (HBM and SEM) to understand why people behave the way they do.
+- Today, we learn a Change Theory: a step-by-step planning model to actually build a health program.
+- Objectives for today:
+  1. Understand the history and purpose of the PRECEDE-PROCEED model.
+  2. Master the 8 phases of program planning and evaluation.
+  3. Learn how to work backward from the desired outcome to design the intervention.
+  4. Apply this model directly to your Final Report.
+Exam Focus: You will be given a flawed health program and asked to identify which phase of PRECEDE-PROCEED was skipped or executed poorly.
+
+SLIDE 3: THE PROBLEM WITH "GOOD IDEAS"
+Why Intuition Fails in Public Health
+- Many health programs are built on "good ideas" rather than systematic planning.
+- Example: A well-meaning doctor builds a state-of-the-art diabetes clinic in a rural town, but nobody shows up.
+- Why did it fail? 
+  - Maybe the town has no public transit (Enabling factor).
+  - Maybe the community distrusts the medical system (Predisposing factor).
+  - Maybe the clinic hours conflict with local shift-work schedules (Administrative factor).
+Takeaway: Good intentions without a structured planning model lead to wasted resources and community frustration.
+
+SLIDE 4: ENTER PRECEDE-PROCEED
+The Gold Standard of Health Planning
+- Developed by Lawrence Green and Marshall Kreuter in the 1970s, and continuously updated for decades.
+- It is the most widely used planning model in global health promotion.
+- It combines the Educational approach (changing knowledge and behavior) with the Ecological approach (changing environments and policies).
+- It forces planners to be systematic, evidence-based, and community-centered.
+
+SLIDE 5: THE CORE PHILOSOPHY
+Start at the End and Work Backward
+- Most people plan programs by starting with a solution: "Let's build an app!" or "Let's hand out pamphlets!"
+- PRECEDE-PROCEED forces you to start with the ultimate desired outcome and work backward.
+- Step 1: What is the ultimate quality of life goal?
+- Step 2: What health issue is blocking that goal?
+- Step 3: What behaviors and environments cause that health issue?
+- Step 4: What factors drive those behaviors and environments?
+- Step 5: What policies and resources do we need to change those factors?
+Only then do you design the intervention.
+
+SLIDE 6: DECODING THE ACRONYM - PRECEDE
+The Planning Phases (Working Backward)
+PRECEDE stands for:
+Predisposing, Reinforcing, and Enabling Constructs in Educational/Environmental Diagnosis and Evaluation.
+- This covers Phases 1 through 4.
+- It is the "Diagnosis" stage.
+- You are acting like a detective, identifying the root causes of the health problem before you prescribe a treatment.
+
+SLIDE 7: DECODING THE ACRONYM - PROCEED
+The Implementation and Evaluation Phases (Moving Forward)
+PROCEED stands for:
+Policy, Regulatory, and Organizational Constructs in Educational and Environmental Development.
+- This covers Phases 5 through 8.
+- It is the "Action and Evaluation" stage.
+- You are implementing the treatment you prescribed in the PRECEDE phases and measuring if it actually worked.
+
+SLIDE 8: THE HOURGLASS MODEL
+Visualizing the Flow
+- Imagine an hourglass.
+- The top half (PRECEDE) is wide at the top (broad social goals) and narrows down to specific educational and ecological factors.
+- The pinch in the middle is Phase 5 (Implementation).
+- The bottom half (PROCEED) widens back out from process evaluation to broad outcome evaluation.
+Takeaway: The model ensures your narrow, specific intervention connects directly back to broad, meaningful social outcomes.
+
+SLIDE 9: PHASE 1 - SOCIAL ASSESSMENT
+Defining Quality of Life
+- The ultimate goal of health promotion is not just to lower blood pressure; it is to improve human life.
+- Phase 1 asks the community: "What does a good quality of life look like to you?"
+- Indicators: Unemployment rates, crime rates, school dropout rates, happiness indices, housing stability.
+- Crucial Rule: The community must define their own social goals. Public health experts cannot dictate what a community values.
+
+SLIDE 10: PHASE 1 - THE GOLDEN RULE OF PARTICIPATION
+"Nothing About Us Without Us"
+- If you skip community participation in Phase 1, the entire model collapses.
+- Planners must use focus groups, town halls, and surveys to listen to the lived experiences of the target population.
+- Example: Experts might think the main social issue in a neighborhood is "obesity." The community might tell you the main issue is "lack of safe street lighting, which prevents us from walking at night." 
+Takeaway: Always align your health goals with the community's actual social priorities.
+
+SLIDE 11: PHASE 2 - EPIDEMIOLOGICAL ASSESSMENT
+Identifying the Health Goals
+- Now we link the social goals from Phase 1 to specific health issues.
+- We use epidemiological data (mortality, morbidity, disability rates) to identify which health problems are most severely impacting the community's quality of life.
+- Example: If the social goal is "economic stability," the epidemiological assessment might reveal that "workplace back injuries" are the leading cause of lost wages and disability in the community.
+- The output of Phase 2 is a clear, measurable health objective (e.g., Reduce workplace back injuries by 20 percent in 3 years).
+
+SLIDE 12: PHASE 3 - EDUCATIONAL AND ECOLOGICAL ASSESSMENT
+The Core of the Diagnosis
+- This is the most critical phase for designing the actual intervention.
+- We ask: What behaviors and environmental conditions are causing the health problem identified in Phase 2?
+- Behavioral Factors: Smoking, poor diet, lack of exercise, not wearing PPE.
+- Environmental Factors: Lack of sidewalks, toxic workplace culture, food deserts, aggressive marketing of junk food.
+Takeaway: You must identify both what the people are doing (behavior) and what the environment is doing to them (ecology).
+
+SLIDE 13: PHASE 3 - CATEGORIZING THE DRIVERS
+Predisposing, Enabling, and Reinforcing
+Once you identify the target behaviors and environments, you must categorize the factors that influence them into three buckets:
+1. Predisposing Factors
+2. Enabling Factors
+3. Reinforcing Factors
+Understanding these three constructs is the key to passing the midterm exam and designing a successful Final Report.
+
+SLIDE 14: PREDISPOSING FACTORS
+The Antecedents to Behavior
+- Definition: Factors that provide the rationale or motivation for the behavior. They exist before the behavior occurs.
+- Includes: Knowledge, attitudes, beliefs, values, self-efficacy, and perceptions.
+- This is where the Health Belief Model (HBM) lives.
+- Example: A person must believe that smoking causes cancer (belief) and feel confident they can quit (self-efficacy) before they will try to quit.
+Intervention Strategy: Health education, awareness campaigns, counseling.
+
+SLIDE 15: ENABLING FACTORS
+The Facilitators of Behavior
+- Definition: Factors that allow a motivation to be realized. They are the skills, resources, or barriers that make the behavior possible or impossible.
+- Includes: Personal skills, community resources, healthcare access, financial resources, and government policies.
+- This is where the Social Ecological Model (SEM) lives.
+- Example: A person wants to eat healthy (predisposed), but lives in a food desert with no grocery store (lack of enabling factor).
+Intervention Strategy: Building clinics, subsidizing healthy food, teaching cooking skills, changing zoning laws.
+
+SLIDE 16: REINFORCING FACTORS
+The Rewards and Feedback
+- Definition: Factors that provide the continuing reward or incentive for the persistence or repetition of the behavior.
+- Includes: Praise from family, support from peers, recognition from bosses, or physical feelings of well-being.
+- Also includes negative reinforcement: ridicule from peers for doing the "right" thing, or lack of support from management.
+- Example: A teenager tries to quit vaping (predisposed and enabled), but all their friends vape and mock them for quitting (negative reinforcing factor). They relapse.
+Intervention Strategy: Peer support groups, family therapy, workplace incentive programs.
+
+SLIDE 17: FOOD FOR THOUGHT
+The Danger of Skipping Phase 3
+- Imagine a program designed to increase breast cancer screening.
+- The planners only address Predisposing factors: They run a massive TV ad campaign about the importance of mammograms.
+- They completely ignore Enabling factors: The local clinic only operates from 9 AM to 5 PM on weekdays, and the target population works hourly jobs with no paid time off.
+- Result: The campaign increases knowledge, but screening rates do not change. The planners blame the women for being "non-compliant."
+Reflection: Blaming the victim is almost always the result of a planner failing to identify Enabling and Reinforcing factors.
+
+SLIDE 18: PHASE 4 - ADMINISTRATIVE AND POLICY ASSESSMENT
+The Reality Check
+- You now know what needs to change. Phase 4 asks: Do we actually have the capacity to do it?
+- Organizational Assessment: Does our staff have the training? Do we have the space? Will the leadership support this?
+- Policy Assessment: Are there existing laws or institutional rules that block our intervention? Do we need to change a policy first?
+- Resource Assessment: What is the budget? Where is the funding coming from? Is it sustainable?
+Takeaway: The best intervention in the world is useless if the organization lacks the administrative capacity to execute it.
+
+SLIDE 19: PHASE 5 - IMPLEMENTATION
+The Pivot Point
+- This is the bridge between PRECEDE (planning) and PROCEED (action).
+- Implementation is the process of putting the planned intervention into practice.
+- It involves training staff, launching the marketing campaign, opening the clinic doors, or enacting the new policy.
+- Crucial step: You must pilot-test the intervention on a small scale before rolling it out to the entire population to catch unforeseen administrative barriers.
+
+SLIDE 20: PHASE 6 - PROCESS EVALUATION
+Did We Do What We Said We Would Do?
+- The first level of evaluation. It measures the implementation process itself.
+- Questions asked:
+  - Did the target audience actually receive the intervention? (Reach)
+  - Did the staff deliver the program exactly as designed? (Fidelity)
+  - Were the materials distributed on time? (Dose delivered)
+- Why it matters: If the program fails to improve health, process evaluation tells you if the theory was wrong, or if the program was just poorly executed.
+
+SLIDE 21: PHASE 7 - IMPACT EVALUATION
+Did We Change the Drivers?
+- The second level of evaluation. It measures the immediate effects of the program on the factors identified in Phase 3.
+- Questions asked:
+  - Did Predisposing factors change? (e.g., Did knowledge increase? Did attitudes shift?)
+  - Did Enabling factors change? (e.g., Did people learn the new skill? Did they use the new resource?)
+  - Did Reinforcing factors change? (e.g., Did family support increase?)
+  - Did the target Behavior or Environment actually change?
+Exam Focus: Impact evaluation measures changes in behavior, environment, and the P-E-R factors. It does NOT measure changes in disease rates.
+
+SLIDE 22: PHASE 8 - OUTCOME EVALUATION
+Did We Improve Health and Quality of Life?
+- The final, ultimate level of evaluation.
+- It measures the long-term impact on the health goals (Phase 2) and social goals (Phase 1).
+- Health Outcomes: Changes in morbidity, mortality, incidence, prevalence, and biological markers (e.g., lower blood pressure, fewer heart attacks).
+- Social Outcomes: Changes in quality of life, employment rates, crime rates, and community well-being.
+Takeaway: Outcome evaluation takes years. It is the ultimate proof of the program's value to society.
+
+SLIDE 23: PUZZLE
+The Time Lag Dilemma
+- Scenario: You implement a comprehensive school nutrition and physical activity program to prevent childhood obesity and future cardiovascular disease.
+- Process evaluation (Phase 6) happens in Month 3.
+- Impact evaluation (Phase 7) happens in Year 1 (kids are eating better and running more).
+- Outcome evaluation (Phase 8) requires waiting 20 years to see if those kids actually have fewer heart attacks at age 40.
+- Question: How do you justify continued funding to politicians and grant-makers who demand "results" every 12 months, when your ultimate outcome takes two decades to measure?
+Reflection: This is the eternal struggle of preventative public health. You must use Impact Evaluation as a scientifically valid proxy for future Outcome success.
+
+SLIDE 24: WHY PRECEDE-PROCEED IS A "LIVING" MODEL
+Feedback Loops and Iteration
+- The model is not a rigid, straight line. It is cyclical.
+- If your Process Evaluation (Phase 6) shows that nobody attended your workshops, you do not wait for Phase 8 to fix it. You immediately loop back to Phase 4 (Administrative) or Phase 3 (Predisposing/Enabling) and redesign the delivery.
+- Evaluation data constantly feeds back into the planning phases to refine and improve the intervention in real-time.
+
+SLIDE 25: CRITIQUES AND LIMITATIONS OF THE MODEL
+No Model is Perfect
+1. Complexity: It is highly detailed and can be overwhelming for small, grassroots organizations with limited staff.
+2. Time-Consuming: Conducting a full 4-phase PRECEDE diagnosis can take months or years before any action is taken.
+3. Top-Down Risk: Despite its emphasis on participation, it is still heavily driven by public health experts and can sometimes marginalize indigenous or non-Western ways of knowing.
+4. Linear Assumption: It assumes a neat, logical progression from knowledge to behavior to health, which ignores the chaotic, non-linear reality of human life.
+
+SLIDE 26: PRECEDE-PROCEED VS. LOGIC MODELS
+How They Relate
+- A Logic Model is a simplified, one-page visual summary of a program (Inputs, Activities, Outputs, Outcomes).
+- PRECEDE-PROCEED is the deep, comprehensive engine that generates the data to build the Logic Model.
+- Think of PRECEDE-PROCEED as the extensive architectural blueprints and soil testing.
+- Think of the Logic Model as the beautiful 3D rendering you show to the investors.
+Takeaway: You will use PRECEDE-PROCEED to do the heavy lifting, and then summarize it in a Logic Model for your Final Report.
+
+SLIDE 27: APPLYING PRECEDE TO YOUR FINAL REPORT (PART 1)
+Your Needs Assessment
+- In Week 5, you will submit Part 1 of your report.
+- You must explicitly use Phases 1, 2, and 3.
+- Phase 1: Describe the social context and quality of life issues of your target population.
+- Phase 2: Provide the epidemiological data proving the specific health issue exists.
+- Phase 3: Map out the Predisposing, Enabling, and Reinforcing factors driving the problem.
+- If you skip Phase 3, your proposed intervention will have no theoretical justification.
+
+SLIDE 28: APPLYING PROCEED TO YOUR FINAL REPORT (PART 2)
+Your Intervention and Evaluation Plan
+- In Week 12, you will submit Part 2 of your report.
+- You must explicitly use Phases 4 through 8.
+- Phase 4: Detail your budget, staff requirements, and organizational partnerships.
+- Phase 5: Describe the exact implementation steps.
+- Phases 6, 7, and 8: Provide a concrete evaluation plan detailing exactly how you will measure process, impact, and outcome. What surveys will you use? What health records will you track?
+
+SLIDE 29: CASE STUDY - DIAGNOSING A FAILED PROGRAM
+The "Walk to School" Initiative
+- Intervention: A city built beautiful new sidewalks and launched a campaign telling parents to walk their kids to school to fight obesity.
+- Result: Sidewalks remained empty. Kids were still driven to school.
+- Diagnosis using PRECEDE:
+  - Phase 3 (Predisposing): Parents knew walking was healthy. (Success)
+  - Phase 3 (Enabling): Sidewalks were built. (Success)
+  - Phase 3 (Reinforcing/Environmental): The route crossed a notoriously dangerous, high-speed highway intersection with no crossing guard. Parents feared for their children's safety. (Failure)
+Takeaway: The planners failed to identify a critical environmental barrier and reinforcing factor (fear for child safety) during the diagnosis phase.
+
+SLIDE 30: SUMMARY - THE 8 PHASES AT A GLANCE
+Memorize the Flow
+PRECEDE (Planning):
+1. Social Assessment (Quality of Life)
+2. Epidemiological Assessment (Health Goals)
+3. Educational/Ecological Assessment (Predisposing, Enabling, Reinforcing)
+4. Administrative/Policy Assessment (Resources and Rules)
+PROCEED (Action):
+5. Implementation (Doing it)
+6. Process Evaluation (Did we do it right?)
+7. Impact Evaluation (Did behaviors/environments change?)
+8. Outcome Evaluation (Did health/quality of life improve?)
+
+SLIDE 31: KEY TERMS GLOSSARY (EXAM PREP)
+Master the Vocabulary
+- PRECEDE: The diagnostic phases working backward from the outcome.
+- PROCEED: The implementation and evaluation phases moving forward.
+- Predisposing Factors: Antecedents to behavior (knowledge, attitudes, beliefs).
+- Enabling Factors: Antecedents to behavior that allow a motivation to be realized (skills, resources, barriers).
+- Reinforcing Factors: Factors following a behavior that provide the continuing reward or incentive for persistence (social support, peer feedback).
+- Process Evaluation: Measuring program implementation and reach.
+- Impact Evaluation: Measuring changes in P-E-R factors, behaviors, and environments.
+- Outcome Evaluation: Measuring changes in health status and quality of life.
+
+SLIDE 32: FOOD FOR THOUGHT
+The Ethics of "Enabling"
+- In Phase 3, we identify Enabling factors (resources, skills).
+- When public health programs teach marginalized communities "coping skills" or "budgeting skills" (Enabling), are we empowering them, or are we quietly shifting the burden of survival onto the individual while ignoring the systemic lack of living wages and affordable housing?
+- Reflection: True enabling must include enabling communities to advocate for structural policy change, not just enabling them to survive in a broken system.
+
+SLIDE 33: FURTHER READING
+Required Textbook Chapter
+Green, L. W., & Kreuter, M. W. (2005). Health program planning: An educational and ecological approach (4th ed.). McGraw-Hill. (Specifically Chapter 3 and 4).
+Why read this?
+- This is the definitive source text for the PRECEDE-PROCEED model written by its creators.
+- It provides incredibly detailed, real-world examples of how to conduct a Social, Epidemiological, and Educational diagnosis.
+- It bridges the gap between abstract sociological theory and the practical, day-to-day management of a public health budget.
+- Essential reading for structuring the methodology section of your Final Report.
+
+SLIDE 34: THANK YOU AND NEXT WEEK'S TEASER
+Plan Backward. Implement Forward. Evaluate Always.
+Contact:
+- Email: [Professor's Email]
+- Office Hours: [Time/Location]
+Next Week: Lecture 5 - Instructions for the First Part of the Report
+- Transitioning from theory to your actual graded assignment.
+- Deep dive into writing a professional Needs Assessment.
+- How to conduct a community-level Predisposing, Enabling, and Reinforcing factor analysis.
+- Formatting, citations, and the rubric for top marks.
+Action Item: Finalize the target population and specific health issue for your Final Report. Begin gathering epidemiological data (Phase 2) for your chosen community.
+See you next week.

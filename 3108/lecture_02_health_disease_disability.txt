@@ -1,0 +1,222 @@
+SLIDE 1: [COVER] Health, Disease, and Disability: A Critical Perspective
+TITLE: Health, Disease, and Disability: A Critical Perspective
+- Course: Health Promotion and Disease Prevention
+- Lecture 2
+- "Every society gets the illnesses it deserves."
+- Attribution: (course epigraph)
+
+SLIDE 2: [AGENDA] What We Cover Today
+TITLE: What We Cover Today
+- Part 1: The Medicalization of Society, how "badness" becomes "sickness"
+- Part 2: The Sick Role, a social contract with rights and obligations
+- Part 3: Iatrogenesis, when medicine itself is the hazard
+- Part 4: The Social Construction of Mental Illness, Szasz's provocation and its strongest counter-argument
+- Part 5: Who decides what counts as a "disorder", and who benefits when they do?
+- The thread connecting all five: the power to define illness is the power to distribute blame, treatment, and resources
+
+SLIDE 3: [QUOTE] The Provocation
+TITLE: The Provocation
+Quote: "The medical establishment has become a major threat to health."
+Attribution: Ivan Illich, Medical Nemesis, 1975
+
+SLIDE 4: From Badness to Sickness
+- The Pattern: behaviors and states once labeled moral failures gradually acquire medical names, diagnostic codes, and pharmaceutical treatments.
+- Conrad and Schneider (Deviance and Medicalization, 1980) traced this process across alcoholism, childhood hyperactivity, mental illness, and deviant behavior, mapping the move from religious condemnation to criminal sanction to medical diagnosis.
+- The Three Steps (Conrad, 1992): (1) a behavior is defined as problematic; (2) medical expertise is claimed over it; (3) a treatment market emerges.
+- The Critical Point: medicalization is not a neutral act of scientific discovery. It is a social process shaped by professional authority, pharmaceutical economics, and cultural anxieties about which bodies and behaviors belong to medicine.
+- Exam Focus: be able to name Conrad and Schneider's framework, give two concrete historical examples, and explain why medicalization is neither straightforwardly good nor straightforwardly bad.
+
+SLIDE 5: What Exactly Is Medicalization?
+- Core Definition (Conrad, 1992): the process by which non-medical problems come to be defined and treated as medical problems, usually in terms of illness or disorder.
+- Three Levels at Which It Operates:
+- Conceptual Level: a medical framework is adopted to understand a problem, even without professional involvement. Example: framing grief as a "depressive disorder" in everyday conversation.
+- Institutional Level: organizations adopt medical approaches to problems they previously managed through other means. Example: schools referring disruptive children to physicians rather than to school counselors.
+- Interactional Level: physicians and patients together define a problem in medical terms during a clinical encounter. Example: a consultation where existential distress becomes a prescription.
+- Not All Expansion Is Sinister: removing moral blame from addiction, or recognizing post-traumatic stress in veterans, represented genuine gains in human dignity. The question is always who benefits in this particular case.
+- Takeaway: medicalization is a tool. The question is always whose hand is on it.
+
+SLIDE 6: A Short History of Conditions That "Became" Diseases
+- Alcoholism: recognized as a disease by the American Medical Association in 1956, reframing a moral failing as a medical condition deserving treatment rather than punishment.
+- Hyperactivity: the DSM-II (1968) introduced "hyperkinetic reaction of childhood"; the DSM-III (1980) introduced Attention Deficit Disorder; the DSM-III-R (1987) introduced ADHD.
+- Social Phobia: introduced in the DSM-III (1980) as a relatively narrow, situational condition; reconceptualized and expanded as Social Anxiety Disorder in the DSM-IV (1994), substantially widening the diagnostic net.
+- Menopause: Robert Wilson's Feminine Forever (1966) popularized the framing of menopause as "estrogen deficiency disease," transforming a natural life stage into a pharmacologically treatable condition.
+- Grief: the DSM-5 (2013) removed the "bereavement exclusion" from Major Depressive Disorder criteria, making it possible to diagnose acute grief as clinical depression within two weeks of a loss.
+- Exam Focus: be able to give three specific historical examples of medicalization with approximate dates and name the mechanism that drove each one.
+
+SLIDE 7: The Sick Role: A Social Contract
+- Talcott Parsons, The Social System (1951): illness is not merely a biological state. It is a socially recognized role with formal rights and obligations, a kind of contract society offers the ill person.
+- Rights Granted to the Sick Person:
+- Exemption from normal role responsibilities (work, family duties, social obligations).
+- Freedom from personal blame: the sick person is not held responsible for their condition.
+- Obligations Required in Return:
+- The sick person must genuinely want to recover. Enjoying the exemptions while not seeking recovery violates the contract.
+- The sick person must cooperate with competent medical help and follow its guidance.
+- The Contract Logic: society tolerates the temporary "deviance" of illness only because it is framed as involuntary, undesirable, and subject to correction.
+- Exam Focus: know all four components (two rights, two obligations) and be prepared to reproduce and apply them.
+
+SLIDE 8: Where the Sick Role Breaks Down
+- Chronic Illness: Parsons's model was designed for acute illness. When recovery is not possible by definition, the obligation to "want to get well" becomes incoherent or even cruel.
+- Contested Conditions: fibromyalgia, long COVID, and chronic fatigue syndrome expose an uncomfortable truth: the moral exemption the sick role grants is not automatic. It is gated by medical legitimacy. Patients who cannot produce a confirmable test result frequently face disbelief, revealing that the sick role is partly a credentialing system.
+- Stigmatized Conditions: HIV/AIDS in the 1980s and drug addiction were systematically denied the "not held responsible" right. The sick role was granted selectively along lines of race, sexuality, and perceived desert.
+- Structural Question: whose sick role gets honored without question, and whose requires repeated justification?
+- Takeaway: the sick role maps the ideal. Real healthcare systems apply it unevenly, and the pattern of uneven application is itself data about how social power works.
+
+SLIDE 9: Iatrogenesis: When Medicine Is the Hazard
+- Ivan Illich, Medical Nemesis (1975): named three distinct forms of harm that organized medicine produces by its very operation.
+- Clinical Iatrogenesis: direct harm from medical intervention. Drug side effects, surgical errors, hospital-acquired infections, diagnostic misclassification, overprescription. The concern is not that medicine occasionally makes mistakes but that, at scale, it generates a significant burden of new illness.
+- Social Iatrogenesis: medicine colonizes the ordinary events of life, birth, menopause, aging, death, transforming them into conditions requiring professional management. The result is a diminished range of non-medical responses to life's difficulties.
+- Cultural Iatrogenesis: the deepest harm. When all suffering becomes a medical problem, the cultural skills needed to endure unavoidable pain, disability, and death erode. A civilization that cannot bear suffering without a specialist becomes fragile in ways that are hard to treat medically.
+- Critical Flaw: Illich overstates his case. Modern medicine has unambiguously prevented enormous amounts of human suffering. The useful move is to adopt the three-level distinction without accepting the wholesale rejection of clinical care.
+- Exam Focus: name and explain all three types of iatrogenesis with a concrete example for each.
+
+SLIDE 10: [PUZZLE] Food for Thought
+TITLE: Food for Thought
+A few questions to hold before we go further:
+- Is grief a disease? The DSM-5 says acute grief can meet the criteria for Major Depressive Disorder as early as two weeks after a loss. If it looks the same biologically, and responds to the same drugs, what exactly is the difference between grief and depression, and who should be the one to say?
+- If a condition gets a diagnosis code, a pharmaceutical treatment, and a patient-advocacy organization that is partly funded by the manufacturer, has it become a disease, or has it become profitable?
+- Whose sick role gets honored without scrutiny, and whose gets doubted? Think about fibromyalgia, long COVID, and chronic fatigue syndrome. What do those cases have in common, and what does the pattern reveal?
+
+SLIDE 11: The Social Construction of Mental Illness
+- Thomas Szasz, The Myth of Mental Illness (American Psychologist, 1960): mental illness is not a disease in the same biological sense as a broken femur or a cardiac infarction. It is, Szasz argued, a metaphor for unwanted or disturbing behavior that society has chosen to medicalize.
+- The Core Argument: disease requires a demonstrable bodily lesion, a physical abnormality detectable in principle through investigation. Since most psychiatric diagnoses lack this, they are better understood as "problems in living" rather than biological illness.
+- What Follows from This: if mental illness is not a disease, then psychiatric hospitalization is not treatment. It is social control exercised in the vocabulary of medicine.
+- This Is a Provocation, Not a Settlement: Szasz is most useful as a question, not an answer. His challenge is: what is the scientific status of a psychiatric diagnosis, and how do we tell legitimate diagnosis from institutionalized social judgment?
+- Exam Focus: know Szasz's argument in its strongest form, and know the strongest counter-argument against it.
+
+SLIDE 12: The Counter-Case: Biological Psychiatry's Evidence
+- Brain Imaging and Genetics: decades of neuroimaging, twin studies, and genome-wide association studies show that conditions including schizophrenia, bipolar disorder, and major depression have substantial biological components. Heritability estimates for schizophrenia consistently exceed 70%.
+- Pharmacological Evidence: if specific drugs reliably relieve symptoms that cause genuine suffering and functional impairment, the "no lesion, no disease" criterion may be too rigid. Insulin-deficient diabetes has no visible lesion either.
+- What Szasz Gets Right: even if he is wrong about the conclusion, he is right that DSM diagnostic processes have always been partly political. The clearest example is the removal of homosexuality from the DSM in 1973, which followed sustained activist lobbying and a membership vote, not new clinical data.
+- Critical Flaw of Szasz: his argument, taken seriously, risks delegitimizing care for people whose suffering is real and whose treatment is effective. The political usefulness of his critique does not require accepting his biological claim.
+- Takeaway: mental illness has real biological correlates, and psychiatric diagnosis is shaped by social power. These two facts coexist. The challenge for a health promotion practitioner is holding both without collapsing into either pure biologism or pure social constructivism.
+
+SLIDE 13: The DSM as a Social Document
+- The Diagnostic and Statistical Manual is not a neutral registry of discovered diseases. Each edition reflects the professional consensus, cultural anxieties, and sometimes the economic interests of its era.
+- DSM-I (1952): homosexuality listed as a sociopathic personality disturbance.
+- 1973: homosexuality removed after a vote among APA members, following sustained advocacy by gay rights activists and a professional debate about the scientific basis of the classification.
+- DSM-III (1980): Social Phobia introduced as a relatively narrow diagnosis. ADHD introduced.
+- DSM-IV (1994): Social Anxiety Disorder broadens the social phobia category substantially. Premenstrual Dysphoric Disorder introduced into an appendix.
+- DSM-5 (2013): the bereavement exclusion removed from Major Depression; Premenstrual Dysphoric Disorder elevated to a standalone diagnosis.
+- Not an Argument for Nihilism: the DSM also gives clinical language to genuine suffering that previously had none. The point is to read it as a social artifact in addition to a clinical tool, not instead of one.
+
+SLIDE 14: The Social Model of Disability, Revisited
+- Callback to Lecture 1: the Social Model (Oliver, 1983) distinguishes impairment (the physical or cognitive difference) from disability (the social barriers, inaccessible environments, and institutional practices that produce disadvantage from that difference).
+- The Parallel Question for Mental Health: if disability is partly produced by a disabling environment, is "mental disorder" also partly produced by a disordering environment? Is depression always an internal malfunction, or sometimes a reasonable response to intolerable conditions?
+- The Neurodiversity Argument: conditions such as autism spectrum disorder are increasingly understood not as deficits but as variations that become disabling only when institutions demand uniform neurotypical functioning. The "disorder" is partly in the environment, not only in the person.
+- Who Decides: the professional, legal, and economic power to define a variation as a disorder requiring correction rather than an environment requiring accommodation is distributed very unevenly.
+- Exam Focus: be able to connect the Social Model of Disability to the social construction of mental illness, explaining both as critiques of the medical model's authority to define normality.
+
+SLIDE 15: Medicalization, Power, and Profit
+- Conrad (2005) updated his 1992 framework to identify pharmaceutical companies as active agents of medicalization, not merely beneficiaries. Through funding disease-awareness campaigns, supporting patient advocacy groups, and sponsoring research that establishes diagnostic criteria, manufacturers now shape what conditions exist as much as they shape what treats them.
+- Disease Mongering: Moynihan and Cassels (Selling Sickness, 2005) documented how marketing a drug often first requires convincing a population that they have a condition. Widening diagnostic thresholds toward the population mean expands the market.
+- The Asymmetry: conditions affecting socially privileged groups tend to achieve rapid diagnostic legitimacy (erectile dysfunction, male-pattern baldness), while conditions disproportionately affecting marginalized groups are more often dismissed, attributed to lifestyle, or policed rather than treated.
+- The Corrective Counterexample: the medicalization of child abuse, domestic violence, and post-traumatic stress removed those harms from purely private or moral spheres, opening access to legal protection and therapeutic resources. Medicalization is not always a bad outcome for the people named.
+- Takeaway: medicalization is a tool, and tools serve whoever wields them. The question is always whether the people being medicalized are gaining resources and relief, or losing agency and autonomy.
+
+SLIDE 16: [CHART] The Medicalization Timeline
+TITLE: The Medicalization Timeline
+Chart type: horizontal timeline
+- 1951: Parsons publishes The Social System, theorizing illness as a socially regulated role rather than a purely biological state.
+- 1952: DSM-I published; homosexuality classified as a sociopathic personality disturbance.
+- 1956: American Medical Association formally recognizes alcoholism as a disease, reframing the condition from moral failure to medical disorder.
+- 1960: Szasz publishes "The myth of mental illness" in American Psychologist, challenging psychiatric diagnosis as social control in medical costume.
+- 1966: Robert Wilson publishes Feminine Forever, framing menopause as an estrogen deficiency disease treatable by hormone replacement.
+- 1968: DSM-II introduces "hyperkinetic reaction of childhood," precursor to ADHD.
+- 1973: Homosexuality removed from the DSM following activist pressure and a membership vote, not new clinical data.
+- 1980: DSM-III introduces Social Phobia and Attention Deficit Disorder; Conrad and Schneider publish Deviance and Medicalization.
+- 1987: DSM-III-R coins "Attention Deficit Hyperactivity Disorder."
+- 1994: DSM-IV expands Social Phobia into Social Anxiety Disorder, widening the diagnostic net.
+- 2013: DSM-5 removes the bereavement exclusion from Major Depression, allowing grief two weeks after a loss to meet MDD criteria.
+Source: compiled from DSM editions, AMA statements, and Conrad (1992). Illustrative selection, not exhaustive.
+
+SLIDE 17: [ABSTRACT] Conrad (1992): Medicalization and Social Control
+TITLE: Conrad (1992): Medicalization and Social Control
+Citation: Conrad, P. (1992). Medicalization and Social Control. Annual Review of Sociology, 18, 209-232.
+Finding: Conrad mapped how medicine expanded its jurisdiction across the twentieth century, absorbing behaviors previously governed by religion, law, and morality. He articulated three levels at which medicalization operates, the conceptual, institutional, and interactional, and traced how the process is driven not only by physicians but also by patients seeking legitimacy, social movements advocating for recognition, and increasingly by pharmaceutical corporations with commercial interests in widening diagnostic categories. He updated this analysis in subsequent work to document the growing role of biomedical industries as primary engines of medicalization, a shift he called "the pharmaceutical turn."
+Relevance: This is the foundational sociological framework for this lecture and a reference point throughout the course. Every case study in the medicalization and contested-illness literature connects back to Conrad's analysis.
+[Insert screenshot of the abstract here]
+
+SLIDE 18: [ABSTRACT] Szasz (1960): The Myth of Mental Illness
+TITLE: Szasz (1960): The Myth of Mental Illness
+Citation: Szasz, T.S. (1960). The myth of mental illness. American Psychologist, 15(2), 113-118.
+Finding: Szasz argued that the concept of mental illness rests on a category error: disease requires a bodily lesion, and since most psychiatric diagnoses cannot identify one, they are better described as social judgments about deviant behavior rather than medical discoveries. He positioned psychiatry as an institution of social control, particularly in its capacity to involuntarily hospitalize people whose behavior disturbs others. He called for a wholesale reconceptualization of the field that distinguished genuine neurological diseases from value-laden "problems in living."
+Relevance: Szasz remains the sharpest provocation in the philosophy of psychiatry and the clearest example of the "social construction of mental illness" argument. His work is most productive when read as a challenge that forces examination of diagnostic evidence, not as a settled conclusion.
+[Insert screenshot of the abstract here]
+
+SLIDE 19: [PUZZLE] Puzzling Questions
+TITLE: Puzzling Questions
+Harder questions, no easy answers:
+- If medicine can simultaneously cure individual illness and produce cultural iatrogenesis at the population level, undermining humanity's capacity to cope with unavoidable suffering, is "more healthcare access" always the health-promoting goal?
+- Szasz said mental illness is a myth. If he is wrong about the conclusion, what does he get right anyway? And does getting something right in an argument that leads to a wrong conclusion make him a useful theorist or a dangerous one?
+- Contested illnesses such as fibromyalgia and long COVID reveal that the sick role's "not held responsible" exemption is not automatically granted to everyone with symptoms. What social variables predict whether a sick role claim will be believed?
+- If the DSM is partly a political document shaped by professional consensus and economic interest, does that make its diagnoses invalid? Or is "partly political" just what every human institution is, including the ones we trust most?
+
+SLIDE 20: Structural Determinants of Who Gets Diagnosed
+- Race: Black children in the US are diagnosed with ADHD at consistently lower rates than white children despite similar or higher reported symptom prevalence, reflecting differential access to diagnostic services, provider bias, and the channeling of the same behavioral presentation into discipline systems rather than clinical ones.
+- Gender: women were historically more likely to receive diagnoses of hysteria, neurasthenia, and depression. Men presenting with equivalent symptom profiles were historically more often diagnosed with substance use disorders or antisocial personality. The same suffering, differently coded.
+- Class: access to diagnostic evaluation is itself unequally distributed. The conditions of precarious working lives (insomnia, anxiety, cognitive overload) often receive behavioral labels from employers, "difficult," "non-compliant," rather than clinical ones from physicians.
+- Disability Status: chronic illness and disability can produce stigma that obscures additional diagnoses. A person with a known condition is at risk of having new symptoms attributed to the existing diagnosis, a phenomenon sometimes called diagnostic overshadowing.
+- Exam Focus: be able to argue, with at least two specific examples, that who receives a diagnosis is not only a biological question but a question of access, professional bias, and social power.
+
+SLIDE 21: Synthesis: Three Lenses on the Same Problem
+- Medical Lens: illness is a biological deviation from normal function, discoverable through scientific investigation and treatable through clinical intervention. Strength: it has produced genuine relief for real suffering at scale. Weakness: it treats the body in isolation from the social world that produced it and the social world it returns to.
+- Sociological Lens (Conrad, Parsons, Szasz): illness categories are social constructs shaped by professional authority, cultural values, and economic interest. Strength: explains diagnostic expansion, selective access, and the uneven application of the sick role. Weakness: risks denying that some conditions cause real suffering regardless of how they are socially classified.
+- Critical Disability Lens (Oliver, 1983): "disorder" is always partly a mismatch between a person and an environment built for a different kind of body or mind. Strength: shifts the locus of the problem from the individual to the system. Weakness: not all impairment is purely social; some conditions cause suffering regardless of environmental design.
+- The Takeaway: no single lens is complete. Graduate-level health promotion requires the capacity to hold all three simultaneously and to choose between them based on what the problem demands.
+
+SLIDE 22: Implications for Health Promotion Practice
+- If medicalization can pathologize normal human variation, health promotion practitioners should ask: are our programs designed to normalize people into a narrow range, or to build conditions in which more kinds of people can thrive?
+- If the sick role is selectively withheld from people with contested diagnoses, advocacy for those patients, helping them access legitimacy, language, and care, is a health-promotion act.
+- If cultural iatrogenesis erodes community coping capacity, building peer support, lay health advisor programs, and community resources is not a substitute for clinical care. It is a complement that medicine cannot provide.
+- If structural factors determine who gets diagnosed, provider training to reduce diagnostic bias and upstream interventions to improve care access are not optional. They are necessary conditions for equity in health promotion.
+- Exam Focus: be able to connect at least two theoretical concepts from this lecture to a concrete health promotion strategy.
+
+SLIDE 23: Glossary
+- Medicalization: the process by which non-medical problems come to be defined and treated as medical problems, usually in terms of illness or disorder (Conrad, 1992).
+- Sick Role (Parsons, 1951): the socially recognized role of the ill person, comprising two rights (exemption from normal duties; freedom from blame) and two obligations (must want to recover; must seek competent medical care).
+- Iatrogenesis (Illich, 1975): harm caused by medical intervention or the medical system itself. Three types: clinical (direct harm), social (medicalization of life events), cultural (erosion of capacity to suffer and cope without professional management).
+- Deviance Medicalization (Conrad and Schneider, 1980): the specific process by which morally coded behaviors are absorbed into a medical framework and reconstructed as illness.
+- Social Construction: the process by which social groups create shared meanings and categories that come to seem natural, inevitable, or biological, when they are in fact historically contingent products of human practice.
+- Contested Illness: a condition whose status as a legitimate medical diagnosis is disputed by clinicians, insurers, or the public, even when patients report genuine and often disabling symptoms.
+
+SLIDE 24: What This Lecture Asks You to Carry Forward
+- Every diagnosis is a social act as well as a clinical one. The power to name an illness is the power to grant relief from blame, access to treatment, and protection under law, and it is distributed unevenly.
+- Neither "medicine is neutral science discovering objective diseases" nor "medicine is pure social control wearing a white coat" is an adequate position for a health promotion practitioner. The productive stance is: medicine is a powerful social institution that does both, often simultaneously.
+- The thread connecting this lecture to Lecture 1: just as the Social Model of Disability located the problem in the disabling environment rather than the individual body, this lecture locates the problem of diagnostic expansion in professional power and economic interest, not in biology alone.
+- Your Task: work within medical systems while retaining the critical capacity to ask, in every program you design, who benefits when this particular problem gets medicalized, and who is harmed if it does not.
+
+SLIDE 25: [READING] Further Reading, Part 1
+TITLE: Further Reading, Part 1
+- Conrad, P. (1992): Medicalization and Social Control. Annual Review of Sociology, 18, 209-232. The foundational framework for this entire lecture and a recurring reference throughout the course.
+- Szasz, T.S. (1960): The myth of mental illness. American Psychologist, 15(2), 113-118. The sharpest philosophical challenge to psychiatric diagnosis as a scientific category rather than a social one.
+- Parsons, T. (1975): The sick role and the role of the physician reconsidered. Milbank Memorial Fund Quarterly: Health and Society, 53(3), 257-278. Parsons's own revision and defense of the sick role concept in response to critics, essential reading alongside the original 1951 formulation.
+- Moynihan, R., Heath, I., and Henry, D. (2002): Selling sickness: the pharmaceutical industry and disease mongering. BMJ, 324(7342), 886-891. A landmark piece documenting how pharmaceutical marketing shapes diagnostic expansion, with named case studies.
+
+SLIDE 26: [READING] Further Reading, Part 2
+TITLE: Further Reading, Part 2
+- Link, B.G., and Phelan, J.C. (2001): Conceptualizing stigma. Annual Review of Sociology, 27, 363-385. Essential on how stigma compounds the disadvantage of contested illness and unevenly distributes the benefits of the sick role.
+- Shakespeare, T., and Watson, N. (2002): The social model of disability: an outdated ideology? Research in Social Science and Disability, 2, 9-28. A critical reappraisal from within disability studies: exactly the kind of internal tension the course rewards engaging with.
+- Davis, H.E., et al. (2021): Characterizing long COVID in an international cohort: 7 months of symptoms and their impact. EClinicalMedicine, 38, 101019. A landmark study of post-acute COVID sequelae conducted while the medical community still debated whether the condition was real: a live, dateable case study in contested illness and the selective granting of the sick role.
+- Frances, A.J. (2013): The past, present and future of psychiatric diagnosis. World Psychiatry, 12(2), 111-112. A former chair of the DSM-IV task force reflects on diagnostic expansion and the risks of over-medicalization, from inside the institution that produced it.
+
+SLIDE 27: [CLASSWORK] The Diagnosis Debate
+TITLE: The Diagnosis Debate
+Scenario: A 34-year-old office worker is referred by their employer's Employee Assistance Program. They report persistent anxiety in social and professional settings: avoiding presentations at work, declining team events, struggling to eat in public. Their physician considers a diagnosis of Social Anxiety Disorder (DSM-5, code 300.23).
+Your Task:
+- Paragraph 1, The Case For: argue this IS a legitimate diagnosis deserving clinical treatment. Draw on the patient's genuine functional impairment, evidence-based treatment options (CBT, pharmacotherapy), and the relief that diagnostic recognition can provide.
+- Paragraph 2, The Case Against: argue this IS medicalization of normal variation. What structural conditions in the modern open-plan, performance-reviewed, always-on workplace might be producing anxiety that feels personal but is systemic? What changes to the environment rather than the person might be the better response?
+- Paragraph 3, The Social Determinant Question: which social determinant (class, gender, race, employment precarity) might explain who in this workplace gets the diagnosis and the sick role, and who simply gets told to toughen up? Come ready to defend your analysis in small groups.
+
+SLIDE 28: [TEASER] Next Week: Why Don't People Act on What They Know?
+TITLE: Next Week: Why Don't People Act on What They Know?
+- We have now deconstructed who defines illness and exposed the social machinery behind a diagnostic label. Next week, a different problem: why do people fail to act on health information even when they believe it, trust it, and know it applies to them?
+- Lecture 3 introduces the Health Belief Model, built in the 1950s to explain exactly that gap between knowledge and action.
+- We will then introduce the Social Ecological Model as a structural corrective to the HBM's individualism.
+- Preview question to carry in: if someone knows that smoking causes lung cancer, believes they are personally at risk, and still does not quit, what does a good health promotion theory owe them as an explanation?
+
+SLIDE 29: [CLOSING] Stay Critical
+TITLE: Stay Critical
+- "The capacity to question what counts as health, what counts as illness, and who gets to decide is not a luxury in this field. It is the job."
+- Attribution: (course epigraph)
+- Questions, office hours, and contact: [instructor details here]
+- Before next class: read Conrad (1992) in full. Come with one condition you believe has been over-medicalized or under-medicalized, and one structural determinant you think explains it. Be ready to make the case.

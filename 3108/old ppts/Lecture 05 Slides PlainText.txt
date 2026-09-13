@@ -1,0 +1,260 @@
+SLIDE 1: TITLE SLIDE
+Course: Health Promotion and Disease Prevention
+Lecture 5: Instructions for the First Part of the Report - The Diagnosis
+Instructor: Prof. [Your Name]
+Quote: A problem well-stated is a problem half-solved. In public health, a problem poorly diagnosed is a community poorly served.
+
+SLIDE 2: WELCOME AND LECTURE OBJECTIVES
+Transitioning from Theory to Practice
+- Over the last four weeks, we have built your theoretical toolkit.
+- Today, we apply these tools to your primary assessment: The Health Promotion Report.
+- Objectives for today:
+  1. Understand the structure and purpose of the two-part report.
+  2. Master the requirements for Part 1: The Needs Assessment and Diagnosis.
+  3. Learn how to select a viable target population and health issue.
+  4. Apply Phases 1, 2, and 3 of the PRECEDE-PROCEED model to your writing.
+  5. Avoid the most common pitfalls that cost students top marks.
+Exam Focus: While this is an assignment instruction lecture, the skills you learn today (needs assessment, data synthesis, theoretical alignment) are exactly what you will be tested on in your final case-study exam.
+
+SLIDE 3: THE ARCHITECTURE OF THE FINAL REPORT
+The Simulated Grant Proposal
+- You are stepping into the role of a Lead Health Promoter applying for funding.
+- The report is divided into two distinct parts to mirror real-world project management.
+- Part 1 (Due Week 5): The Diagnosis and Theoretical Framework. (Why is this a problem, and what drives it?)
+- Part 2 (Due Week 12): The Intervention, Implementation, and Evaluation Plan. (What are we going to do about it, and how will we measure success?)
+Takeaway: You cannot design a solution (Part 2) until you have rigorously proven and diagnosed the problem (Part 1).
+
+SLIDE 4: WHY SPLIT THE REPORT INTO TWO PARTS?
+The Danger of Premature Solutions
+- In the real world, public health professionals often rush to implement a "pet solution" (e.g., "Let's build an app!") before understanding the community.
+- By forcing you to submit Part 1 first, I am forcing you to sit with the data, listen to the community, and map the theoretical drivers of the issue.
+- You will receive feedback on Part 1. You must use this feedback to refine your diagnosis before designing your intervention in Part 2.
+- If your Part 1 diagnosis is flawed, your Part 2 intervention will fail.
+
+SLIDE 5: PART 1 FOCUS - THE DIAGNOSIS
+Phases 1, 2, and 3 of PRECEDE-PROCEED
+- Part 1 is strictly limited to the diagnostic phases.
+- Phase 1: Social Assessment (Quality of Life).
+- Phase 2: Epidemiological Assessment (Health Goals).
+- Phase 3: Educational and Ecological Assessment (Predisposing, Enabling, Reinforcing factors).
+- You are not allowed to propose your final intervention in Part 1. You are only allowed to identify the targets for change.
+Takeaway: Part 1 is the "detective work." Part 2 is the "treatment plan."
+
+SLIDE 6: SELECTING YOUR TARGET POPULATION
+Who Are You Trying to Help?
+- A target population must be specific, defined, and accessible.
+- Bad Example: "Adults in the country." (Too broad, impossible to tailor).
+- Bad Example: "People who are sick." (Not a demographic).
+- Good Example: "First-generation immigrant women aged 30 to 50 living in the [Specific] urban district."
+- Good Example: "Shift-workers at the [Specific] regional manufacturing plant."
+Rule: You must be able to describe their daily lived reality, their socioeconomic status, and their cultural context.
+
+SLIDE 7: SELECTING YOUR HEALTH ISSUE
+What is the Specific Burden?
+- The health issue must be directly linked to the target population's quality of life.
+- It must be a public health issue, not purely a clinical one.
+- Bad Example: "Curing rare genetic mutations." (Clinical/genetic, not suitable for health promotion).
+- Good Example: "High rates of unmanaged Type 2 Diabetes leading to preventable ER visits."
+- Good Example: "Elevated rates of burnout and depressive symptoms among nursing staff."
+Rule: The issue must be influenced by behavioral, environmental, or social determinants.
+
+SLIDE 8: THE GOLDILOCKS RULE OF SCOPE
+Not Too Broad, Not Too Narrow
+- Too Broad: "Ending childhood obesity in the nation." (You cannot solve this in a single report; the drivers are too vast).
+- Too Narrow: "Convincing one specific teenager to eat an apple." (Not a public health issue).
+- Just Right: "Reducing the consumption of sugar-sweetened beverages among middle school students in [Specific] low-income district."
+Takeaway: Your scope must be narrow enough to allow for a deep, rigorous PRECEDE-PROCEED analysis, but broad enough to represent a genuine community health burden.
+
+SLIDE 9: PHASE 1 - SOCIAL ASSESSMENT IN PRACTICE
+Defining the Community's Priorities
+- Your report must begin by establishing the social context of your target population.
+- What are their primary social concerns? (e.g., housing insecurity, unemployment, crime, lack of transit, social isolation).
+- How does the health issue you selected impact these social concerns?
+- Example: If your population is elderly immigrants, their primary social concern might be "isolation and loss of independence." Your health issue (e.g., fall risk) must be framed as a barrier to their social goal of independent living.
+
+SLIDE 10: WHERE TO FIND SOCIAL DATA
+Moving Beyond Anecdotes
+- You cannot rely on assumptions or stereotypes about your target population.
+- Use census data, municipal reports, local NGO needs assessments, and qualitative community surveys.
+- Look for data on: Income distribution, educational attainment, housing quality, employment rates, and community infrastructure.
+- Pro Tip: Quote local community leaders or published qualitative studies to capture the "voice" and lived experience of the population.
+
+SLIDE 11: PHASE 2 - EPIDEMIOLOGICAL ASSESSMENT IN PRACTICE
+Quantifying the Health Burden
+- Now, narrow the social goals down to specific health outcomes.
+- You must provide hard epidemiological data proving the problem exists and is severe.
+- Metrics to include: Prevalence, incidence, mortality rates, morbidity rates, and Disability-Adjusted Life Years (DALYs).
+- Disaggregate the data: Do not just give national averages. Show how the rates in your specific target population compare to the general population to highlight health inequities.
+
+SLIDE 12: WHERE TO FIND EPIDEMIOLOGICAL DATA
+The Gold Standard Sources
+- National and local health departments (e.g., CDC, WHO, Ministry of Health).
+- Peer-reviewed epidemiological journals.
+- Disease-specific registries (e.g., Cancer Registries, Diabetes Surveillance Systems).
+- Global Burden of Disease (GBD) study data.
+Takeaway: Every claim about the severity of the health issue must be backed by a credible, recent, and citable statistic.
+
+SLIDE 13: WRITING THE PROBLEM STATEMENT
+The Core of Part 1
+- By the end of Phase 2, you must write a formal Problem Statement.
+- Formula: [Target Population] experiences a disproportionate burden of [Health Issue], as evidenced by [Statistic], which negatively impacts their [Social Goal/Quality of Life].
+- Example: "Shift-workers at the regional plant experience a 30 percent higher rate of cardiovascular disease compared to day-workers, severely impacting their economic stability and family well-being."
+- This statement acts as the anchor for the rest of your report.
+
+SLIDE 14: PHASE 3 - BEHAVIORAL AND ENVIRONMENTAL FACTORS
+The Bridge to Intervention
+- Phase 3 is the most critical section for your grade.
+- You must identify the specific behaviors and environmental conditions that cause the health issue identified in Phase 2.
+- Behavioral Factors: What are the people doing (or not doing) that increases their risk? (e.g., smoking, sedentary lifestyle, skipping medication).
+- Environmental Factors: What is happening in their physical, social, or economic environment that drives the health issue? (e.g., food deserts, toxic workplace culture, lack of green space).
+
+SLIDE 15: DISTINGUISHING BEHAVIOR FROM ENVIRONMENT
+A Common Student Error
+- Students often confuse the two or blame the individual for environmental failures.
+- Example: "The behavior is eating fast food." 
+- Correction: Eating fast food is the behavior. But WHY are they doing it? If they live in a food desert and work two jobs, the ENVIRONMENTAL factors are lack of grocery stores and lack of time.
+- Your intervention will eventually target the environment, not just the behavior. You must map both accurately.
+
+SLIDE 16: PREDISPOSING FACTORS - THE LITERATURE SEARCH
+Mapping the Mind and Beliefs
+- What knowledge, attitudes, beliefs, and values drive the target behaviors?
+- Use the Health Belief Model (HBM) constructs here.
+- Do they lack knowledge about the disease? (Knowledge)
+- Do they believe the disease is inevitable? (Perceived Susceptibility/Severity)
+- Do they lack confidence in their ability to change? (Self-Efficacy)
+- You must cite peer-reviewed literature proving that these specific predisposing factors are present in your target population.
+
+SLIDE 17: ENABLING FACTORS - THE LITERATURE SEARCH
+Mapping the Resources and Barriers
+- What skills, resources, or systemic barriers allow or prevent the behavior?
+- Use the Social Ecological Model (SEM) here (Institutional, Community, Policy levels).
+- Do they lack the financial resources to buy healthy food? (Economic barrier)
+- Is the clinic only open during their working hours? (Structural barrier)
+- Do they lack the physical skills to cook from scratch? (Skill deficit)
+Takeaway: Enabling factors are usually the most powerful leverage points for health promotion.
+
+SLIDE 18: REINFORCING FACTORS - THE LITERATURE SEARCH
+Mapping the Social Feedback
+- What rewards or punishments follow the behavior?
+- Who influences the target population? (Family, peers, bosses, media).
+- If a teenager tries to quit vaping, do their friends support them or mock them? (Peer reinforcement).
+- If a worker takes a mental health day, does the manager praise them or penalize them? (Organizational reinforcement).
+- Cite sociological or psychological studies that map the social networks and norms of your population.
+
+SLIDE 19: BUILDING THE CONCEPTUAL FRAMEWORK
+Visualizing Your Diagnosis
+- Part 1 must include a visual diagram (a Conceptual Framework or Logic Model of the problem).
+- This diagram should visually map the flow from Social Goals -> Health Issue -> Behaviors/Environments -> Predisposing/Enabling/Reinforcing Factors.
+- This proves to the grader that you understand how all the theoretical pieces connect logically.
+- A messy or illogical diagram indicates a flawed diagnosis.
+
+SLIDE 20: THE ROLE OF THE LITERATURE REVIEW
+Not Just a Summary
+- The literature review in Part 1 is not a book report. It is an evidence-gathering mission.
+- You are reviewing the literature to answer one question: "What does the scientific evidence say drives this health issue in this specific type of population?"
+- Every factor you list in Phase 3 (Predisposing, Enabling, Reinforcing) must be justified by at least two high-quality, peer-reviewed citations.
+
+SLIDE 21: SYNTHESIZING VS. SUMMARIZING
+How to Write Like a Scholar
+- Summarizing (Bad): "Smith (2019) found that poverty causes stress. Jones (2020) found that stress causes heart disease."
+- Synthesizing (Good): "The pathway from economic disadvantage to cardiovascular risk is heavily mediated by chronic allostatic load, as demonstrated by both Smith (2019) and Jones (2020), suggesting that enabling financial resources is a critical upstream intervention."
+Takeaway: Group your citations by theoretical themes (e.g., "Barriers to Access," "Cultural Beliefs"), not by author.
+
+SLIDE 22: FOOD FOR THOUGHT - POSITIONALITY AND BIAS
+Who is Doing the Diagnosing?
+- As a health promoter, you hold power. You are defining what is "normal" and what is "pathological" in a community.
+- Question: How does your own background (class, race, education, health status) bias your perception of the community's needs?
+- If you are an outsider to the community, how are you ensuring that your "diagnosis" reflects their actual lived reality and not your own stereotypes?
+- Reflection: True needs assessments require humility and a willingness to be corrected by the community.
+
+SLIDE 23: EPISTEMIC INJUSTICE IN NEEDS ASSESSMENTS
+Whose Data Counts?
+- In Lecture 2, we discussed Epistemic Injustice (wronging someone in their capacity as a knower).
+- When conducting your Phase 1 Social Assessment, are you only looking at quantitative government data?
+- Government data often misses marginalized groups (e.g., undocumented immigrants, homeless populations).
+- You must actively seek out qualitative data, community narratives, and grassroots reports to avoid committing hermeneutical injustice against your target population.
+
+SLIDE 24: COMMON PITFALL 1 - THE PET SOLUTION
+Jumping to Conclusions
+- The most common reason students lose points in Part 1 is proposing the solution before finishing the diagnosis.
+- Example: A student wants to build a community garden. They choose "obesity" as their topic, and then manipulate the Phase 3 data to make it look like a lack of gardening is the primary cause of obesity.
+- This is intellectually dishonest and leads to bad public health.
+- Rule: Let the data dictate the solution. Do not force the data to fit your favorite idea.
+
+SLIDE 25: COMMON PITFALL 2 - THE DEFICIT NARRATIVE
+Ignoring Community Assets
+- A "deficit narrative" focuses only on what a community lacks (disease, poverty, ignorance, bad habits).
+- This is demoralizing and ignores the community's resilience and existing strengths.
+- Asset-Based Community Development (ABCD): Your Phase 1 and 3 assessments must also identify the community's existing assets (e.g., strong church networks, resilient cultural traditions, active local leaders).
+- These assets will become the "Enabling" and "Reinforcing" factors you leverage in Part 2.
+
+SLIDE 26: COMMON PITFALL 3 - THE DATA DUMP
+Losing the Narrative Thread
+- Do not just paste pages of statistics and tables into your report.
+- Data without context is meaningless. 
+- Every statistic you include must be explicitly tied back to the narrative of your target population and the specific health issue.
+- Use the "So What?" test. After every paragraph of data, ask yourself: "So what? Why does this matter to the problem statement?" If you cannot answer, delete the data.
+
+SLIDE 27: ACADEMIC WRITING STANDARDS FOR PART 1
+Professionalism and Clarity
+- Tone: Objective, professional, empathetic, and analytical. Avoid emotional pleading or colloquialisms.
+- Structure: Use clear headings aligned with the PRECEDE-PROCEED phases.
+- Formatting: Follow the university guidelines strictly (font, margins, line spacing).
+- Proofreading: Grammatical errors and typos signal a lack of attention to detail, which is a fatal flaw in public health planning.
+
+SLIDE 28: CITATION AND EVIDENCE GRADING
+Proving Your Claims
+- Use the required citation style (e.g., APA, Harvard) flawlessly.
+- Evidence Hierarchy: Prioritize systematic reviews, meta-analyses, and peer-reviewed primary studies.
+- Grey Literature: Government reports, WHO documents, and reputable NGO reports are acceptable for Phase 1 and 2 data, but Phase 3 theoretical drivers must be backed by peer-reviewed science.
+- Do not use Wikipedia, commercial blogs, or unverified news articles as sources.
+
+SLIDE 29: PUZZLING QUESTIONS FOR REFLECTION
+The Ethics of the Needs Assessment
+1. If the community's stated social priority (Phase 1) conflicts with the epidemiological data (Phase 2) - e.g., the community wants a new sports stadium, but the data shows a massive spike in infectious disease - whose priority should the health promoter follow?
+2. How do we conduct a "needs assessment" without reducing a vibrant, complex human community to a list of medicalized deficits and risk factors?
+3. If the literature review reveals that the only effective intervention is a massive wealth redistribution policy, but your funding agency only supports individual-level education, how do you write Part 1 ethically?
+
+SLIDE 30: THE PART 1 CHECKLIST
+Before You Submit, Verify:
+- Is my target population specific and clearly defined?
+- Is my health issue measurable and linked to social determinants?
+- Have I completed Phase 1 (Social) with community-level data?
+- Have I completed Phase 2 (Epidemiological) with hard health statistics?
+- Have I mapped Phase 3 (Predisposing, Enabling, Reinforcing) using theory?
+- Is every claim in Phase 3 backed by peer-reviewed literature?
+- Is my Problem Statement clear, concise, and compelling?
+- Have I avoided proposing the final intervention yet?
+
+SLIDE 31: GRADING RUBRIC HIGHLIGHTS
+How You Will Be Evaluated
+- 20 percent: Clarity and justification of Target Population and Health Issue.
+- 20 percent: Depth and accuracy of Social and Epidemiological Assessments (Phases 1 and 2).
+- 40 percent: Rigor, theoretical alignment, and literature synthesis of the Educational/Ecological Assessment (Phase 3).
+- 10 percent: Quality of the Conceptual Framework diagram.
+- 10 percent: Academic writing, formatting, and citation accuracy.
+Takeaway: The bulk of your grade (40 percent) relies on your ability to correctly identify and justify the Predisposing, Enabling, and Reinforcing factors. Spend your time there.
+
+SLIDE 32: FURTHER READING AND RESOURCES
+Tools for Your Diagnosis
+- Green, L. W., & Kreuter, M. W. (2005). Health program planning: An educational and ecological approach. (Chapters on assessment).
+- CDC Community Health Assessment Toolkit (Online resource for finding local data).
+- University Library Guides on Systematic Review and Evidence Synthesis.
+- Asset-Based Community Development (ABCD) Institute resources for identifying community strengths.
+Action Item: Bookmark your local government's open data portal today. You will need it for Phase 1 and 2.
+
+SLIDE 33: NEXT WEEK - READING WEEK
+Rest, Read, and Reflect
+- Next week is Reading Week. There are no formal lectures.
+- This time is explicitly reserved for you to conduct your literature review and draft Part 1 of your report.
+- Use this time to read the further reading materials, synthesize your data, and build your conceptual framework.
+- My office hours will remain open for one-on-one consultations regarding your topic selection and problem statement. Book a slot early.
+
+SLIDE 34: THANK YOU AND Q&A
+Diagnose Deeply. Plan Wisely.
+Contact:
+- Email: [Professor's Email]
+- Office Hours: [Time/Location]
+Action Item for this week: 
+Submit your one-paragraph "Topic Proposal" (Target Population + Health Issue + Brief Problem Statement) to the online portal by Friday at 5 PM. I will review them and provide a quick "Go/No-Go" or pivot recommendation before you dive into the heavy research.
+Have a productive Reading Week. I look forward to reading your diagnoses.

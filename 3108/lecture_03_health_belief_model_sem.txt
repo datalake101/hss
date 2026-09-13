@@ -1,0 +1,221 @@
+SLIDE 1: [COVER] The Health Belief Model and The Social Ecological Model
+TITLE: The Health Belief Model and The Social Ecological Model
+- Course: Health Promotion and Disease Prevention
+- Lecture 3
+- "Knowing and doing are separated by a vast and underappreciated distance."
+- Attribution: (course epigraph)
+
+SLIDE 2: [AGENDA] What We Cover Today
+TITLE: What We Cover Today
+- Part 1: The Health Belief Model, its origin story, its six constructs, and what it explains
+- Part 2: The critical flaw: individual rationality assumptions and structural blindness
+- Part 3: Self-efficacy, the construct that had to be grafted on later, and why that reveals something important
+- Part 4: The Social Ecological Model, five nested levels of influence on health behavior
+- Part 5: HBM vs. SEM head-to-head, and how to use both together
+- The thread: from explaining an individual decision to understanding the system that makes that decision possible or impossible
+
+SLIDE 3: [QUOTE] The Knowledge-Action Gap
+TITLE: The Knowledge-Action Gap
+Quote: "Health education by itself is necessary but not sufficient for behavior change."
+Attribution: Irwin Rosenstock, Health Education Monographs, 1974
+
+SLIDE 4: The Origin Story of the HBM
+- The Problem: in the early 1950s, the US Public Health Service rolled out free tuberculosis screening by mobile X-ray unit across multiple communities. Even where the service was free, nearby, and widely publicized, uptake was low. The cost and access barriers had been removed. People still did not come.
+- The Question: if the barriers are gone, what remains?
+- The Researchers: Godfrey Hochbaum, Irwin Rosenstock, Stephen Kegels, and colleagues at the US Public Health Service developed the Health Belief Model between 1952 and 1958 to answer that question specifically for preventive health behaviors.
+- Canonical Statement: Rosenstock, I.M. (1974). The Health Belief Model and Preventive Health Behavior. Health Education Monographs, 2(4), 354-386.
+- Key Insight: health behavior is driven not by objective risk, but by subjective perception of risk. Two people with identical clinical exposure to a disease can respond in completely opposite ways based on what they believe about their susceptibility, the severity of consequences, and the cost of acting.
+- Exam Focus: know the historical origin (TB screening, 1950s), the research team (Hochbaum, Rosenstock, Kegels), and the canonical 1974 citation.
+
+SLIDE 5: The Six Constructs of the HBM
+- Perceived Susceptibility: "Am I at risk?" The person's subjective belief about their likelihood of experiencing the health problem. A 22-year-old who believes heart disease is something that happens to other people will not act on cardiovascular risk information, regardless of family history.
+- Perceived Severity: "How bad would it be?" Belief about the seriousness of the condition and its medical and social consequences. Fear of stigma can motivate action as powerfully as fear of clinical severity.
+- Perceived Benefits: "Will this action actually help?" Belief that the recommended behavior will reduce the threat. Even high perceived susceptibility does not move people who doubt the effectiveness of the recommended action.
+- Perceived Barriers: "What will it cost me?" The anticipated practical, financial, psychological, and social obstacles. Even well-motivated people may not act if barriers feel prohibitive: time, cost, embarrassment, distance.
+- Cues to Action: the trigger that activates the decision. A symptom, a family member's diagnosis, a public-health campaign, a physician's recommendation. Without a cue, even people with all the right beliefs may never translate them into behavior.
+- Self-Efficacy: added to the model in 1988 by Rosenstock, Strecher, and Becker, borrowing directly from Albert Bandura's self-efficacy construct: "Can I actually do this?" The belief in one's own capacity to execute the specific behavior, distinct from believing the behavior is beneficial.
+- Exam Focus: know all six constructs by name, be able to define each, and give an applied example for each one.
+
+SLIDE 6: How the HBM Flows
+- The Logic: a person will take a recommended health action when they believe (a) they are personally susceptible to a serious threat, (b) the benefits of action outweigh the barriers, and (c) they have the capacity to act (self-efficacy), activated by a relevant cue.
+- It Is a Rational Cost-Benefit Model: the person is modeled as a deliberate actor who weighs perceived threats against perceived costs. This is both its diagnostic strength and its fundamental weakness.
+- Success Looks Like: designing an intervention that simultaneously raises perceived susceptibility (local disease prevalence data), emphasizes benefits (specific, personalized gains), reduces barriers (same-day walk-in availability), provides an external cue (text message reminder), and builds self-efficacy (peer success stories).
+- The Anti-Tobacco Case: campaigns that showed relatable people successfully quitting raised perceived susceptibility, highlighted benefits, provided cues, and modeled self-efficacy simultaneously. Those that only provided fear-based severity messages without self-efficacy support consistently underperformed.
+- Takeaway: HBM is most useful as a diagnostic tool. When a behavior is not happening, it tells you which specific belief to target.
+
+SLIDE 7: The Critical Flaw of the HBM
+- The Rational Actor Problem: the HBM models health behavior the way a classical economist models consumer choice: deliberate, information-sensitive, and individually rational. Real human behavior rarely works this way.
+- Ignores Emotion and Habit: the majority of health behavior is automatic, habitual, or emotionally driven. Perceived susceptibility rarely dominates over the immediate pleasure of the behavior, social pressure, or anxiety about change.
+- Structural Blindness: a person can hold every correct HBM belief, high susceptibility, high severity, high benefits, low barriers perceived, and still not act if they work three jobs, lack transportation to the clinic, live in a food desert, or cannot afford the prescription. The model has nothing to say about those conditions.
+- Ignores Social Norms: behavior is powerfully shaped by what everyone around you is doing. Perceived susceptibility does not easily override the community norm that "everyone in this neighborhood smokes."
+- Self-Efficacy Was an Afterthought: the original model developed between 1952 and 1974 included no self-efficacy construct at all. It was grafted on in 1988 from Bandura's social cognitive theory because the original model consistently underperformed in predicting sustained behavior change. The model had to borrow from another theory to work.
+- Critical Flaw Exam Line: the HBM explains why an individual might decide to act; it cannot explain why whole populations behave differently based on where they live, what they earn, or what options are available to them.
+
+SLIDE 8: The Social Ecological Model: A Structural Corrective
+- Origins: McLeroy, K.R., Bibeau, D., Steckler, A., and Glanz, K. (1988). An Ecological Perspective on Health Promotion Programs. Health Education Quarterly, 15(4), 351-377.
+- Intellectual Ancestor: Urie Bronfenbrenner's ecological systems theory (1977, 1979), which modeled child development as shaped by nested environmental systems from the immediate family outward to the broader culture. McLeroy and colleagues adapted this architecture explicitly for adult health behavior and health promotion planning.
+- Core Premise: health behavior is not determined by individual psychology alone. It is simultaneously shaped by the social environment (family, peers), the organizational context (workplaces, clinics, schools), the community (built environment, local norms), and the policy environment (law, regulation).
+- The Shift from HBM: where the HBM asks "what does this person believe?", the SEM asks "what are all the levels of influence shaping this person's available options?"
+- Exam Focus: know the McLeroy et al. (1988) citation, the five nested levels in order, and be able to explain each one with a health-relevant example.
+
+SLIDE 9: The Five Nested Levels of the SEM
+- Intrapersonal: knowledge, attitudes, beliefs, skills, developmental history. This is the level where the HBM operates. Necessary, but demonstrably insufficient on its own for sustained population-level change.
+- Interpersonal: family, friends, peers, social networks, caregivers. Social support and social norms operate here. A person who smokes and is surrounded by smokers faces interpersonal barriers that no amount of intrapersonal knowledge campaign can reliably overcome alone.
+- Organizational/Institutional: workplaces, schools, healthcare systems, faith communities, and their policies and practices. A school that provides healthy food in the cafeteria creates a different nutritional environment than one that runs vending machines down every hall, regardless of what students know about nutrition.
+- Community: the built environment, local resources, neighborhood social norms, and the accessibility of the environment. A neighborhood without safe parks, walkable streets, or nearby grocery stores produces different health behaviors than one with all three, regardless of individual motivation.
+- Public Policy: local, provincial, national, and international laws and regulations. Tobacco taxes, helmet laws, sugar levies, clean air legislation, and zoning regulations all change the environment for entire populations without requiring individual attitude change.
+- Exam Focus: know the names of all five levels and be able to give a concrete health-relevant example at each one.
+
+SLIDE 10: [PUZZLE] Food for Thought
+TITLE: Food for Thought
+Before we continue, sit with these:
+- The Health Belief Model predicts that if you believe the threat is real, the benefits outweigh the barriers, and you have the capacity to act, you will act. So why do a significant number of healthcare workers, people who know exactly how dangerous tobacco is and who counsel others on quitting daily, continue to smoke themselves? What does the HBM say about that, and is it enough?
+- The HBM has six moving parts and still cannot fully explain why knowledge rarely changes behavior. What essential ingredient do you think is missing from the model?
+- A government imposes a sugar-sweetened beverage tax. Consumption falls measurably across the entire population. No individual in that population "decided" to update their perceived susceptibility. What does that tell us about where health behavior actually lives, and what it implies for where health promotion resources should go?
+
+SLIDE 11: SEM as a Planning Framework, Not Just a Theory
+- SEM Is Not Only Explanatory: it is a planning guide for multi-level interventions. When you design a program at only one level, SEM predicts why it will underperform.
+- Single-Level Failure: interventions that address only intrapersonal factors, education campaigns, counseling sessions, awareness brochures, consistently produce modest and short-lived effects because the person returns to an unchanged environment.
+- Multi-Level Success: interventions that simultaneously address individual knowledge, social norms, organizational policy, community environment, and public policy consistently produce larger and more durable effects.
+- The Tobacco Control Example: declining smoking rates across high-income countries were not achieved by persuading individuals one at a time. They required all five levels in parallel: health education (intrapersonal), smoking cessation support (interpersonal), workplace smoke-free policies (organizational), smoke-free public spaces (community), tobacco taxes and advertising bans (policy). No single level produced the result. The combination did.
+- SEM Provides the Map: it tells the program planner where to look for leverage, not just what to say to the individual standing in front of them.
+- Exam Focus: explain why single-level interventions typically underperform and sketch what a multi-level intervention design looks like in a concrete health domain.
+
+SLIDE 12: Self-Efficacy: The Bridge Between the Two Models
+- Bandura's Contribution: Albert Bandura's social cognitive theory (1977) introduced self-efficacy as a distinct psychological construct: a person's belief in their own capacity to execute a specific behavior in a specific situation. Not "I believe exercise is healthy" (attitude), but "I believe I can go for a walk three times a week despite my schedule" (efficacy).
+- Why It Matters: a person may hold every favorable HBM belief and still fail to act because they do not believe they are capable. Self-efficacy predicts effort, persistence, and recovery from setbacks, independently of motivation.
+- Grafted onto HBM in 1988: Rosenstock, Strecher, and Becker formally added self-efficacy to the HBM because the original model consistently underperformed in predicting sustained behavior change. The addition was both an improvement and an implicit admission that the model was incomplete.
+- Also Present in SEM: self-efficacy sits at the intrapersonal level, but SEM makes clear it is not a fixed personality trait. It is shaped by interpersonal support, organizational success environments, and whether the community provides visible role models. Collective self-efficacy is also a community-level construct.
+- Takeaway: self-efficacy is both an individual-level predictor and a socially produced resource. Communities that provide peer support and visible success models build it collectively.
+
+SLIDE 13: HBM vs. SEM: A Head-to-Head
+- Unit of Analysis: HBM targets the individual's belief system. SEM targets the individual embedded in a multi-level system of nested contexts.
+- What It Explains: HBM explains why an individual perceives sufficient reason to act (or does not). SEM explains what conditions at multiple levels enable or constrain that action.
+- Practitioner Use: HBM informs the content of patient-facing health communication, which specific belief to address. SEM informs program design, which environmental and policy levers to pull simultaneously.
+- Key Strength: HBM provides operationalizable, measurable constructs that can be targeted in a campaign. SEM accounts for structural inequality and social determinants that HBM cannot reach.
+- Key Weakness: HBM is structurally blind, assumes individuals have roughly equal access to the choices on offer. SEM is complex to operationalize, does not specify which level to prioritize when resources are limited, and does not provide a causal mechanism for how levels interact.
+- Exam Focus: this comparison is a high-probability exam question. Be prepared to reproduce both sides of this table and to apply it to a specific health domain.
+
+SLIDE 14: Real-World Application: HPV Vaccine Hesitancy
+- HBM Analysis of a Hesitant Parent: perceived susceptibility may be low ("HPV is rare, and my child is not sexually active"); perceived severity may be underweighted ("cervical cancer is treatable"); perceived barriers may be high ("I'm worried about side effects, I distrust pharmaceutical companies, and making an appointment is complicated"); cues to action may be absent or counterproductive (social media misinformation); self-efficacy may be low ("I don't feel equipped to evaluate conflicting claims").
+- HBM-Informed Response: target each construct specifically. Share accurate local HPV prevalence and cervical cancer risk data (susceptibility). Address specific side-effect concerns clearly and directly (barriers). Provide same-day walk-in access (barriers). Use trusted community messengers (cues). Provide parents with language to discuss it with their children (self-efficacy).
+- SEM Analysis of the Same Problem: why is perceived susceptibility systematically low? Because the community has not experienced the disease recently. Why is distrust high? Because of historical failures in medical-community relationships (organizational and community levels). Why do access barriers persist? Because of structural factors in care delivery (organizational and policy levels).
+- SEM-Informed Response: train pediatricians in motivational interviewing (organizational). Engage trusted community organizations as health ambassadors (community). Regulate vaccine misinformation on digital platforms (policy). Provide school-based vaccination clinics (community and organizational simultaneously).
+- Exam Focus: be able to apply both frameworks to the same problem and articulate precisely what each one adds that the other cannot provide.
+
+SLIDE 15: Critiques of the SEM
+- Complexity Without Mechanism: SEM describes five levels of influence but does not specify how those levels interact causally, which one to prioritize when resources are constrained, or how change in one level propagates to others.
+- The Causality Loop: individual behavior and community norms are mutually constituted. Communities are made of individuals whose behavior shapes norms, which in turn shape individual behavior. The "five levels" are an analytic scaffold, not a causal chain.
+- Power Is Implicit: SEM does not explicitly name who controls the policy and organizational levels, and therefore cannot explain why harmful conditions persist despite clear evidence about what would change them. A theory of power is needed alongside SEM.
+- Cultural Transferability: the model was developed primarily in North American research contexts. Its level categories may not translate cleanly to community structures in different political economies or cultural settings.
+- Critical Flaw: SEM is a planning framework for organizing thinking, not a theory of causation. Use it to map the terrain; pair it with a theory of power or political economy to explain why certain levels are harder to move than others.
+
+SLIDE 16: [CHART] Two Models, Two Frameworks
+TITLE: Two Models, Two Frameworks
+Chart A: HBM Flow Diagram (type: flow chart)
+- Upper box, left: Perceived Susceptibility + Perceived Severity combine to produce "Perceived Threat"
+- Middle left box: Perceived Benefits minus Perceived Barriers
+- Middle right box: Cues to Action (internal: symptoms, bodily experience; external: reminders, media, recommendations)
+- Middle center box: Self-Efficacy (confidence in capacity to act)
+- All three middle boxes feed into a final lower box: "Likelihood of Taking the Recommended Health Action"
+- Source: Rosenstock (1974); self-efficacy addition from Rosenstock, Strecher, and Becker (1988). Illustrative.
+
+Chart B: SEM Concentric Rings Diagram (type: concentric rings)
+- Center ring: Individual (intrapersonal: knowledge, attitudes, beliefs, self-efficacy, developmental history)
+- Second ring: Interpersonal (family, friends, peers, social networks, caregivers)
+- Third ring: Organizational/Institutional (workplaces, schools, healthcare systems, faith communities)
+- Fourth ring: Community (built environment, local norms, resources, infrastructure)
+- Outermost ring: Public Policy (local, provincial, national, international law and regulation)
+- Source: McLeroy, Bibeau, Steckler, and Glanz (1988). Illustrative.
+
+SLIDE 17: [ABSTRACT] Rosenstock (1974): The Health Belief Model
+TITLE: Rosenstock (1974): The Health Belief Model
+Citation: Rosenstock, I.M. (1974). The Health Belief Model and Preventive Health Behavior. Health Education Monographs, 2(4), 354-386.
+Finding: Rosenstock provided the first systematic theoretical account of the Health Belief Model, tracing its origins in the tuberculosis screening studies of the early 1950s. He articulated the four original constructs (perceived susceptibility, severity, benefits, and barriers), reviewed evidence across a range of preventive behaviors including cancer screening and dental hygiene, and argued that health motivation combined with perceived vulnerability and belief in the effectiveness of action together predicted whether individuals would take preventive steps. He also acknowledged the model's limits and the need for future research on the relationships between constructs.
+Relevance: This is the canonical HBM statement. No literature review on health behavior theory omits it, and it remains the standard reference for the foundational constructs and the model's empirical history.
+[Insert screenshot of the abstract here]
+
+SLIDE 18: [ABSTRACT] McLeroy et al. (1988): An Ecological Perspective
+TITLE: McLeroy et al. (1988): An Ecological Perspective
+Citation: McLeroy, K.R., Bibeau, D., Steckler, A., and Glanz, K. (1988). An Ecological Perspective on Health Promotion Programs. Health Education Quarterly, 15(4), 351-377.
+Finding: McLeroy and colleagues adapted Bronfenbrenner's ecological systems framework for health promotion program planning, defining five levels of influence on health behavior (intrapersonal, interpersonal, institutional, community, and public policy) and arguing that effective health promotion requires simultaneous intervention across multiple levels. They critiqued individually focused programs for producing limited and temporary effects, documented the theoretical case for multi-level design, and offered the ecological framework as a practical guide for practitioners designing, implementing, and evaluating interventions.
+Relevance: This paper established the Social Ecological Model as the structural corrective to individually focused health promotion theory. It directly addresses the HBM's most significant limitation and provides the conceptual architecture for multi-level program design.
+[Insert screenshot of the abstract here]
+
+SLIDE 19: [PUZZLE] Puzzling Questions
+TITLE: Puzzling Questions
+Harder questions, sitting with the tension:
+- The SEM says public policy shapes community shapes organizations shapes individuals, but policy is also made by people who are shaped by communities shaped by policy. Where do you actually break into that loop? And does the answer depend on how much power you have?
+- If an SEM intervention changes community norms without any individual explicitly consenting to that change, for example a sugar tax or a smoke-free bylaw, is that health promotion or social engineering? What is the criterion that separates the two?
+- The HBM predicts that raising perceived susceptibility will increase health action. What happens when you raise perceived susceptibility without providing any effective action to take? Consider HIV messaging in the 1980s before effective antiretroviral treatment was available. What does the evidence from that period suggest about fear appeals without efficacy pathways?
+- Every level of the SEM implies a different professional holding the lever: clinician, social worker, urban planner, legislator. If you can only move one level with the resources you have, which level produces the largest population-level return, and does the answer differ by health condition?
+
+SLIDE 20: When Both Models Are Necessary
+- The Limits of Either Alone: the HBM gives you the architecture of the individual's decision but cannot explain why certain populations systematically produce low health-belief motivation or face structural barriers the model cannot register. The SEM gives you the systemic map but does not tell you what to say to the person sitting across from you.
+- Using Them in Sequence: use HBM to design the person-facing communication: which specific belief construct is the primary barrier in this population? Use SEM to design the context that makes it possible to act on that communication once the person receives it.
+- The Integration in Practice: a diabetes prevention program that trains patients in perceived susceptibility and efficacy (HBM constructs) while simultaneously improving food environments, creating community walking groups, and advocating for insurance coverage (SEM levels) will consistently outperform one that does only the individual-facing work.
+- The Practitioner's Task: match the theory to the level of change you control, and be honest about what you cannot change alone.
+
+SLIDE 21: Implications for Practice
+- At the Clinical Level: use HBM to diagnose which belief construct is the primary barrier in your patient population, and address it specifically. One-size campaigns rarely work because different populations are stuck at different points in the HBM's logic.
+- At the Program Level: use SEM to conduct a multi-level assessment before designing the intervention. Map what would need to change at every level for the target behavior to become the default option rather than the demanding exception.
+- At the Policy Level: SEM provides the theoretical justification for upstream intervention. Changing the environment does not override individual choice; it changes the conditions under which choices are made for everyone, including people who never interact with a health promotion program.
+- The Honest Limit: neither model fully accounts for the role of habit, emotion, social identity, or historical trauma in shaping health behavior. Both need to be complemented by behavioral theory and an explicit engagement with power and structural inequality.
+
+SLIDE 22: Synthesis: What This Lecture Builds Toward
+- HBM tells us: health behavior is shaped by what individuals believe about their personal risk, the utility of action, the cost of action, and their own capacity to perform it.
+- SEM tells us: those beliefs do not arise in a vacuum. They are produced and constrained by social relationships, institutional policies, community environments, and the legal structures of the society the person inhabits.
+- Together: HBM maps the problem at the individual level; SEM maps the system that produces and maintains the individual-level problem. Both are necessary for a complete picture of why a health behavior is or is not occurring.
+- The Course Thread: Lecture 1 introduced upstream determinants of health. Lecture 2 asked who defines illness. This lecture asks why people do or do not act on health information, and begins tracing the answer back up the causal chain to where most of the leverage actually lives.
+- Exam Focus: be able to draw the relationship between HBM and SEM, explain what each adds to the other, and apply both to a given health scenario in one coherent analysis.
+
+SLIDE 23: Glossary
+- Health Belief Model (HBM): an individual-level theory explaining preventive health behavior through perceived susceptibility, severity, benefits, barriers, cues to action, and self-efficacy (Hochbaum, Rosenstock, Kegels, 1952-1958; canonical statement Rosenstock, 1974; self-efficacy added 1988).
+- Perceived Susceptibility: an individual's subjective belief about their likelihood of experiencing a particular health condition.
+- Perceived Barriers: the anticipated practical, financial, social, or psychological obstacles associated with taking a recommended health action.
+- Cues to Action: internal or external stimuli that activate health-related behavior by triggering an already-present motivational readiness.
+- Self-Efficacy (Bandura, 1977): a person's belief in their own capacity to successfully execute a specific behavior in a specific context; incorporated into HBM by Rosenstock, Strecher, and Becker (1988).
+- Social Ecological Model (SEM): a multi-level framework explaining health behavior as shaped by intrapersonal, interpersonal, organizational, community, and public policy factors (McLeroy et al., 1988), adapted from Bronfenbrenner's ecological systems theory.
+
+SLIDE 24: Carrying This Forward
+- We now have two frameworks: one that maps the individual's decision architecture (HBM) and one that maps the systemic context shaping the options available for that decision (SEM).
+- What neither model is: a planning model. They explain health behavior and provide a map of influences, but neither provides a systematic process for deciding which factors to target, in which order, with which resources, across a multi-year intervention.
+- Lecture 4 introduces the PRECEDE-PROCEED Model: a step-by-step planning framework built around the principle that you start with the quality-of-life outcome you want to achieve, and work backward through every level of influence to the program design.
+- Preview question to carry in: if you need to design an intervention that touches multiple SEM levels simultaneously, how do you systematically prioritize which factors to address, and how do you build the evaluation framework into the design from the start?
+
+SLIDE 25: [READING] Further Reading, Part 1
+TITLE: Further Reading, Part 1
+- Rosenstock, I.M. (1974): The Health Belief Model and Preventive Health Behavior. Health Education Monographs, 2(4), 354-386. The canonical HBM statement and the primary source for the lecture's foundational content.
+- McLeroy, K.R., Bibeau, D., Steckler, A., and Glanz, K. (1988): An Ecological Perspective on Health Promotion Programs. Health Education Quarterly, 15(4), 351-377. The canonical SEM statement and the most frequently cited ecological model in health promotion.
+- Rosenstock, I.M., Strecher, V.J., and Becker, M.H. (1988): Social learning theory and the health belief model. Health Education Quarterly, 15(2), 175-183. Documents the formal incorporation of Bandura's self-efficacy construct into the HBM: essential for understanding why the model required revision and what that revision implies.
+- Bronfenbrenner, U. (1977): Toward an experimental ecology of human development. American Psychologist, 32(7), 513-531. The journal-article version of Bronfenbrenner's ecological systems framework, accessible and foundational for understanding the intellectual ancestry of the SEM.
+
+SLIDE 26: [READING] Further Reading, Part 2
+TITLE: Further Reading, Part 2
+- Brewer, N.T., Chapman, G.B., Gibbons, F.X., Gerrard, M., McCaul, K.D., and Weinstein, N.D. (2007): Meta-analysis of the relationship between risk perception and health behavior: the example of vaccination. Health Psychology, 26(2), 136-145. A systematic empirical evaluation of how well HBM risk-perception constructs actually predict behavior, revealing important gaps between the model's predictions and real outcomes.
+- Larson, H.J., Jarrett, C., Eckersberger, E., Smith, D.M.D., and Paterson, P. (2014): Understanding vaccine hesitancy around vaccines and vaccination from a global perspective: a systematic review of published literature, 2007-2012. Vaccine, 32(19), 2150-2159. A comprehensive review applying HBM constructs to vaccine hesitancy at population scale, illustrating both the model's utility and its structural blind spots.
+- Sallis, J.F., Cervero, R.B., Ascher, W., Henderson, K.A., Kraft, M.K., and Kerr, J. (2006): An ecological approach to creating active living communities. Annual Review of Public Health, 27, 297-322. An influential application of ecological principles to physical activity at the community level: demonstrates how SEM-informed policy and built environment change produces behavioral outcomes that individual-focused programs cannot achieve alone.
+- Champion, V.L., and Skinner, C.S. (2008): The Health Belief Model. In Glanz, K., Rimer, B.K., and Viswanath, K. (Eds.), Health Behavior and Health Education: Theory, Research, and Practice (4th ed.), pp. 45-65. Jossey-Bass. The most widely cited contemporary review of the HBM's theoretical structure and empirical record, including an assessment of its predictive performance across health domains. Note: book chapter, not a journal article.
+
+SLIDE 27: [CLASSWORK] HPV Vaccination in a Low-Income Urban Neighborhood
+TITLE: HPV Vaccination in a Low-Income Urban Neighborhood
+Scenario: A community health center serving a low-income urban neighborhood wants to raise HPV vaccination rates among 11-to-13-year-olds. Current rates are 34% compared to a national average of 67%. Preliminary community interviews reveal that many parents have unanswered questions about safety, significant distrust of pharmaceutical companies, and difficulty making appointments around work schedules. Several parents report never having heard of HPV.
+Tasks:
+- Part A, HBM Lens: map the HBM constructs for a hesitant parent in this community. Which specific construct is most likely to be the primary barrier? What would a communication targeting that construct specifically look like, and what would it avoid?
+- Part B, SEM Lens: design one concrete intervention at each of the five SEM levels. What does the intrapersonal action look like? The interpersonal? The organizational? The community? The policy? Each action should be concrete enough that someone could actually implement it.
+- Part C, The Critical Question: what does the HBM analysis alone miss that only appears when you apply the SEM lens? Name at least two things. Which of the five SEM levels do you think will produce the greatest return on investment in this particular community, and why?
+Come prepared to present your five-level SEM plan in small groups and defend your prioritization.
+
+SLIDE 28: [TEASER] Next Week: From Explanation to Planning
+TITLE: Next Week: From Explanation to Planning
+- We now have two frameworks for explaining health behavior: one that maps the individual's beliefs (HBM) and one that maps the system shaping those beliefs (SEM). Next week, we turn to a framework for actually planning an intervention around them.
+- Lecture 4 introduces the PRECEDE-PROCEED Model, developed by Lawrence Green and colleagues starting in the early 1970s. Its central principle is as simple as it is demanding: start with the outcome you want to produce, and work backward.
+- You will learn to conduct a systematic multi-phase assessment that begins with quality of life, moves through epidemiological and behavioral diagnosis, and arrives at program design only after understanding the full causal picture.
+- Preview question: if you begin with the intervention instead of the outcome, what do you risk?
+
+SLIDE 29: [CLOSING] Know the Individual. See the System.
+TITLE: Know the Individual. See the System.
+- "The HBM tells you what the person believes. The SEM tells you what built that belief. You need both, and neither one is enough alone."
+- Attribution: (course epigraph)
+- Questions, office hours, and contact: [instructor details here]
+- Before next class: read Rosenstock (1974) and McLeroy et al. (1988). Come with one real public health program you have encountered or read about, and map it onto both frameworks. Where does the program operate? What level is it missing? What would change if it addressed the level it currently ignores?

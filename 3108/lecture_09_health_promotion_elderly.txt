@@ -1,0 +1,234 @@
+SLIDE 1: [COVER] Health Promotion for the Elderly
+TITLE: Health Promotion for the Elderly
+- Course: Health Promotion and Disease Prevention
+- Lecture 9
+- "The goal is not to add years to life, but life to years."
+- Attribution: (course epigraph)
+
+SLIDE 2: [AGENDA] What We Cover Today
+TITLE: What We Cover Today
+- Part 1: Rowe and Kahn's Successful Aging model, and its critics
+- Part 2: Fries's Compression of Morbidity hypothesis: the promise and the evidence
+- Part 3: Loneliness and social isolation as mortality risk factors
+- Part 4: Ageism as a structural determinant of health
+- Part 5: The WHO Age-Friendly Cities framework and what it demands
+- The thread: this lecture asks not only what diseases older adults are at risk for, but what conditions, biological and social, allow some people to thrive well into late life while others do not, and what health promotion can do about the gap
+
+SLIDE 3: [QUOTE] What Aging Can Be
+TITLE: What Aging Can Be
+Quote: "Usual aging is not inevitable. Successful aging is not an accident."
+Attribution: John Rowe and Robert Kahn, The Gerontologist, 1997
+
+SLIDE 4: The Successful Aging Model
+- John Rowe and Robert Kahn, The Gerontologist (1997): challenged the dominant assumption in gerontology that cognitive and physical decline was the normal and unavoidable consequence of aging. They argued that much of what was called "normal" aging was actually the product of disease, poor health behaviors, and adverse psychosocial environments, not aging itself.
+- The Three-Component Model: successful aging requires all three simultaneously.
+- Low Probability of Disease and Disease-Related Disability: not merely the absence of disease, but the absence of the risk factors that make disease more likely. This includes behavioral factors (tobacco, sedentary lifestyle, diet) and social factors (poverty, isolation, chronic stress).
+- High Cognitive and Physical Functional Capacity: maintaining the ability to think, remember, move, and manage daily life. Rowe and Kahn emphasized that significant functional decline is not an inevitable feature of aging and that it is meaningfully preventable through physical activity, cognitive engagement, and social participation.
+- Active Engagement with Life: meaningful relationships and productive activities. Social connectedness and purposeful contribution are not nice additions to the other two components. Rowe and Kahn treated them as determinants of the other two.
+- The Central Argument: the boundaries between "usual" (average, disease-ridden) aging and "successful" aging are not fixed by biology. They are modifiable by behavior, environment, and social policy.
+- Exam Focus: know all three components and be able to explain how Rowe and Kahn reframed the relationship between aging and decline.
+
+SLIDE 5: The Critical Flaw: What "Successful" Excludes
+- Katz and Calasanti (2015), The Gerontologist: arguably the most important critique of the Successful Aging model. Their central argument: the three-component model is normative, not descriptive. It tells people how aging ought to look, not what aging actually is.
+- The Exclusion Problem: by defining successful aging as the absence of disease and disability combined with high function, the model implicitly classifies every person living with a chronic condition or disability as aging "unsuccessfully," regardless of how fulfilled, connected, purposeful, and happy they are.
+- Who Is Excluded: the majority of people over 75 in high-income countries have at least one chronic condition. By the Rowe-Kahn definition, most older adults are by definition unsuccessful agers. This is a remarkable property for a model that was intended to be aspirational and empowering.
+- The Class and Race Dimension: because the social determinants of health shape who develops chronic conditions and who can maintain high function (access to exercise facilities, nutritious food, social infrastructure), the model's definition of success is also implicitly a measure of socioeconomic advantage.
+- The Alternative: critics propose frameworks that center subjective well-being, meaning-making, adaptation, and quality of relationships rather than disease-absence and functional performance as the criteria for aging well.
+- Exam Focus: know Katz and Calasanti (2015) as the primary critique, be able to state their argument precisely, and explain what an alternative definition of aging well might center instead.
+
+SLIDE 6: Compression of Morbidity
+- James Fries, New England Journal of Medicine (1980): proposed one of the most influential hypotheses in gerontology and public health. The argument: human life has an approximately fixed maximum duration. What health promotion and medicine can change is not the maximum lifespan but the point at which morbidity and disability onset within that fixed span.
+- The Goal: compress the period of illness, disability, and suffering into as short a window as possible near the natural end of the lifespan. A person who is vigorous and functional until 85 and then declines rapidly over a year before death has a more compressed morbidity curve than one who develops multiple chronic conditions at 60 and spends 25 years of diminishing function.
+- The Rectangularization of the Survival Curve: as morbidity is compressed, the survival curve becomes more rectangular. Instead of a gradually declining slope of health from midlife onward, most of the population remains at high function until a relatively late age, then declines sharply. The "rectangle" of years lived at high health status becomes taller and wider.
+- The Health Promotion Implication: primordial and primary prevention are not just about reducing deaths. They are about protecting the quality and function of the years lived. A health promotion program that delays disability onset by five years in a 75-year-old is a major achievement even if it does not extend total lifespan.
+- Critical Flaw: the compression of morbidity hypothesis assumed a fixed maximum lifespan. Actual trends in high-income countries since 1980 have shown both rising longevity and, in many countries, rising multimorbidity in older populations. Whether morbidity has genuinely compressed or simply expanded in parallel with longer life remains actively debated.
+- Exam Focus: know Fries (1980) and the compression of morbidity hypothesis, the concept of rectangularization, and be able to state the key empirical challenge to the hypothesis.
+
+SLIDE 7: Loneliness and Social Isolation as Mortality Risk Factors
+- Holt-Lunstad, Smith, Baker, Harris, and Stephenson (2015), Perspectives on Psychological Science: a landmark meta-analysis of 148 prospective studies covering over 300,000 participants that established loneliness and social isolation as independent predictors of premature mortality, with effect sizes comparable to well-established mortality risk factors.
+- The Magnitude: the authors estimated that social isolation, loneliness, and living alone were each associated with increased odds of mortality roughly comparable in magnitude to smoking up to 15 cigarettes a day, and greater than the mortality risk associated with obesity and physical inactivity.
+- Why This Is Not Common Knowledge: the result is counterintuitive to people who treat loneliness as a subjective emotional experience rather than a physiological risk factor. The biological mechanisms include HPA axis dysregulation, elevated inflammatory markers, impaired sleep architecture, and hypervigilance to social threat, all of which have downstream effects on cardiovascular, immune, and neurological health.
+- The Population Problem: social isolation in older adults is not rare. Rates of severe loneliness in adults over 65 range from 15-30% in high-income countries, with higher rates among those with mobility limitations, sensory impairment, bereavement, and rural residence.
+- The Policy Gap: high cholesterol generates a prescription. High blood pressure generates a prescription. Severe loneliness generates nothing from the healthcare system, despite carrying comparable mortality risk. This is partly a medicalisation question (Lecture 2 callback) and partly a structural resource question.
+- Exam Focus: know Holt-Lunstad et al. (2015), the size of the effect, the biological mechanism, and be prepared to argue that loneliness warrants a systematic healthcare and social policy response comparable to other mortality risk factors of equivalent magnitude.
+
+SLIDE 8: The Biology of Loneliness
+- John Cacioppo's Research: Cacioppo and colleagues over two decades identified the specific biological pathways through which social isolation produces poor health outcomes.
+- HPA Axis: lonely individuals show elevated and more reactive cortisol responses. Chronic HPA activation produces the full range of cardiovascular, metabolic, and immune consequences already covered in Lectures 6 and 7.
+- Inflammatory Pathways: loneliness is associated with elevated pro-inflammatory markers (interleukin-6, C-reactive protein) even after controlling for health behaviors. Social connection has an anti-inflammatory effect at the biological level.
+- Sleep Architecture: lonely individuals show more fragmented sleep and less restorative slow-wave sleep. Poor sleep quality is itself a cardiovascular, metabolic, and neurological risk factor.
+- Hypervigilance: Cacioppo proposed that isolated individuals evolve a physiological hypervigilance to social threat, a chronic low-level threat-detection state that keeps the stress-response system activated even in the absence of overt stressors.
+- The Intervention Implication: social connection is not a wellness perk (recall Lecture 7). It is a physiological regulator. Programs that create genuine, reciprocal social connection for isolated older adults are addressing a primary biological risk factor, not adding a nice-to-have.
+
+SLIDE 9: [PUZZLE] Food for Thought
+TITLE: Food for Thought
+Sit with these before we continue:
+- Rowe and Kahn's model says successful aging means avoiding disease and disability. By that definition, a 79-year-old living with managed hypertension and arthritis, who volunteers weekly, maintains close friendships, and reports more life satisfaction than at any previous age, has aged "unsuccessfully." What is wrong with a model whose conclusions require that sentence?
+- If loneliness carries a mortality risk comparable to smoking 15 cigarettes a day, why is there no routine clinical "prescription" for isolation the way there is for high cholesterol? Is this a knowledge gap, a resource gap, a political problem, or something about how we categorize social experience versus biological risk?
+- We spend enormous resources trying to extend life expectancy at the margins. We spend far less trying to compress morbidity, to protect the quality and function of the years already being lived. Is that allocation rational, and if not, what drives it?
+
+SLIDE 10: Ageism as a Structural Determinant of Health
+- Definition: ageism refers to stereotypes, prejudice, and discrimination based on age, applied typically to older adults. The World Health Organization has identified ageism as one of the most widespread and socially condoned forms of discrimination, and one of the most underrecognized structural determinants of older adult health.
+- Ageism at the Individual Level: internalized ageism, the extent to which older adults accept negative stereotypes about aging and apply them to themselves, is independently associated with worse health outcomes. Becca Levy and colleagues have documented in longitudinal research that older adults with more positive self-perceptions of aging live, on average, 7.5 years longer than those with negative self-perceptions.
+- Ageism in Healthcare: older adults are systematically undertreated for pain, undertreated for mental health conditions, under-enrolled in clinical trials, and subject to therapeutic nihilism ("what do you expect at your age?"). These are not individual provider failings; they are documented systematic patterns.
+- Ageism in Policy: mandatory retirement ages, age-based rationing of healthcare resources (explicit or implicit), and the framing of population aging primarily as a fiscal burden rather than a human development achievement all reflect and reinforce structural ageism.
+- The Intersectional Problem: ageism compounds with other forms of discrimination. Older women, older people of color, older people with disabilities, and older people in poverty experience multiple, intersecting disadvantages that the Rowe-Kahn model of "successful aging" has very little to say about.
+- Exam Focus: know ageism as a structural determinant of health, know Levy's findings on self-perceptions of aging and mortality, and be able to identify at least two domains (healthcare, policy) where ageism operates as a systematic structural problem.
+
+SLIDE 11: The WHO Age-Friendly Cities Framework
+- Origin: WHO launched the Age-Friendly Cities initiative in 2007 as part of the Active Ageing policy framework. The global network now includes hundreds of cities and communities that have committed to assessing and improving their environments for older residents.
+- The Eight Domains of the Framework:
+- Outdoor Spaces and Buildings: physical accessibility, safety, and quality of the built environment for older adults, including walkability, seating, lighting, and accessible public facilities.
+- Transportation: affordable, accessible, and reliable transport options that maintain mobility and independence without requiring private vehicle ownership.
+- Housing: affordable, accessible, and age-appropriate housing with options to age in place rather than being forced into institutional care.
+- Social Participation: availability of social and cultural activities that support social connection, intergenerational engagement, and community belonging.
+- Respect and Social Inclusion: community attitudes and institutional practices that treat older adults with dignity and include them in civic and social life.
+- Civic Participation and Employment: opportunities for older adults to contribute to community life through volunteering, paid work, and civic engagement.
+- Communication and Information: accessible, clear, and inclusive communication channels that do not assume digital literacy or exclude those without internet access.
+- Community Support and Health Services: accessible, coordinated, and age-appropriate health and social services that support independence and functional capacity.
+- Exam Focus: know the eight domains of the WHO Age-Friendly Cities framework and be able to explain how each one addresses a specific social determinant of older adult health.
+
+SLIDE 12: [CHART] The Compression of Morbidity
+TITLE: The Compression of Morbidity
+Chart type: two overlapping line curves on a single axis
+X-axis: Age (from 60 to 100 years)
+Y-axis: Health Function (from 0% to 100%)
+
+Curve 1 (labeled "Uncompressed Morbidity, Traditional Pattern"):
+- Begins declining gradually from age 60-65
+- Reaches functional impairment (approximately 50%) by age 72-75
+- Reaches severe disability by age 82-85
+- Death at approximately 87-90
+- The area under the curve and above the disability threshold is large: many years of poor function
+
+Curve 2 (labeled "Compressed Morbidity, Goal of Health Promotion"):
+- Remains at or near 100% function until age 80-82
+- Drops sharply over 2-4 years
+- Reaches severe disability at approximately 85-86
+- Death at approximately 88-90 (similar total lifespan)
+- The area under the curve and above the disability threshold is small: fewer years of poor function
+
+Annotation: "Same lifespan, dramatically different experience of health within that lifespan"
+Annotation arrow: "The rectangularization of the survival curve"
+Source: Fries (1980). Illustrative and conceptual; actual values are population-dependent.
+
+SLIDE 13: [ABSTRACT] Rowe and Kahn (1997): Successful Aging
+TITLE: Rowe and Kahn (1997): Successful Aging
+Citation: Rowe, J.W., and Kahn, R.L. (1997). Successful Aging. The Gerontologist, 37(4), 433-440.
+Finding: Rowe and Kahn presented a three-component model of successful aging, arguing against the prevailing assumption that cognitive and physical decline was the inevitable and primary characteristic of normal aging. Drawing on the MacArthur Foundation Research Network on Successful Aging study, they showed that much of what gerontology called "normal" aging was actually the result of disease, sedentary behavior, poor nutrition, and psychosocial impoverishment, not biological aging itself. They argued that lifestyle and psychosocial factors could meaningfully modify the trajectory of aging, and that active engagement with life, including productive activity and close relationships, was as important a component of healthy aging as physical and cognitive function.
+Relevance: This paper launched an era of research into positive aging and remains the foundational statement of the successful aging framework. It is also the primary target of subsequent feminist and critical gerontology critiques, making it essential reading both for its contributions and for the questions it fails to ask.
+[Insert screenshot of the abstract here]
+
+SLIDE 14: [ABSTRACT] Holt-Lunstad et al. (2015): Loneliness and Mortality
+TITLE: Holt-Lunstad et al. (2015): Loneliness and Mortality
+Citation: Holt-Lunstad, J., Smith, T.B., Baker, M., Harris, T., and Stephenson, D. (2015). Loneliness and social isolation as risk factors for mortality: a meta-analytic review. Perspectives on Psychological Science, 10(2), 227-237.
+Finding: This meta-analysis synthesized data from 148 prospective longitudinal studies covering more than 300,000 participants to estimate the independent effect of social isolation, loneliness, and living alone on all-cause mortality. The pooled analysis found that social isolation was associated with a 29% increased odds of death, loneliness with a 26% increased odds, and living alone with a 32% increased odds, after adjusting for demographic and health covariates. The magnitude of these effects was comparable to, and in some analyses exceeded, the mortality risk associated with well-established risk factors including obesity and physical inactivity.
+Relevance: This is the definitive quantitative evidence base for social isolation as a primary mortality risk factor in older adults. Its findings justify treating loneliness as a clinical and public health priority, and its effect-size comparisons to smoking are the most commonly cited statistics in global policy discussions about social isolation.
+[Insert screenshot of the abstract here]
+
+SLIDE 15: [PUZZLE] Puzzling Questions
+TITLE: Puzzling Questions
+Harder questions:
+- Fries's compression of morbidity promised we could squeeze disease and disability into a short window near the end of a fixed lifespan. Decades later, in many high-income countries, average lifespans have increased but chronic multimorbidity in older adults has also increased. Has morbidity actually compressed, or has it simply shifted and expanded along with longer lives? What does the answer imply for health promotion strategy?
+- If an 85-year-old with two chronic conditions and significant cognitive decline is genuinely content, reports strong relationships and a sense of meaning, and says she would not change her life, was Rowe and Kahn's "successful aging" criterion measuring health, or was it measuring something specific to a particular cultural ideal of productivity and independence?
+- Ageism in healthcare means older adults are systematically undertreated for pain, undertreated for depression, and excluded from clinical trials. If those are structural, systematic patterns, is the correct intervention clinician education, or healthcare system redesign? And who is responsible for initiating it?
+- Social isolation carries a mortality risk comparable to smoking. We have regulated cigarettes, taxed them, banned indoor smoking, and funded cessation programs. Have we applied comparable public health force to social isolation? If not, why not, and what would it take?
+
+SLIDE 16: Multimorbidity and the Limits of Single-Disease Health Promotion
+- The Epidemiological Reality: the majority of adults over 65 in high-income countries live with two or more concurrent chronic conditions (multimorbidity). Single-disease guidelines, single-disease health promotion campaigns, and single-disease specialist care are designed for a patient population that does not actually exist at scale.
+- The Clinical Problem: a patient with Type 2 diabetes, hypertension, osteoarthritis, mild cognitive impairment, and depression has five sets of clinical guidelines that may conflict with each other. Polypharmacy is itself a major cause of adverse events in older adults. The system designed to treat one disease at a time becomes a source of harm when applied to the person with five.
+- The Health Promotion Parallel: a fall prevention program, a cardiac health program, and a cognitive stimulation program operating in separate silos for the same older adult are expensive, uncoordinated, and often contradictory. Integrated, person-centred health promotion that addresses function, social connection, and mental health simultaneously is both more efficient and more effective.
+- The Person in Front of You: the framework shift required for health promotion with older adults is from "what disease does this person have?" to "what matters to this person, and what capacity do they have to live in alignment with that?" This is the philosophy underlying person-centred care and supported decision-making.
+- Exam Focus: explain why single-disease health promotion is inadequate for an older adult population living primarily with multimorbidity, and describe what an integrated, function-centred approach looks like in practice.
+
+SLIDE 17: Fall Prevention: A Case Study in Evidence-Based Older Adult Health Promotion
+- The Problem: falls are the leading cause of injury-related death and disability in adults over 65 in high-income countries. A single hip fracture in an older adult is associated with 20-30% one-year mortality and dramatic functional decline for those who survive.
+- The Evidence Base: the fall prevention literature is among the most developed in all of older adult health promotion. Systematic reviews consistently identify: exercise programs (particularly balance training and strength training) as the most effective single intervention; home hazard assessment and modification; medication review (many falls are medication-related); and multi-component programs combining exercise, home modification, and vision correction as the most effective comprehensive approach.
+- The Structural Dimension: who falls is not random. Older adults in poverty live in housing with more fall hazards. Those without transport cannot access exercise programs. Those with unmanaged chronic pain have altered gait mechanics. Fall risk is, once again, socially patterned.
+- The Ageist Response: a common institutional response to falls is to restrict mobility, remove older adults from walking independently, confine them to beds or chairs "for their safety." The evidence shows this approach dramatically accelerates deconditioning and increases long-term fall risk. Restriction is not protection; it is the substitution of one harm for another.
+- Exam Focus: know the evidence-based components of effective fall prevention, and be able to explain why restriction of mobility is counterproductive.
+
+SLIDE 18: Mental Health and Aging: The Undertreated Crisis
+- The Scale: depression affects an estimated 10-15% of community-dwelling older adults and 20-30% of those in residential care. Anxiety disorders affect similar proportions. Both are systematically underdiagnosed and undertreated in older adults compared to younger populations with equivalent symptom burden.
+- The Diagnostic Barrier: depression in older adults frequently presents atypically, with somatic complaints, cognitive symptoms, appetite changes, and loss of interest rather than classic depressed mood. Clinicians with less training in geriatric mental health miss it routinely.
+- The Treatment Nihilism Problem: "what do you expect at your age?" is a clinically documented response to older adult depression that prevents treatment. Depression is treatable at every age. The evidence for psychological therapies and pharmacotherapy in older adults is clear. The clinical barrier is attitudinal and structural.
+- Suicide Risk: older adults, particularly older men, have among the highest suicide rates of any demographic group in most high-income countries. Unlike in younger groups, suicide attempts in older adults are more frequently lethal because of greater intent, more access to means, and less physical resilience.
+- The Cascading Effect: untreated depression in older adults reduces physical activity, impairs nutrition, disrupts sleep, accelerates cognitive decline, increases social withdrawal, and worsens every chronic physical condition the person has. Depression management is not a parallel track to physical health promotion in older adults. It is a precondition for it.
+
+SLIDE 19: Active Ageing: The WHO Policy Framework
+- WHO's Active Ageing framework (2002) extended the health promotion concept of "active" beyond physical activity to encompass participation in social, economic, cultural, spiritual, and civic affairs.
+- Three Pillars of Active Ageing: health (reducing risk factors for disease and disability, maintaining functional capacity); participation (contributing to society through work, volunteering, intergenerational engagement); security (social protection, dignity, and care when needed).
+- The Language Shift: from "older adults as burdens" to "older adults as contributors." This is not merely a rhetorical shift. It changes what health promotion aims for, from keeping people alive to supporting their capacity to contribute and connect.
+- The Connection to Rowe and Kahn: the third component of successful aging (active engagement with life) maps onto the participation pillar. But the Active Ageing framework goes further by treating security and social protection as constitutive of healthy aging, not as separate welfare issues.
+- The Connection to Ageism: if ageism excludes older adults from economic participation and social roles, it directly undermines the participation pillar of Active Ageing. Active Ageing cannot be achieved at the individual level if structural ageism closes the doors.
+
+SLIDE 20: Synthesis: What Health Promotion Owes Older Adults
+- The Dominant Framing Problem: health promotion for older adults is too often framed as managing decline, preventing falls, and monitoring chronic conditions. That is disease management, not health promotion. Health promotion asks what conditions would allow this person to thrive, and builds those conditions.
+- The Three Structural Requirements: for older adults to age well in large numbers, three structural conditions are necessary: physical environments that support mobility and participation (Age-Friendly Cities); social infrastructure that prevents isolation (intentional community, intergenerational programs, community care models); and healthcare systems that treat aging people as whole persons rather than diagnostic categories.
+- The Life Course Integration: Lecture 6 showed that the health of older adults is partly the accumulated consequence of exposures and conditions across the entire prior lifespan. You cannot separate older adult health promotion from early childhood investment, workplace conditions, and the social determinants of midlife health. The age is 75; the story started at conception.
+- The Practitioner's Obligation: health promotion with older adults requires refusing both the Rowe-Kahn trap (defining success by disease-absence) and the therapeutic nihilism trap (assuming decline is inevitable). The path between them is person-centred, equity-conscious, and structurally aware.
+
+SLIDE 21: Glossary
+- Successful Aging (Rowe and Kahn, 1997): a three-component model of positive aging characterized by low probability of disease and disability, high cognitive and physical function, and active engagement with life.
+- Compression of Morbidity (Fries, 1980): the hypothesis that health promotion can compress the period of disease, disability, and declining function into a shorter window near the end of a roughly fixed lifespan.
+- Rectangularization of the Survival Curve: the visual representation of compressed morbidity, in which the survival curve becomes more square-cornered as more people remain at high function until close to a natural lifespan endpoint.
+- Social Isolation: the objective condition of having few social relationships or contacts.
+- Loneliness: the subjective experience of unwanted social isolation or insufficient social connection; associated with elevated mortality risk independent of objective social isolation (Holt-Lunstad et al., 2015).
+- Ageism: stereotypes, prejudice, and discrimination directed at people on the basis of age; a structural determinant of older adult health operating at individual, institutional, and policy levels.
+- Multimorbidity: the simultaneous presence of two or more chronic conditions in the same individual; the epidemiological norm in adults over 65.
+- Active Ageing (WHO, 2002): a framework for health promotion in older adults built around the three pillars of health, participation, and security.
+- Age-Friendly Cities (WHO, 2007): an international framework and city network committed to optimizing opportunities for health, participation, and security across eight environmental domains.
+
+SLIDE 22: Implications for Practice
+- When Assessing an Older Adult: do not begin with the disease list. Begin with function, social connection, meaning, and what matters to the person. The disease list is an input into that assessment, not its organizing principle.
+- When Designing a Program: use the eight domains of the Age-Friendly Cities framework as a checklist. Which domains does this program address? Which ones does it ignore? What happens if outdoor accessibility is poor and transportation is absent: who cannot reach the program you designed?
+- When Advocating for Resources: the loneliness mortality data are your strongest argument for social infrastructure investment as health promotion. A community center that keeps 200 older adults socially connected is a health promotion intervention with an effect size comparable to a smoking cessation program.
+- When Encountering Therapeutic Nihilism: "what do you expect at your age?" is a clinical error with a mortality cost. Depression is treatable at 80. Falls are preventable at 85. Isolation is addressable at 90. The evidence supports this. Use it.
+
+SLIDE 23: Carrying This Forward
+- This lecture has argued that aging well is neither a lottery nor an individual achievement. It is a social product, shaped by the physical environment, social infrastructure, institutional practices, and policy frameworks that either support or undermine older adults' capacity to remain connected, functional, and purposeful.
+- Next week, Lecture 10, we move from one end of the life course to the other, from health promotion for older adults to health promotion in schools. Different population, same structural logic: the settings approach says the environment is the intervention, not the venue.
+- Preview question: if a school building, its policies, its social climate, and its staffing, can be the single most important health environment in a child's daily life, what does health promotion in schools actually require, and how far does it extend beyond a health class?
+
+SLIDE 24: What to Take Into the World
+- The next time someone attributes an older adult's health status to "just getting old," ask: what social, behavioral, and structural factors produced this trajectory, and how many of them were changeable?
+- The next time a health promotion program for older adults is designed around a single chronic condition, ask: does this person have only one condition, or are we designing for a patient who does not actually exist at scale?
+- The next time institutional practice restricts an older adult's mobility or independence "for safety," ask: what does the evidence say about restriction as a protective intervention, and whose convenience is this actually serving?
+- The next time a budget discussion treats social programming for older adults as a frill, produce the Holt-Lunstad numbers. Loneliness is a mortality risk comparable to smoking. Treat it accordingly.
+
+SLIDE 25: [READING] Further Reading, Part 1
+TITLE: Further Reading, Part 1
+- Rowe, J.W., and Kahn, R.L. (1997): Successful Aging. The Gerontologist, 37(4), 433-440. The primary source for the Successful Aging model and the foundational statement of positive gerontology.
+- Katz, S., and Calasanti, T. (2015): Critical perspectives on successful aging: does it appeal more than it illuminates? The Gerontologist, 55(1), 26-33. The primary critical appraisal of Rowe and Kahn; essential counterpoint reading.
+- Fries, J.F. (1980): Aging, natural death, and the compression of morbidity. New England Journal of Medicine, 303(3), 130-135. The foundational statement of the compression of morbidity hypothesis. Concise, highly readable, and historically essential.
+- Holt-Lunstad, J., Smith, T.B., Baker, M., Harris, T., and Stephenson, D. (2015): Loneliness and social isolation as risk factors for mortality: a meta-analytic review. Perspectives on Psychological Science, 10(2), 227-237. The definitive quantitative evidence for loneliness as a mortality risk factor of primary clinical and public health importance.
+
+SLIDE 26: [READING] Further Reading, Part 2
+TITLE: Further Reading, Part 2
+- Levy, B.R., Slade, M.D., Kunkel, S.R., and Kasl, S.V. (2002): Longevity increased by positive self-perceptions of aging. Journal of Personality and Social Psychology, 83(2), 261-270. Documents a 7.5-year longevity advantage associated with positive self-perceptions of aging: the primary empirical basis for ageism as a mortality determinant at the individual-belief level.
+- Gillick, M.R. (2001): Pinning down frailty. Journals of Gerontology Series A: Biological Sciences and Medical Sciences, 56(3), M134-M135. An accessible primer on the concept of frailty as a biological syndrome distinct from normal aging and from disease, important for understanding what lies between "successful" and "failed" aging.
+- Beard, J.R., Officer, A., de Carvalho, I.A., et al. (2016): The World Report on Ageing and Health: a policy framework for healthy ageing. The Lancet, 387(10033), 2145-2154. The primary Lancet policy statement from the WHO Decade of Healthy Ageing framework: essential for connecting the Successful Aging literature to current global health policy.
+- Gardiner, C., Geldenhuys, G., and Gott, M. (2018): Interventions to reduce social isolation and loneliness among older people: an integrative review. Health and Social Care in the Community, 26(2), 147-157. A post-2015 systematic review of social isolation interventions in older adults: evidence on what actually works, at what scale, and for whom.
+
+SLIDE 27: [CLASSWORK] The Age-Friendly Audit
+TITLE: The Age-Friendly Audit
+Scenario: You are a health promotion practitioner advising a mid-sized Canadian city (population 85,000) that has recently joined the WHO Age-Friendly Cities network. The city has committed to conducting a baseline assessment of its age-friendliness and designing one priority intervention per domain. The local older adult population (65+) is 19% of total population, rising to a projected 27% in ten years. Preliminary community consultation has identified four priority concerns: inadequate public transit for non-drivers, social isolation among widowed older women in suburban areas, deteriorating sidewalks and parks, and long wait times for mental health services.
+Your Task:
+- Part 1, Domain Mapping: for each of the four community-identified concerns, identify which Age-Friendly Cities domain it falls under and whether it reflects an additional domain concern not yet raised.
+- Part 2, Priority Intervention: choose one of the four concerns and design a concrete health promotion intervention. Be specific: who does it reach, what does it change, at which SEM level does it operate (recall Lecture 3), and how will you evaluate whether it has reduced social isolation or improved function?
+- Part 3, The Equity Question: which segment of the older adult population is least likely to be reached by your chosen intervention, and what structural modification would extend its reach to them?
+- Part 4, The Evidence Argument: you must present your intervention to city council with a budget request. Using Holt-Lunstad et al. (2015) and the Age-Friendly Cities framework, make the economic and health case for why this intervention is a health promotion priority and not a social welfare expense.
+
+SLIDE 28: [TEASER] Next Week: Health Promotion in Schools
+TITLE: Next Week: Health Promotion in Schools
+- From one end of the life course to the other: from health promotion for older adults, we move to the setting that shapes children's health earliest and most durably over the school years.
+- Lecture 10 introduces the evidence for social and emotional learning programs, the Whole School approach to health promotion, and the tension between academic performance pressure and the conditions that actually support learning and health.
+- We will also close the loop on the Settings Approach from Lecture 1: the school itself as the intervention, not merely a venue for health lessons.
+- Preview question: if enhancing students' social and emotional learning produces an 11-percentile-point academic achievement gain across hundreds of programs and hundreds of thousands of students, why do schools under budget pressure cut the programs that produce that gain first?
+
+SLIDE 29: [CLOSING] Age Is Not the Variable We Think It Is
+TITLE: Age Is Not the Variable We Think It Is
+- "When we call something 'age-related decline,' we are often really describing decades of accumulated disadvantage meeting an environment that was not designed for the person it contains."
+- Attribution: (course epigraph)
+- Questions, office hours, and contact: [instructor details here]
+- Before next class: read Rowe and Kahn (1997) and Katz and Calasanti (2015) back to back. Come prepared to defend a position on what "aging well" should mean, using both papers and at least one structural determinant from today's lecture to support your argument.

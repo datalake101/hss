@@ -1,0 +1,244 @@
+SLIDE 1: [COVER] School-Based Health Promotion
+TITLE: School-Based Health Promotion
+- Course: Health Promotion and Disease Prevention
+- Lecture 10
+- "Schools do not just teach children about health. They produce it, or they undermine it, every single day."
+- Attribution: (course epigraph)
+
+SLIDE 2: [AGENDA] What We Cover Today
+TITLE: What We Cover Today
+- Part 1: Why schools are a priority health promotion setting
+- Part 2: Social and Emotional Learning, the evidence and the mechanism
+- Part 3: The Whole School approach, from health class to health environment
+- Part 4: WHO Health Promoting Schools and CDC WSCC frameworks
+- Part 5: The tension between academic pressure and health-supporting conditions
+- Closing the loop: the Settings Approach revisited across all the settings this course has covered
+- The thread: schools are not venues for health promotion programs. When done well, the school itself is the intervention
+
+SLIDE 3: [QUOTE] The School as a Health Environment
+TITLE: The School as a Health Environment
+Quote: "Schools are the most universal institution for reaching children and young people in their formative years, and the most underutilized setting in public health."
+Attribution: (course epigraph, drawing on WHO Health Promoting Schools framework, 1995)
+
+SLIDE 4: Why Schools Are a Health Promotion Priority Setting
+- Scale and Reach: children and adolescents spend approximately 180-200 days per year in school, roughly 30 hours per week, during the most developmentally sensitive period of their lives. No other non-family institution has comparable reach into this population.
+- The Settings Approach (Lecture 1 Callback): health promotion through the settings approach does not deliver health information into a neutral location. It acts on the conditions within a setting, the physical environment, the psychosocial climate, the organizational policies, the relationships, to make health the default rather than the exception.
+- The Socioeconomic Equalizer: for children from disadvantaged families, school may be the only setting in their day that provides reliable nutrition, physical safety, structured adult relationships, and access to health services. The school's health environment determines a significant portion of the health equity experienced in childhood.
+- The Developmental Argument: the brain undergoes its most significant structural development during the school years. The conditions of schooling, the stress levels, the social climate, the opportunities for physical activity, the quality of relationships, directly shape neural development, emotional regulation capacity, and the cognitive architecture that determines health behavior for decades after school ends.
+- Exam Focus: be able to argue for schools as a health promotion priority setting using scale, the settings approach, the equity argument, and the developmental window.
+
+SLIDE 5: Social and Emotional Learning: What It Is
+- Definition: Social and Emotional Learning (SEL) is the process through which children and adults acquire and effectively apply the knowledge, attitudes, and skills necessary to understand and manage emotions, set and achieve positive goals, feel and show empathy for others, establish and maintain positive relationships, and make responsible decisions.
+- The CASEL Framework: the Collaborative for Academic, Social, and Emotional Learning (CASEL) is the primary North American research and practice body for SEL. CASEL identifies five core competency domains: self-awareness, self-management, social awareness, relationship skills, and responsible decision-making.
+- Why It Matters for Health: each SEL competency domain maps directly onto health promotion targets. Self-management includes emotional regulation and impulse control, primary protective factors for substance use, sexual risk behavior, and mental health. Social awareness and relationship skills are the interpersonal foundations of social connection, itself a primary mortality protective factor (recall Lecture 9). Responsible decision-making is the intrapersonal capacity the Health Belief Model assumes adults already possess.
+- SEL Is Not a Separate Program: in high-quality implementations, SEL is integrated into daily classroom instruction, school culture, and the relationships between teachers and students, not delivered as a standalone weekly lesson.
+- Exam Focus: know the CASEL five competency domains, and be able to connect each one to at least one specific health outcome.
+
+SLIDE 6: The Meta-Analytic Evidence for SEL
+- Durlak, Weissberg, Dymnicki, Taylor, and Schellinger (2011), Child Development: the definitive meta-analysis of school-based SEL programs. 213 programs studied, involving 270,034 students from kindergarten through high school.
+- Academic Achievement: students in SEL programs showed an average 11-percentile-point gain in academic achievement compared to control students. This is not a small effect. An 11-percentile-point gain in academic performance, produced by programming that was primarily designed to improve social and emotional competence, represents one of the most significant education policy findings in decades.
+- Social-Emotional Skills: SEL participants showed significantly improved social and emotional skills, the primary target of the programs.
+- Problem Behaviors: 24% reduction in conduct problems and aggression.
+- Emotional Distress: 20% reduction in emotional distress and internalizing problems.
+- Positive Attitudes: significantly more positive attitudes toward school, self, and others.
+- The Critical Flaw: the 213 programs varied enormously in quality, fidelity, and context. Implementation quality is a major moderator. SEL delivered poorly, inconsistently, or without staff commitment does not produce these effects. The average is pulled upward by high-quality programs and downward by poor ones.
+- Exam Focus: know Durlak et al. (2011), the 213 programs, the 270,034 students, the 11-percentile-point academic gain, and the reductions in problem behaviors and emotional distress.
+
+SLIDE 7: Why the Academic Gain Is the Most Politically Important Finding
+- The Apparent Paradox: a program explicitly designed to improve social and emotional competence produces the largest academic performance gains. This challenges the assumption that academic time and social-emotional development time are in competition.
+- The Mechanism: SEL improves academic performance because learning is an emotionally regulated, socially mediated activity. Students who cannot regulate their emotions cannot sustain attention in a lesson. Students who do not feel safe in their social environment cannot engage with academic challenge. Students who lack self-management skills cannot complete tasks or persist through difficulty. SEL addresses the foundations of academic engagement.
+- The Policy Argument: when school boards facing budget pressures cut SEL, arts, recess, and physical education to create more instructional time, they are, on the evidence, cutting the conditions that make instructional time effective. This is not a trade-off between health and academics. It is the removal of conditions that make academics work.
+- The Equity Implication: the 11-percentile-point gain is an average. High-quality SEL in high-need schools, where social-emotional deficits are greatest, shows the largest absolute gains. Defunding SEL in schools with the most disadvantaged student populations produces the largest losses in exactly the schools that can least afford them.
+- Exam Focus: be able to explain the mechanism linking SEL to academic performance, and use it to counter the argument that health promotion in schools competes with academic outcomes.
+
+SLIDE 8: The Whole School Approach
+- The Core Principle: health-promoting schools are not schools with health programs. They are schools in which every aspect of the school environment, its physical conditions, its psychosocial climate, its organizational policies, its relationships with families and community, and its curriculum, is designed to support health.
+- The Settings Approach Applied: recall Lecture 1. The settings approach does not treat the school as a venue into which health promotion is delivered. It treats the school as a system that either produces or undermines health through its everyday operation, independent of any specific program.
+- The Difference in Practice: a school with a drug education class in one room but a bullying culture in the hallways, inadequate heating, no recess, and a cafeteria serving processed food has not implemented the Whole School approach. A school with a positive behavioral support system, nutritious food, adequate physical activity, staff wellness policies, family engagement, and community partnerships, and also a drug education class, is beginning to.
+- What Changes in a Whole School Model: physical environment (air quality, noise, food, green space, safety); psychosocial environment (anti-bullying, positive school climate, teacher-student relationships, staff well-being); curriculum and instruction (health literacy, physical education, SEL integration); community connections (family engagement, community health partnerships); health services (on-site or linked primary care, counseling, dental, vision).
+- Exam Focus: be able to explain the distinction between a school with health programs and a health-promoting school, and connect this to the settings approach from Lecture 1.
+
+SLIDE 9: [PUZZLE] Food for Thought
+TITLE: Food for Thought
+Before we continue:
+- If SEL programs produce an 11-percentile-point academic achievement gain across hundreds of programs, why do schools so consistently cut social-emotional, arts, and physical activity programming first when budgets tighten? What theory of human motivation or organizational behavior explains that pattern?
+- A school can be the healthiest environment a child has access to all day, a place with good food, physical safety, trusted adults, emotional support, and rich learning. Or it can be the most stressful. What factors determine which one it becomes, and how many of those factors are within the school's control?
+- The Whole School approach says the physical environment of the school is a health determinant. Children in schools with poor lighting, inadequate heating, overcrowded classrooms, and no green space have different learning and health outcomes than those in well-resourced environments. Should that be a school funding equity issue or a public health issue? Does the distinction matter?
+
+SLIDE 10: WHO Health Promoting Schools Framework
+- Origin: the WHO Health Promoting Schools initiative emerged from the Ottawa Charter's settings approach and was formalized through the WHO-UNESCO-UNICEF Joint Committee statement in 1995, with subsequent development through the Global School Health Initiative.
+- Six Core Components of a Health Promoting School (WHO):
+- School Health Policies: written, enforced policies that protect health and safety, covering tobacco, alcohol, food, bullying, inclusion, and staff conduct.
+- The Physical School Environment: the buildings, grounds, facilities, equipment, and outdoor spaces that either support or undermine the health and learning of students and staff.
+- The School Social Environment: the quality of relationships among students, staff, and community, the sense of belonging, inclusion, and safety that makes learning and development possible.
+- Community Links: meaningful connections between the school and families, local health services, community organizations, and local government.
+- Personal Health Skills: curriculum that builds health literacy, critical thinking about health information, and the self-management skills that SEL addresses.
+- Health Services: access to or connection with health services that students need, including mental health support, primary care, and specialized services.
+- The Key Insight: all six components are necessary. A school that excels in curriculum content (component 5) but has a toxic social environment (component 3) is not a health-promoting school. The components are mutually reinforcing, and failure in one undermines progress in the others.
+- Exam Focus: know the six components of the WHO Health Promoting Schools framework and be able to explain how each contributes to the school as a health-producing environment.
+
+SLIDE 11: CDC Whole School, Whole Community, Whole Child Model
+- WSCC: the CDC's Whole School, Whole Community, Whole Child model (launched 2014) was developed in collaboration with ASCD (formerly the Association for Supervision and Curriculum Development) as a model for coordinated school health that bridges education and public health.
+- Ten Components: health education; physical education and physical activity; nutrition environment and services; health services; counseling, psychological, and social services; social and emotional climate; physical environment; employee wellness; family engagement; community involvement.
+- The Expanded Frame: WSCC explicitly centers the child at the intersection of school, community, and family, rather than treating school health as an isolated institutional program. It recognizes that children do not arrive at school as blank slates; they bring the health conditions, stress burdens, and resource levels of their homes and communities.
+- The Predecessor: WSCC evolved from the Coordinated School Health model (Allensworth and Kolbe, 1987), which organized school health across eight components. WSCC added an ecological, community-centered frame and more explicitly integrated education and health outcomes.
+- The Difference from WHO HPS: the WHO model is more global and principle-based; WSCC is more US-contextualized and implementation-specific. They share a common theoretical foundation (settings approach, ecological model) and are complementary rather than competing.
+- Exam Focus: know the ten components of WSCC, be able to distinguish it from the WHO Health Promoting Schools model, and know the Coordinated School Health model as WSCC's predecessor.
+
+SLIDE 12: The Physical Environment as Health Determinant
+- Green Space and Outdoor Time: exposure to natural environments and unstructured outdoor play is associated with reduced cortisol, improved attention, better mood regulation, and reduced ADHD symptom severity. Schools that eliminate recess to create instructional time are removing a biologically active intervention, not a recreational frill.
+- Indoor Air Quality: research consistently shows that poor indoor air quality (elevated CO2, mold, particulates, inadequate ventilation) impairs cognitive performance, increases absenteeism due to respiratory illness, and disproportionately affects students in older, lower-resourced school buildings in lower-income communities.
+- Nutrition Environment: the food environment in schools, what is available in the cafeteria, what vending machines contain, what is served in breakfast programs, independently predicts student nutritional status, cognitive performance, and chronic disease risk, over and above what is taught in health class.
+- Physical Activity Infrastructure: access to gymnasiums, sports fields, and safe pedestrian routes to school predicts physical activity levels in children and adolescents. Physical activity is independently associated with academic performance, emotional regulation, reduced depression and anxiety symptoms, and cardiometabolic health.
+- The Equity Dimension: school infrastructure quality is unequally distributed by socioeconomic status in virtually every country with market-organized school funding. The children who need the richest health-producing environment most consistently attend schools with the poorest physical environments.
+
+SLIDE 13: Psychosocial School Climate and Student Health
+- School climate refers to the quality and character of school life, including the shared norms, beliefs, values, and social relationships that shape what it feels like to be a student or staff member in a given school.
+- The Evidence: positive school climate, characterized by safety, connection, respect, and academic challenge, is independently associated with reduced rates of depression, anxiety, substance use, and suicidal ideation in adolescents, as well as higher academic engagement and achievement.
+- Bullying as a Health Determinant: chronic bullying victimization is associated with elevated rates of depression, anxiety, school avoidance, suicidal ideation, and later adult mental health problems. It is a child-specific form of the psychosocial work environment hazard that Karasek's model captured in adults: high demand, low control, low safety, with severe health consequences.
+- Teacher-Student Relationships: the quality of the teacher-student relationship is one of the most consistent predictors of student engagement, attendance, and mental health. It is not a social nicety. It is a structural health resource. Schools and administrators that undermine teacher-student relationships through rigid scripting, surveillance, and punitive accountability systems are degrading a primary health protective factor.
+- Staff Well-Being: teacher burnout and staff mental health directly affect the psychosocial environment experienced by students. A school in which staff are chronically stressed, exhausted, and under-supported cannot sustain the positive relational climate that student health requires. Staff wellness is not a separate program. It is a precondition for student health promotion.
+
+SLIDE 14: [CHART] The Health-Promoting School
+TITLE: The Health-Promoting School
+Chart type: wheel diagram with the student at the center
+Center: Student (Learning, Health, Well-being)
+
+Inner ring: immediate school-level determinants (six segments)
+- Segment 1: Curriculum and Instruction (SEL, health literacy, physical education, critical thinking)
+- Segment 2: Physical Environment (air quality, nutrition, green space, safety, infrastructure)
+- Segment 3: Psychosocial Environment and School Climate (belonging, safety, staff-student relationships, anti-bullying)
+- Segment 4: Health Services (mental health, primary care access, counseling)
+- Segment 5: Staff Well-being (teacher support, working conditions, professional development)
+- Segment 6: School Policies (tobacco-free, inclusive, food, behavioral support)
+
+Outer ring: community and system-level determinants (four segments)
+- Segment A: Family and Community Engagement
+- Segment B: Local Health Services and Community Organizations
+- Segment C: Education and Health Policy (funding, accountability, curriculum requirements)
+- Segment D: Social Determinants (income, housing, neighborhood safety, food access)
+
+Arrows running from outer ring to inner ring: "community shapes school conditions"
+Arrows running from inner ring outward: "school health affects community"
+Source: Adapted from WHO Health Promoting Schools and CDC WSCC frameworks. Illustrative.
+
+SLIDE 15: [ABSTRACT] Durlak et al. (2011): The SEL Meta-Analysis
+TITLE: Durlak et al. (2011): The SEL Meta-Analysis
+Citation: Durlak, J.A., Weissberg, R.P., Dymnicki, A.B., Taylor, R.D., and Schellinger, K.B. (2011). The impact of enhancing students' social and emotional learning: a meta-analysis of school-based universal interventions. Child Development, 82(1), 405-432.
+Finding: Across 213 school-based universal SEL programs involving over 270,000 students from kindergarten through grade 12, Durlak and colleagues found that SEL interventions produced significant improvements in social-emotional skills, attitudes toward self and others, positive social behaviors, and academic performance, as well as significant reductions in conduct problems and emotional distress. The 11-percentile-point improvement in academic achievement compared to control groups was the finding that attracted the most policy attention. The authors identified implementation quality, particularly adherence to evidence-based practices (SAFE: sequenced, active, focused, explicit), as the primary moderator of program effectiveness.
+Relevance: This is the most influential study in the school-based health promotion literature of the past two decades. Its academic achievement finding repositioned SEL from a welfare program to an educational performance strategy, providing the most politically viable argument for health promotion investment in schools.
+[Insert screenshot of the abstract here]
+
+SLIDE 16: Critical Flaw: Implementation Quality and Educational Politics
+- The Implementation Gap: the Durlak et al. meta-analysis found that programs delivered by outside trainers rather than regular teachers, programs that were not sequenced, active, focused, and explicit (the SAFE criteria), and programs delivered in schools with low leadership commitment all showed substantially weaker effects. The average 11-percentile-point gain conceals enormous variation.
+- The "Program-as-Add-On" Failure Mode: the most common implementation failure is treating SEL as a separate program delivered in a discrete weekly lesson, disconnected from the school's relational climate, teaching practices, and organizational culture. This produces the appearance of SEL without its mechanism.
+- Test-Score Accountability Pressure: in educational systems driven by standardized test performance metrics, principals face structural incentives to maximize instructional time in tested subject areas. SEL, physical education, arts, and recess are all vulnerable to de-prioritization even when administrators intellectually accept the evidence for their value.
+- Universal vs. Targeted SEL: universal programs deliver the same SEL content to all students regardless of need. Targeted programs focus on students with identified social-emotional deficits. The meta-analysis covers universal programs, but the equity argument for also providing intensive targeted support to students with the highest need is strong.
+- Critical Flaw: the gap between what the evidence says SEL can do and what it consistently does in real schools, under real budget and accountability conditions, is large. The evidence supports SEL; the implementation environment frequently does not.
+
+SLIDE 17: The Tension: Academic Performance vs. Health-Producing Conditions
+- The False Trade-Off: school health promotion is frequently positioned as being in competition with academic performance. The Durlak et al. finding that SEL produces an 11-percentile-point academic gain is the direct empirical refutation of this framing. The competition is false.
+- The Real Trade-Off: the genuine tension is between the short-term measurable outputs that accountability systems reward (test scores in the next academic year) and the mechanisms that produce those outputs (social-emotional competence, physical well-being, safe and inclusive climate). Accountability systems measure the output and defund the inputs.
+- Recess as a Case Study: the research on recess and physical activity breaks consistently shows that children who have regular outdoor breaks have better attention, better emotional regulation, and better academic performance in the instructional time that follows. Schools that eliminate recess to create more instructional time consistently produce worse performance on the tests they are trying to optimize.
+- The Primordial Prevention Logic (Lecture 1 Callback): cutting SEL, recess, and physical education from schools is the equivalent of removing a primordial prevention investment to fund a remediation program for the conditions that primordial prevention would have prevented. It is expensive in the medium run even when it appears to save money in the short run.
+- Exam Focus: be able to construct an argument, using the Durlak et al. evidence and the primordial prevention concept from Lecture 1, against the cutting of health-promoting programs under academic performance pressure.
+
+SLIDE 18: [PUZZLE] Puzzling Questions
+TITLE: Puzzling Questions
+Harder questions, no comfortable answers:
+- If schools are a health-producing "setting," should school health outcomes be a formal component of how we judge whether a school is succeeding, with the same weight as test scores? What resistance would that change encounter, and from whom?
+- Universal SEL programs deliver the same intervention to every classroom. But classrooms are not equal. A school in an affluent neighborhood with a stable, experienced teacher has a very different implementation environment than a school in an under-resourced neighborhood with high teacher turnover and large class sizes. Whose classroom is least likely to get the resources to implement SEL well? What does that mean for the equity impact of a universal approach?
+- The WHO Health Promoting Schools framework says school policies are a core component of a health-promoting school. But school policies are set by school boards that respond to political pressures, parent groups, and funding authorities, not to public health evidence. How do health promotion practitioners get health evidence into policy processes that are not primarily evidence-driven?
+- A school's psychosocial climate is partly determined by the well-being of its teachers. Teacher burnout, high turnover, and poor working conditions directly affect the relational environment that students experience. If teacher working conditions are a student health determinant, should teacher working conditions be a health promotion priority? Who would need to be convinced, and what would the argument be?
+
+SLIDE 19: Family Engagement and Community Connections
+- The Ecological Reality: children do not live in schools. They live in families and communities, arrive at school with the health conditions those environments produce, and return to those environments at 3 pm. Health promotion that ignores the family and community context is working on the child while ignoring the system that shapes the child.
+- Family Engagement in Health-Promoting Schools: not parent volunteers in the library, but genuine partnership in school health planning, nutritional policy, mental health programming, and the physical environment. Families who understand and trust the school's health promotion approach are more likely to reinforce it at home.
+- Community Links in the WHO Framework: partnerships with local health services bring on-site primary care, mental health counseling, dental screening, and vision services to schools, removing the access barriers that prevent many children from receiving basic health care. In jurisdictions where universal pediatric care is not accessible, school-based health services are a primary equity tool.
+- The Social Capital Argument: schools that are genuine community hubs, open in the evenings for adult education, community meetings, and after-school programs, build the social capital and community connections that independently improve child health outcomes. The school-as-community-hub model maximizes the health return on the school building investment.
+- The Equity Dimension: family and community engagement is most difficult to achieve in the communities where it would be most valuable. Schools in disadvantaged communities serve families under the highest stress, with the least time and the lowest trust in institutions. Designing engagement strategies that account for those realities, rather than applying middle-class engagement models to all families, is an equity competency.
+
+SLIDE 20: Closing the Loop: Settings Across the Course
+- Lecture 1 introduced the Settings Approach: the principle that health promotion is most effective when it acts on the conditions of everyday life in the places people live, work, and grow, rather than delivering information to isolated individuals.
+- The Settings This Course Has Covered:
+- The Workplace (Lecture 7): Karasek showed that job structure, specifically decision latitude, is a primary cardiovascular health determinant. The workplace is not a neutral venue. Its design produces or prevents disease.
+- The Home and Life Course (Lecture 6): the most powerful health-producing or health-destroying environment in early life is the domestic and community environment of childhood. Early investment there produces the largest lifetime health returns.
+- The Community (threaded across lectures): the built environment, social infrastructure, and community norms determine whether healthy choices are structurally available or structurally impossible.
+- The School (this lecture): the school, its physical conditions, its relational climate, its organizational policies, and its community connections, is the most powerful non-family health environment for children and adolescents.
+- The Through Line: in every setting, the evidence converges on the same conclusion. Structural conditions shape health more powerfully than individual information and more durably than individual behavior change programs. The settings approach is not a preference. It is what the evidence supports.
+
+SLIDE 21: What School Health Promotion Asks of Systems
+- Of Schools: commit to the Whole School model, not the health-program-as-add-on model. Build health into every aspect of the school's operation, not just the curriculum.
+- Of School Boards and Administrators: protect SEL, physical education, recess, and the arts from budget cuts by making their connection to academic performance, mental health, and long-term outcomes explicit in every budget conversation.
+- Of Health Practitioners: stop designing school health programs in isolation from the school's organizational context. Before delivering a program, assess the school climate, the staff well-being, the family engagement, and the community connections. Program effectiveness depends on the environment in which it is delivered.
+- Of Policymakers: fund schools equitably, so that children in disadvantaged communities have access to the physical environments, staffing ratios, and health services that produce the conditions for learning and health. Health equity in childhood begins with school funding equity.
+- Of Researchers: study implementation, not only efficacy. The question is not only "can this work?" but "under what conditions does it work, and how do we create those conditions in real schools?"
+
+SLIDE 22: Synthesis: The Course in One Lecture
+- This course has traced health promotion across the life course, from fetal origins to older adulthood, and across settings, from workplaces to schools.
+- The Consistent Finding: health is produced primarily by the conditions in which people live, work, grow, and age, not by the information they possess or the individual choices they make in isolation from those conditions.
+- The Consistent Failure: health promotion that focuses exclusively on the individual, on knowledge, attitude, and behavior change, without changing the structural conditions that produce those attitudes and behaviors, consistently underperforms. The Health Belief Model alone is insufficient. Single-level programs underperform multi-level ones. Wellness perks without job redesign produce no clinical change.
+- The Structural Argument: the most effective health promotion interventions are upstream: they change the conditions of early life, the structure of work, the design of communities, and the culture of schools, so that health becomes the path of least resistance rather than a demanding individual achievement.
+- Your Professional Identity: a health promotion practitioner who understands this is not primarily a health educator. They are a systems analyst, an advocate, a program planner, an evaluator, and a translator of structural evidence into policy language. That is the job.
+- Exam Focus: be able to construct an argument for structural health promotion investment in any of the settings covered in this course, using the theoretical frameworks and empirical evidence from across the full curriculum.
+
+SLIDE 23: Glossary
+- Social and Emotional Learning (SEL): the process through which people develop the skills to manage emotions, build relationships, make responsible decisions, and engage purposefully with others (CASEL framework).
+- CASEL: the Collaborative for Academic, Social, and Emotional Learning; the primary research and practice body for SEL in North American schools. Defines five competency domains: self-awareness, self-management, social awareness, relationship skills, responsible decision-making.
+- Health Promoting School (WHO, 1995): a school that constantly strengthens its capacity as a healthy setting for living, learning, and working, across six components: health policies, physical environment, social environment, community links, personal health skills, and health services.
+- Whole School Approach: the framework treating the entire school system (curriculum, environment, policies, relationships, and community connections) as the intervention, rather than individual programs delivered within a school.
+- WSCC: Whole School, Whole Community, Whole Child model (CDC, 2014): a ten-component coordinated school health model that bridges the education and public health sectors.
+- Coordinated School Health: the predecessor model to WSCC (Allensworth and Kolbe, 1987), organizing school health across eight coordinated components.
+- School Climate: the quality and character of school life, including shared norms, values, social relationships, and sense of safety and belonging.
+- SAFE Criteria (Durlak et al., 2011): the implementation quality criteria for effective SEL programs: Sequenced, Active, Focused, and Explicit.
+
+SLIDE 24: What to Carry into Your Career
+- Every time you design a school health program: ask first whether the school's climate, physical environment, and family engagement structures support or undermine the outcomes you are trying to produce. The program may be irrelevant if the setting is working against it.
+- Every time you encounter the argument that health promotion competes with academic performance: cite Durlak et al. (2011). The 11-percentile-point gain is one of the most politically useful numbers in the school health literature.
+- Every time a school district cuts recess, arts, or physical education: recognize it as a health promotion decision with measurable health and academic consequences, and say so with evidence.
+- Every time someone frames health promotion as a project of changing individual minds and bodies: bring them back to the settings. The most powerful health promotion in this course, across every lecture, has been about changing conditions, not changing people.
+- That is the argument this course was built to equip you to make.
+
+SLIDE 25: [READING] Further Reading, Part 1
+TITLE: Further Reading, Part 1
+- Durlak, J.A., Weissberg, R.P., Dymnicki, A.B., Taylor, R.D., and Schellinger, K.B. (2011): The impact of enhancing students' social and emotional learning: a meta-analysis of school-based universal interventions. Child Development, 82(1), 405-432. The primary source for the SEL evidence base and the most cited paper in school-based health promotion.
+- St Leger, L. (1999): The opportunities and effectiveness of the health promoting primary school in improving child health: a review of the claims and evidence. Health Education Research, 14(1), 51-69. A foundational review of the Whole School and Health Promoting Schools evidence base that remains a critical appraisal of both the claims and the implementation realities.
+- Stewart-Brown, S. (2006): What is the evidence on school health promotion in improving health or preventing disease and, specifically, what is the effectiveness of the health promoting schools approach? WHO Regional Office for Europe Health Evidence Network Report. Copenhagen: WHO. A comprehensive WHO-commissioned review of the health promoting schools evidence base.
+- Weare, K., and Nind, M. (2011): Mental health promotion and problem prevention in schools: what does the evidence say? Health Promotion International, 26(Suppl 1), i29-i69. A systematic review specifically of mental health outcomes in school-based health promotion, with particular attention to whole-school approaches.
+
+SLIDE 26: [READING] Further Reading, Part 2
+TITLE: Further Reading, Part 2
+- Allensworth, D.D., and Kolbe, L.J. (1987): The comprehensive school health program: exploring an expanded concept. Journal of School Health, 57(10), 409-412. The foundational paper establishing the Coordinated School Health model, the intellectual predecessor to the CDC WSCC model.
+- Langford, R., Bonell, C.P., Jones, H.E., et al. (2014): The WHO Health Promoting School framework for improving the health and well-being of students and their academic outcomes. Cochrane Database of Systematic Reviews, 4, CD008958. The Cochrane systematic review of the WHO Health Promoting Schools model: the most rigorous synthesis of the evidence for whole-school approaches.
+- Jones, S.M., and Kahn, J. (2017): The evidence base for how we learn: supporting students' social, emotional, and academic development. Aspen Institute National Commission on Social, Emotional, and Academic Development. An accessible policy report synthesizing the neuroscience, developmental science, and educational research supporting SEL integration.
+- Skinner, K., Hanning, R.M., Desjardins, E., and Tsuji, L.J.S. (2013): Giving voice to youth to influence the development of a school nutrition program in a remote, northern First Nations community. Health Promotion International, 28(2), 299-308. A post-2010 example of culturally grounded school health promotion in a Canadian Indigenous community context, important for understanding the limits of generic whole-school models in diverse settings.
+
+SLIDE 27: [CLASSWORK] Designing a Whole-School Intervention
+TITLE: Designing a Whole-School Intervention
+Scenario: You are a public health practitioner hired by a regional school board to develop a health promotion plan for Kennedy Secondary School, a Grade 7-12 school with 620 students. The school has the following profile:
+- 42% of students qualify for free or reduced-price lunch
+- Reported vaping rates are 31% among Grade 10-12 students
+- School climate survey indicates that 38% of students do not feel safe at school; 29% report witnessing bullying at least weekly
+- Physical education is offered twice weekly; there is no outdoor green space and recess was eliminated in Grade 7 and above three years ago to address test-score performance gaps
+- A recent student mental health survey found that 22% of students screened positive for moderate-to-severe depression
+- The school has one part-time counselor for 620 students
+- Parent engagement events average 15% attendance
+Your Task:
+- Part 1, Whole-School Assessment: identify which components of the WHO Health Promoting Schools framework or CDC WSCC model are most critically absent or underdeveloped in this school profile. Prioritize: which two gaps pose the greatest immediate health risk?
+- Part 2, Multi-Domain Intervention Design: design one intervention that addresses at least three different components simultaneously (for example, an intervention that simultaneously changes the physical environment, the psychosocial climate, and involves family and community engagement). Be specific about what changes, who does it, and what the timeline is.
+- Part 3, The Academic Performance Argument: the principal is primarily motivated by test scores. Using Durlak et al. (2011) and at least one other piece of evidence from this lecture, make the case for your intervention on academic performance grounds.
+- Part 4, Equity Check: which student subgroup within this school is least likely to benefit from your proposed intervention as designed? What adaptation would extend the intervention's reach to that group?
+
+SLIDE 28: [TEASER] Wrapping the Course
+TITLE: Wrapping the Course
+- This is the final lecture in the series. Take stock of the settings and frameworks this course has covered, from the Hospital to the Workplace, from the Life Course to the School.
+- Across every setting, the same argument has emerged: structural conditions shape health more powerfully, more equitably, and more durably than individual-level interventions alone. The upstream matters. The environment matters. The design of institutions and communities matters.
+- As you move into the field: use the frameworks in this course as diagnostic tools. When something is not working for a community's health, ask: what structural condition is producing this outcome? What is the leverage point? Who controls that lever, and how do health promotion practitioners build the relationships and evidence base needed to move it?
+- The Ottawa Charter (1986) said that health promotion requires building healthy public policy, creating supportive environments, strengthening community action, developing personal skills, and reorienting health services. This course has been a map of what each of those commitments requires in practice.
+
+SLIDE 29: [CLOSING] The School Is the Intervention
+TITLE: The School Is the Intervention
+- "Stop asking what programs you can add to the school. Start asking what kind of school would make programs unnecessary."
+- Attribution: (course epigraph)
+- Questions, office hours, and contact: [instructor details here]
+- Final reflection before the exam: look back at Lecture 1. Read your notes from the first class. What has changed in how you see health, health promotion, and the relationship between individuals and the structures that shape their choices? That shift in perspective is what graduate education in health promotion is for.

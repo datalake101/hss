@@ -1,0 +1,24 @@
+# Astro site files (kept local)
+src/
+public/
+dist/
+.astro/
+node_modules/
+package.json
+package-lock.json
+astro.config.mjs
+postcss.config.cjs
+tailwind.config.mjs
+tsconfig.json
+course_list.html
+scan-courses.js
+for/
+markdown/
+posts/
+.vscode/
+
+# System & Cache
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class

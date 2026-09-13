@@ -1,0 +1,230 @@
+SLIDE 1: [COVER] The PRECEDE-PROCEED Model
+TITLE: The PRECEDE-PROCEED Model
+- Course: Health Promotion and Disease Prevention
+- Lecture 4
+- "Begin with the end in mind."
+- Attribution: (course epigraph)
+
+SLIDE 2: [AGENDA] What We Cover Today
+TITLE: What We Cover Today
+- Part 1: What PRECEDE-PROCEED is and where it came from
+- Part 2: The PRECEDE phases, working backward from quality of life to root causes
+- Part 3: The PROCEED phases, moving forward from design through evaluation
+- Part 4: Real-world adaptations and the CDC's PATCH model
+- Part 5: Critiques, limits, and when the model breaks down
+- The thread: this is the course's first full-cycle planning model, the shift from explaining health behavior to systematically designing interventions around it
+
+SLIDE 3: [QUOTE] Outcomes Before Inputs
+TITLE: Outcomes Before Inputs
+Quote: "The purpose of health education is to influence the voluntary actions of people to improve or maintain their health."
+Attribution: Lawrence W. Green, Health Education Planning: A Diagnostic Approach, 1980
+
+SLIDE 4: Origins: Thinking Backward
+- The Problem with Conventional Program Planning: most health promotion programs begin with an intervention someone already has in mind, a workshop, a pamphlet, a screening event, and work forward to justify it. The result is programs designed around what is convenient to deliver rather than what the community actually needs.
+- Lawrence Green's Reversal: starting in the early 1970s at Johns Hopkins University, Green developed a planning model that insists on inverting this logic. Start with the quality-of-life outcome you want to produce. Work backward through every causal layer until you reach the factors that can be changed. Design the intervention only at the end of that process.
+- First Published: Green, Kreuter, Deeds, and Partridge, Health Education Planning: A Diagnostic Approach (1980), Mayfield Publishing. Subsequent editions co-authored with Marshall Kreuter in 1991, 1999, 2005, and 2022 updated the model to incorporate ecological thinking and policy analysis.
+- The Name: PRECEDE stands for Predisposing, Reinforcing, and Enabling Constructs in Educational/Ecological Diagnosis and Evaluation. PROCEED stands for Policy, Regulatory, and Organizational Constructs in Educational and Environmental Development.
+- Exam Focus: know the acronym expansions, the author and approximate origin date, and be able to explain the central design principle of working backward from outcomes.
+
+SLIDE 5: The Architecture of the Model
+- Two Halves, One Logic: PRECEDE is the diagnostic half. PROCEED is the implementation and evaluation half. Together they form a complete planning cycle that begins with quality of life and ends with a measured outcome evaluation.
+- The Mirroring Principle: the assessment phases in PRECEDE run right-to-left conceptually, from the desired end state back to the root causes. The PROCEED phases then run left-to-right, from program design through implementation and three levels of evaluation. The model folds back on itself: evaluation data in PROCEED feeds back into reassessment in PRECEDE.
+- A Diagnostic Model, Not a Prescriptive One: PRECEDE-PROCEED does not tell you which intervention to run. It tells you how to figure out what problem you are actually trying to solve, and what factors are driving it, before you decide what to do about it.
+- The Parable of the Architect: no competent architect begins with a building. They begin with what the building must do for the people who will live and work in it. PRECEDE-PROCEED applies that logic to health promotion. The intervention is the building; the phases tell you what the building must accomplish.
+- Exam Focus: understand the two-phase architecture and the feedback loop between PROCEED evaluation and PRECEDE reassessment.
+
+SLIDE 6: PRECEDE Phase 1: Social Assessment
+- The Question: what does quality of life mean to this specific community? What do people experience as their most pressing problems and aspirations?
+- Why Start Here: if the program designer defines the problem in advance, the intervention will solve the designer's problem, not the community's. Social assessment forces practitioners to begin with the community's own expressed priorities.
+- Methods: participatory community assessment, key informant interviews, focus groups, community surveys, asset mapping, and review of existing social indicators (poverty rates, housing quality, educational attainment, employment data).
+- The Output: a negotiated, community-grounded definition of quality of life and the social conditions that most affect it. This becomes the ultimate outcome the entire program is working toward.
+- Critical Point: social assessment is where community participation is most important and most often shortchanged. Programs that skip it or tokenize it tend to produce interventions that communities do not use, because the intervention answers the wrong question.
+- Exam Focus: know that Phase 1 identifies quality-of-life priorities and that it requires genuine community engagement, not just practitioner assumption.
+
+SLIDE 7: PRECEDE Phase 2: Epidemiological Assessment
+- The Question: what specific health problems are most strongly linked to the quality-of-life issues the community identified? Which health outcomes, if improved, would produce the greatest gains in quality of life for this population?
+- Methods: analysis of mortality and morbidity data, disease registry records, health service utilization data, vital statistics, and existing surveillance data for the target population.
+- The Output: a prioritized list of health problems, ranked by prevalence, severity, and changeability. Not every health problem needs a health promotion intervention. Epidemiological assessment identifies which ones do.
+- Genetic and Behavioral Factors: the updated model identifies the contributions of genetic endowment (not changeable by health promotion), and behavioral and environmental factors (the primary targets for intervention).
+- The Discipline: if a community identifies "feeling unsafe" as their top quality-of-life concern, and epidemiological assessment reveals high rates of anxiety disorders and interpersonal violence, the program must address those outcomes, not substitute a more convenient health topic.
+- Exam Focus: know that Phase 2 links community-identified quality-of-life priorities to specific health outcomes using epidemiological data.
+
+SLIDE 8: PRECEDE Phase 3: Educational and Ecological Assessment
+- The Question: what behavioral and environmental factors most directly cause the health problems identified in Phase 2? And what are the educational and ecological determinants of those factors?
+- Three Categories of Determinants:
+- Predisposing Factors: the internal cognitive and affective antecedents of behavior. Knowledge, attitudes, beliefs, values, perceived self-efficacy. These are the factors the Health Belief Model and social cognitive theory operate in. They motivate behavior from within.
+- Enabling Factors: the environmental and skill-based conditions that make behavior possible. Access to services, transportation, income, physical environment, the presence of resources, policy frameworks. A person may be motivated but structurally unable to act. Enabling factors determine whether motivation can translate into action.
+- Reinforcing Factors: the rewards, punishments, feedback, and social support that follow behavior and determine whether it is sustained or abandoned. Peer norms, family responses, provider feedback, social incentives.
+- The Output: a diagnostic map identifying which factors in each category are most important in causing the health problem in this specific population.
+- Exam Focus: know the three categories (predisposing, reinforcing, enabling), be able to define each, and give an applied example for a specific health behavior.
+
+SLIDE 9: PRECEDE Phase 4: Administrative and Policy Assessment
+- The Question: what organizational and policy capacities, resources, and constraints will shape what interventions are actually feasible in this setting?
+- Resource Assessment: what staff, budget, time, infrastructure, and partnerships are realistically available? An evidence-based program that requires resources the organization does not have is not a plan; it is a wish.
+- Policy Alignment: are there existing regulations, organizational policies, or funding structures that support or constrain the planned intervention? A school-based nutrition program needs the school board's policy framework. A workplace wellness initiative needs management buy-in.
+- Barriers and Facilitators: what organizational cultures, professional tensions, or political dynamics will affect implementation? Phase 4 is where implementation science meets program planning.
+- The Output: a realistic assessment of what can be delivered with what resources in what timeframe, and what enabling policy or organizational conditions must be created before program delivery begins.
+- Critical Insight: many evidence-based programs fail not because the evidence is wrong, but because Phase 4 was skipped and the implementation environment was never assessed or prepared.
+
+SLIDE 10: [PUZZLE] Food for Thought
+TITLE: Food for Thought
+Before we move to PROCEED:
+- PRECEDE-PROCEED insists you diagnose the social and epidemiological problem rigorously before touching an intervention. In an actual disease outbreak, when people are sick and dying now, is that diagnostic discipline a genuine strength, or a luxury that the urgency of the situation makes unaffordable?
+- Phase 1 says quality-of-life goals should be defined by the community. But what happens when the community's expressed quality-of-life priority is something the health practitioner does not recognize as a health issue, or disagrees with? Who wins that negotiation, and should they?
+- Can an eight-phase model built for multi-year program cycles survive contact with a health department running on a twelve-month grant cycle and a reporting requirement that asks for outcomes before the intervention is fully implemented?
+
+SLIDE 11: PROCEED Phase 5: Implementation
+- The Turn: after four phases of diagnosis, Phase 5 is where the intervention actually begins. But PROCEED frames implementation not as a free-standing event but as the execution of a plan whose design was entirely determined by the preceding diagnosis.
+- What Changes at This Phase: a fully developed PRECEDE assessment means the implementation team knows exactly which predisposing, reinforcing, and enabling factors they are targeting, which populations they are targeting, what evidence base supports each component, and what evaluation framework will measure success.
+- Implementation Fidelity: one of the most consistent findings in health promotion research is the gap between what a program looks like in its design and what it looks like after six months of real-world delivery. Phase 5 requires active monitoring of fidelity alongside delivery.
+- Adaptation vs. Drift: some adaptation to local context is both inevitable and appropriate. Unplanned drift away from evidence-based components, on the other hand, typically reduces effectiveness. The distinction matters.
+- Exam Focus: know that Phase 5 is implementation and that the quality of implementation is inseparable from the quality of the diagnostic phases that preceded it.
+
+SLIDE 12: PROCEED Phases 6-8: A Three-Level Evaluation Framework
+- Phase 6, Process Evaluation: was the program delivered as planned? Did participants show up, engage, and receive the intended dose? Process evaluation documents implementation fidelity, reach, and participant engagement. It tells you whether you ran the program you designed.
+- Phase 7, Impact Evaluation: did the program change the intermediate targets identified in PRECEDE? Specifically: did predisposing factors (knowledge, attitudes, beliefs) change? Did enabling factors (access, skills) improve? Did reinforcing factors (social norms, peer support) shift? Impact evaluation measures the causal pathways between the intervention and the health outcome.
+- Phase 8, Outcome Evaluation: did the program change the health outcomes and quality-of-life indicators identified in Phases 1 and 2? This is the ultimate test. Outcome evaluation requires the longest follow-up period and the most rigorous design (ideally a control or comparison condition).
+- The Critical Insight: most health promotion programs that claim to show "outcomes" are actually showing "impacts," changes in knowledge, attitudes, or short-term behavior rather than demonstrated changes in health status or quality of life. The three-level framework makes this distinction explicit.
+- Exam Focus: be able to distinguish process, impact, and outcome evaluation, and explain why conflating them produces misleading conclusions about program effectiveness.
+
+SLIDE 13: The Feedback Loop: How PROCEED Informs PRECEDE
+- The Model Is Circular, Not Linear: evaluation data generated in PROCEED feeds back into reassessment in PRECEDE. If outcome evaluation shows the health problem has not changed, the data re-enters the diagnostic cycle to ask why.
+- If Process Evaluation Reveals Poor Fidelity: the question returns to Phase 4, was the administrative and policy environment adequately prepared to support implementation?
+- If Impact Evaluation Shows No Change in Predisposing Factors: the question returns to Phase 3, was the educational diagnosis correct? Were the right predisposing factors targeted?
+- If Outcome Evaluation Shows No Health Change Despite Behavioral Change: the question returns to Phase 2, was the behavioral factor that changed actually causally linked to the health outcome?
+- This Iterative Logic is What Separates PRECEDE-PROCEED from Simple Program Planning: it is designed to learn from failure systematically rather than treating evaluation as a compliance activity.
+
+SLIDE 14: Real-World Application: CDC PATCH
+- PATCH: the Planned Approach to Community Health, developed by the US Centers for Disease Control and Prevention in the mid-1980s as a simplified, community-applicable adaptation of Green's PRECEDE-PROCEED framework for state and local health departments.
+- The Core Adaptation: PATCH maintained the central principle of community-grounded diagnosis and multi-level planning while translating the academic model into a practical guide accessible to health department staff without graduate training in health promotion theory.
+- Structure: PATCH organized community mobilization, data collection, priority-setting, intervention design, and evaluation into a manageable process for communities with limited technical capacity and short planning timelines.
+- The Lesson: even a sophisticated multi-phase diagnostic model can be productively adapted for real-world contexts without abandoning its core logic. The adaptation trade-off is speed and simplicity versus diagnostic depth.
+- Critical Observation: PATCH and similar simplified adaptations tend to produce faster program delivery at the cost of the thorough Phase 1-4 assessment that makes PRECEDE-PROCEED's downstream evaluation meaningful.
+
+SLIDE 15: PRECEDE-PROCEED in Practice: A Tobacco Control Example
+- Phase 1, Social Assessment: a rural county identifies early death, chronic illness, and lost economic productivity as its top quality-of-life concerns. Community interviews emphasize fear of dying young like their parents.
+- Phase 2, Epidemiological Assessment: analysis of county health records shows lung cancer mortality is 1.4 times the national average; smoking prevalence among adults 25-54 is 34% vs. a national rate of 14%.
+- Phase 3, Educational and Ecological Assessment: predisposing factors include low perceived susceptibility among young adult smokers, weak belief in cessation medication efficacy, and fatalistic attitudes about addiction. Enabling factors: no cessation clinics within 45 km, no covered pharmacotherapy. Reinforcing factors: high smoking prevalence in workplaces and social circles; no social norm of cessation.
+- Phase 4, Administrative Assessment: county health department has two staff, a twelve-month grant, and a relationship with two local employers and the school board. No pharmacotherapy budget.
+- PROCEED Design: a multi-component intervention targeting all three factor types (educational workshops for predisposing factors, pharmacotherapy vouchers and telehealth cessation coaching for enabling factors, employer policy change for reinforcing factors) with a twelve-month process, impact, and eighteen-month outcome evaluation plan built in from the start.
+- Exam Focus: be able to walk through a realistic health problem across all four PRECEDE phases and name what factor type each identified variable belongs to.
+
+SLIDE 16: [CHART] The PRECEDE-PROCEED Flow Diagram
+TITLE: The PRECEDE-PROCEED Flow Diagram
+Chart type: mirrored horizontal flow diagram
+Left-to-right progression of boxes:
+
+PRECEDE (diagnostic, read right-to-left conceptually):
+- Box A: Quality of Life (Phase 1, Social Assessment)
+- Box B: Health Status and Health Problems (Phase 2, Epidemiological Assessment)
+- Box C: Behavioral and Environmental Factors (Phase 3, Educational/Ecological Assessment): subdivided into Predisposing Factors (top), Enabling Factors (middle), Reinforcing Factors (bottom)
+- Box D: Administrative and Policy Factors (Phase 4)
+- Arrow pointing left from B to A; left from C to B; left from D to C
+- Label above the PRECEDE arrows: "Diagnosis: working backward from outcomes"
+
+PROCEED (implementation and evaluation, read left-to-right):
+- Box E: Program Implementation (Phase 5)
+- Box F: Process Evaluation (Phase 6)
+- Box G: Impact Evaluation (Phase 7)
+- Box H: Outcome Evaluation (Phase 8)
+- Arrows pointing right from E through F through G to H
+- Label above the PROCEED arrows: "Implementation and Evaluation: working forward"
+
+Feedback arrow: a curved arrow from Box H (Outcome Evaluation) looping back left to Box A (Quality of Life), labeled "Feedback informs reassessment"
+
+Source: Green and Kreuter, Health Program Planning (various editions). Illustrative.
+
+SLIDE 17: [ABSTRACT] Kim et al. (2022): PRECEDE-PROCEED Systematic Review
+TITLE: Kim et al. (2022): PRECEDE-PROCEED Systematic Review
+Citation: Kim, J., Jang, J., Kim, B., and Lee, K.H. (2022). Effect of the PRECEDE-PROCEED model on health programs: a systematic review and meta-analysis. Systematic Reviews, 11, 213.
+Finding: Kim and colleagues conducted a systematic review of 26 intervention studies that applied the PRECEDE-PROCEED model across diverse health domains, including chronic disease management, cancer prevention, and behavioral health. The meta-analysis, which focused on knowledge as the primary measurable outcome, found that interventions using the model consistently improved health knowledge compared to control conditions, though the authors noted significant variability in how rigorously the full diagnostic framework had been applied across studies. Programs that engaged more completely with the multi-phase assessment tended to show stronger and more sustained effects.
+Relevance: This review provides the first systematic quantitative synthesis of PRECEDE-PROCEED's effectiveness across programs, and its finding that partial application of the model produces weaker results directly validates the model's insistence on completing the full diagnostic cycle rather than cherry-picking its components.
+[Insert screenshot of the abstract here]
+
+SLIDE 18: Critical Flaw: When the Model Runs Into Reality
+- Resource Intensity: completing all four PRECEDE phases properly requires substantial time (typically 12-24 months before implementation begins), significant community engagement infrastructure, and epidemiological data that many under-resourced health departments do not have.
+- The Grant Cycle Problem: most health promotion funding arrives on 12-month grant cycles with reporting requirements that ask for measurable outcomes before a rigorous PRECEDE-PROCEED process could possibly have reached implementation. The model was designed for the kind of program planning that the funding environment rarely permits.
+- Crisis Incompatibility: in a disease outbreak, a natural disaster, or an acute community health emergency, the discipline of beginning with social assessment is not a strength. It is a design feature that is actively counterproductive when speed of response is the primary variable.
+- Partial Application: because the full model is demanding, many practitioners apply only the educational/ecological assessment phase (Phase 3) and skip the social and epidemiological diagnosis. This produces programs that target predisposing, reinforcing, and enabling factors without having rigorously established which health outcome they are targeting or whether those factors actually drive it.
+- Critical Flaw Exam Line: PRECEDE-PROCEED's greatest strength, its insistence on comprehensive diagnosis before intervention design, is also its primary limitation in fast-moving, resource-constrained real-world settings.
+
+SLIDE 19: [PUZZLE] Puzzling Questions
+TITLE: Puzzling Questions
+Harder questions:
+- If the same eight-phase model can plan a smoking cessation campaign, a maternal health program, and a vaccination initiative with equal methodological rigor, does "rigor" mean the model is genuinely versatile, or does it mean the model is too generic to give meaningful guidance in any specific case?
+- Who gets a seat at the table during Phase 1's social assessment? Community leaders are not the same as community members. Organized community groups are not the same as the most marginalized people in the community. Whose quality-of-life goals quietly get left out of the negotiation, and what structural forces determine that?
+- PROCEED's three-level evaluation framework distinguishes process, impact, and outcome. But most funders only ask for outcomes, and most timelines are too short to measure them. Does that mean most health promotion programs are structurally unable to know whether they worked?
+- If a PRECEDE-PROCEED assessment honestly concludes that the most powerful lever for the identified health problem is a policy change the health department has no authority to make, what is the practitioner's obligation?
+
+SLIDE 20: Comparing the Three Frameworks So Far
+- Health Belief Model (Lecture 3): explains why an individual does or does not perceive sufficient reason to take a health action. Unit of analysis: the individual's belief system. Best use: diagnosing which cognitive barrier to target in a communication campaign.
+- Social Ecological Model (Lecture 3): maps the nested levels of influence (intrapersonal through policy) that shape health behavior. Unit of analysis: the individual embedded in a system. Best use: designing multi-level interventions and identifying leverage points across levels.
+- PRECEDE-PROCEED (this lecture): a systematic planning process that moves from quality-of-life diagnosis through epidemiological and behavioral assessment to program design and evaluation. Unit of analysis: the full program planning cycle. Best use: designing, implementing, and evaluating a complete health promotion program with a built-in evaluation framework.
+- The Relationship: HBM informs what Phase 3 looks for in predisposing factors. SEM provides the ecological framework that Phase 3 uses to categorize enabling and environmental factors. PRECEDE-PROCEED is the planning architecture that decides when, where, and how to apply both.
+- Exam Focus: be able to explain how these three frameworks relate to and complement each other, not just define each one independently.
+
+SLIDE 21: Synthesis: Why This Model Matters
+- The Core Contribution: PRECEDE-PROCEED changed health promotion program planning from an intuitive art practiced by well-meaning individuals into a disciplined, evidence-anchored, community-grounded diagnostic process.
+- The Accountability It Creates: by insisting on a quality-of-life outcome defined by the community and measured in outcome evaluation, the model makes program designers accountable to something other than their own intentions. The question is not "did we run a good program?" but "did quality of life improve for the people we were trying to reach?"
+- The Tension It Names: the model acknowledges, through the administrative and policy assessment phase, that what is evidence-based and what is organizationally feasible are not the same thing. That tension is not a failure of the model; it is a feature. Health promotion practitioners live in that tension.
+- The Humility It Requires: a practitioner who completes all four PRECEDE phases may conclude that the most important determinant of the health problem is a factor they cannot change: poverty, housing insecurity, structural racism. The model does not resolve that; it exposes it, and that is its most important function.
+
+SLIDE 22: Glossary
+- PRECEDE: Predisposing, Reinforcing, and Enabling Constructs in Educational/Ecological Diagnosis and Evaluation. The diagnostic half of the model.
+- PROCEED: Policy, Regulatory, and Organizational Constructs in Educational and Environmental Development. The implementation and evaluation half.
+- Predisposing Factors: internal cognitive and affective antecedents of behavior: knowledge, attitudes, beliefs, values, self-efficacy.
+- Enabling Factors: environmental and skill-based conditions that make behavior possible: access, resources, policies, physical environment, income.
+- Reinforcing Factors: rewards, social support, feedback, and normative influences that follow behavior and sustain or extinguish it.
+- Process Evaluation: assessment of whether the program was delivered as planned (fidelity, reach, dose).
+- Impact Evaluation: assessment of whether the program changed the intermediate determinants (predisposing, enabling, reinforcing factors) it was designed to address.
+- Outcome Evaluation: assessment of whether the program changed the health outcomes and quality-of-life indicators identified in the diagnostic phases.
+- PATCH: Planned Approach to Community Health, a CDC-developed simplified adaptation of PRECEDE-PROCEED for state and local health departments.
+
+SLIDE 23: Implications for Practice
+- Before You Design Any Program: complete the social and epidemiological assessment first. If you cannot get community-defined quality-of-life priorities, you are probably designing a program for yourself, not for the community.
+- Phase 3 Is Not the Whole Model: many practitioners who claim to "use PRECEDE-PROCEED" are only applying Phase 3. That is like using only the framing and skipping the foundation, walls, and roof of the architect's building.
+- Build Evaluation In at the Start: the three-level evaluation framework should be designed before the intervention is delivered, not added as a reporting requirement after. The factors you plan to change in Phase 3 should be the variables you measure in Phase 7's impact evaluation.
+- Know Your Limits: if the diagnostic process reveals that the primary driver of the health problem is a structural factor the health department cannot address (income inequality, housing, racism), the practitioner has two choices: advocate for systemic change (which PRECEDE-PROCEED supports) or be honest about the ceiling on what a program-level intervention can accomplish.
+
+SLIDE 24: What to Carry Into the Break
+- Lecture 5 is reading week. Use the time productively: begin your Needs Assessment for the Part 1 report.
+- Apply at least Phase 1 and Phase 2 of PRECEDE-PROCEED to your chosen community and health problem. What does quality of life mean to that community? What health data do you need to gather?
+- When we return in Lecture 6, we shift from program planning frameworks to a temporal lens: the Life Course Approach asks not just what the determinants of a health problem are, but when in the human lifespan those determinants first exert their influence, and when intervention produces the greatest return.
+- Preview question: if cardiovascular disease risk at age 55 is partly determined by birth weight and early childhood nutrition, what are the implications for where health promotion resources should be directed?
+
+SLIDE 25: [READING] Further Reading, Part 1
+TITLE: Further Reading, Part 1
+- Green, L.W., and Kreuter, M.W. (2005): Health Program Planning: An Educational and Ecological Approach (4th ed.). McGraw-Hill. The definitive textbook statement of the model. Note: this is a book, not a journal article, and is the primary source for exam purposes.
+- Kim, J., Jang, J., Kim, B., and Lee, K.H. (2022): Effect of the PRECEDE-PROCEED model on health programs: a systematic review and meta-analysis. Systematic Reviews, 11, 213. The most recent systematic synthesis of the model's effectiveness across diverse program contexts.
+- Crosby, R., and Noar, S.M. (2011): What is a planning model? An introduction to PRECEDE-PROCEED. Journal of Public Health Dentistry, 71(Suppl 1), S7-S15. An accessible conceptual introduction to the model's planning logic, useful as a secondary reading before the textbook.
+- Green, L.W. (1974): Toward cost-benefit evaluations of health education: some concepts, methods, and examples. Health Education Monographs, 2(Suppl 2), 34-64. An early Green paper that foreshadows the diagnostic and evaluative logic of PRECEDE-PROCEED, historically important for understanding the model's intellectual development.
+
+SLIDE 26: [READING] Further Reading, Part 2
+TITLE: Further Reading, Part 2
+- Saulle, R., Sinopoli, A., De Paula Baer, A.D.P., Mannocci, A., Marino, M., and De Belvis, A.G. (2020): The PRECEDE-PROCEED model as a tool in public health screening: a systematic review. Clinica Terapeutica, 171, e167-e177. Reviews the model's application specifically in screening and early detection contexts, usefully distinct from its more common application to behavioral health programs.
+- Bartholomew, L.K., Parcel, G.S., and Kok, G. (1998): Intervention mapping: a process for developing theory- and evidence-based health education programs. Health Education and Behavior, 25(5), 545-563. Intervention mapping builds directly on PRECEDE-PROCEED and extends its planning logic into a more operationalized step-by-step process. Essential companion reading.
+- Gielen, A.C., McDonald, E.M., Gary, T.L., and Bone, L.R. (2008): Using the PRECEDE-PROCEED model to apply health behavior theories. In Glanz, K., Rimer, B.K., and Viswanath, K. (Eds.), Health Behavior and Health Education (4th ed.), pp. 407-433. Jossey-Bass. The most practical account of how to integrate HBM and SEM constructs into a PRECEDE-PROCEED assessment. Note: book chapter.
+- Kreuter, M.W. (1992): PATCH: its origin, basic concepts, and links to contemporary public health policy. Journal of Health Education, 23(3), 135-139. The primary description of how PRECEDE-PROCEED was adapted into the CDC PATCH model for real-world community health department use.
+
+SLIDE 27: [CLASSWORK] Teen Vaping: A PRECEDE-PROCEED Assessment
+TITLE: Teen Vaping: A PRECEDE-PROCEED Assessment
+Scenario: A rural county health department has received a two-year grant to address rising teen vaping rates. Current data show that 28% of Grade 9-11 students report vaping at least once in the past 30 days, compared to a provincial rate of 16%. The health department has two program staff, a relationship with the local school board, and no existing youth health program infrastructure.
+Your Task, Draft Phases 1-3 of a PRECEDE Assessment:
+- Phase 1, Social Assessment: what quality-of-life goals would you expect the community (youth, parents, teachers, school administrators) to articulate? How would you find out? What assumptions are you at risk of making?
+- Phase 2, Epidemiological Assessment: what specific health outcomes would you want to link to teen vaping in this county? What data would you need, and where would you get it?
+- Phase 3, Educational and Ecological Assessment: identify at least two predisposing factors, two enabling factors, and two reinforcing factors likely to be driving vaping behavior in this population. For each factor, name whether it is a behavioral determinant or an environmental one.
+Bonus: given what the Phase 4 administrative assessment reveals (two staff, twelve-month first year), which factor type (predisposing, enabling, or reinforcing) is the most realistic first target, and what does that choice sacrifice?
+
+SLIDE 28: [TEASER] After the Break: Health Across a Lifetime
+TITLE: After the Break: Health Across a Lifetime
+- Lecture 5 is reading week. No class. Use it to begin your Needs Assessment.
+- When we return, Lecture 6 introduces the Life Course Approach to health promotion: the argument that the most important influences on adult health were often set in motion decades before any adult health promotion program could reach them.
+- The critical periods model, the accumulation of risk model, and David Barker's developmental origins hypothesis will all ask a challenging question: if adult cardiovascular disease risk is partly set in utero, what are the implications for where health promotion resources should go?
+- Preview: the most cost-effective moment to intervene may have already passed by the time the patient is sitting in front of you. What do you do with that?
+
+SLIDE 29: [CLOSING] Design for the Outcome, Not for the Intervention
+TITLE: Design for the Outcome, Not for the Intervention
+- "The most common mistake in health program planning is beginning with an answer and working backward to justify it. PRECEDE-PROCEED demands the opposite."
+- Attribution: (course epigraph)
+- Questions, office hours, and contact: [instructor details here]
+- During reading week: begin Phase 1 of your Needs Assessment. Draft your community's quality-of-life statement. Come to Lecture 6 with at least one piece of local epidemiological data about your chosen health problem.
